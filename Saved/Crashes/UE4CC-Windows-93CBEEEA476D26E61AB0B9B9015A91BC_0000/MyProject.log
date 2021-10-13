@@ -1,0 +1,612 @@
+﻿Log file open, 06/12/21 18:28:17
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MyProject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.362455
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.086s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4233996
+LogInit: Engine Version: 4.20.1-4233996+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Jul 26 2018 10:07:30
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.008s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2021.06.12-15.28.17:638][  0]LogInit: Selected Device Profile: [Windows]
+[2021.06.12-15.28.17:638][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.06.12-15.28.17:646][  0]LogHAL: Display: Platform has ~ 16 GB [17120292864 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.06.12-15.28.17:646][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2021.06.12-15.28.17:646][  0]LogInit: Going up to parent DeviceProfile []
+[2021.06.12-15.28.17:647][  0]LogInit: Computer: DESKTOP-KTCUO5G
+[2021.06.12-15.28.17:647][  0]LogInit: User: vovab
+[2021.06.12-15.28.17:647][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.06.12-15.28.17:647][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.06.12-15.28.17:647][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.06.12-15.28.17:647][  0]LogMemory: Platform Memory Stats for Windows
+[2021.06.12-15.28.17:647][  0]LogMemory: Process Physical Memory: 104.35 MB used, 104.35 MB peak
+[2021.06.12-15.28.17:647][  0]LogMemory: Process Virtual Memory: 102.95 MB used, 102.95 MB peak
+[2021.06.12-15.28.17:647][  0]LogMemory: Physical Memory: 5485.90 MB used,  10841.29 MB free, 16327.18 MB total
+[2021.06.12-15.28.17:647][  0]LogMemory: Virtual Memory: 4641.09 MB used,  10841.29 MB free, 134217728.00 MB total
+[2021.06.12-15.28.17:674][  0]LogInit: Using OS detected language (ru-RU).
+[2021.06.12-15.28.17:674][  0]LogInit: Using OS detected locale (ru-UA).
+[2021.06.12-15.28.17:675][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2021.06.12-15.28.17:676][  0]LogStreaming: Display: Took  0.002s to InitEngineTextLocalization.
+[2021.06.12-15.28.17:676][  0]LogInit: Setting process to per monitor DPI aware
+[2021.06.12-15.28.17:697][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.06.12-15.28.17:697][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.06.12-15.28.17:874][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.06.12-15.28.17:874][  0]LogD3D11RHI: D3D11 adapters:
+[2021.06.12-15.28.17:965][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2021.06.12-15.28.17:965][  0]LogD3D11RHI:       8079/0/8163 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.06.12-15.28.17:966][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.06.12-15.28.17:966][  0]LogD3D11RHI:       0/0/8163 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.06.12-15.28.17:966][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.06.12-15.28.17:970][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.06.12-15.28.17:970][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2021.06.12-15.28.17:970][  0]LogWindows: EnumDisplayDevices:
+[2021.06.12-15.28.17:970][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2021.06.12-15.28.17:970][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2021.06.12-15.28.17:971][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2021.06.12-15.28.17:971][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2021.06.12-15.28.17:971][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.06.12-15.28.17:971][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2021.06.12-15.28.17:971][  0]LogD3D11RHI:   Driver Version: 461.40 (internal:27.21.14.6140, unified:461.40)
+[2021.06.12-15.28.17:971][  0]LogD3D11RHI:      Driver Date: 1-22-2021
+[2021.06.12-15.28.17:971][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2021.06.12-15.28.18:044][  0]LogD3D11RHI: Async texture creation enabled
+[2021.06.12-15.28.18:067][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.06.12-15.28.18:069][  0]LogShaderCompilers: Guid format shader working directory is -5 characters bigger than the processId version (D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Intermediate/Shaders/WorkingDirectory/10244/).
+[2021.06.12-15.28.18:069][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/vovab/AppData/Local/Temp/UnrealShaderWorkingDir/718205CD49160B9E3080A0827B863C49/'.
+[2021.06.12-15.28.18:277][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2021.06.12-15.28.18:288][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2021.06.12-15.28.18:299][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2021.06.12-15.28.18:310][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2021.06.12-15.28.18:321][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2021.06.12-15.28.18:332][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2021.06.12-15.28.18:343][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2021.06.12-15.28.18:354][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2021.06.12-15.28.18:360][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2021.06.12-15.28.18:424][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.06.12-15.28.18:424][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.06.12-15.28.18:425][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.06.12-15.28.18:425][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.06.12-15.28.18:425][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.06.12-15.28.18:425][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.06.12-15.28.18:425][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.06.12-15.28.18:425][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.06.12-15.28.18:425][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.06.12-15.28.18:425][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.06.12-15.28.18:425][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.06.12-15.28.18:425][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.06.12-15.28.18:425][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.06.12-15.28.18:425][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.06.12-15.28.18:425][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.06.12-15.28.18:425][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.06.12-15.28.18:425][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.06.12-15.28.18:425][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.06.12-15.28.18:426][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2021.06.12-15.28.18:481][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2021.06.12-15.28.18:481][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2021.06.12-15.28.18:500][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2021.06.12-15.28.18:500][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2021.06.12-15.28.18:510][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2021.06.12-15.28.18:519][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2021.06.12-15.28.18:529][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2021.06.12-15.28.18:539][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2021.06.12-15.28.18:546][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2021.06.12-15.28.18:546][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.06.12-15.28.18:589][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.06.12-15.28.18:589][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.06.12-15.28.18:589][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.06.12-15.28.19:225][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.06.12-15.28.19:264][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/vovab/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2021.06.12-15.28.19:264][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/vovab/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2021.06.12-15.28.19:264][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.06.12-15.28.19:264][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.06.12-15.28.19:264][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.06.12-15.28.19:265][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.06.12-15.28.19:276][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.06.12-15.28.19:289][  0]LogDerivedDataCache: Using Local data cache path C:/Users/vovab/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.06.12-15.28.19:289][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.06.12-15.28.19:289][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.06.12-15.28.19:302][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2021.06.12-15.28.19:303][  0]LogSlate: Using FreeType 2.6.0
+[2021.06.12-15.28.19:304][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.06.12-15.28.19:364][  0]LogAssetRegistry: FAssetRegistry took 0.0257 seconds to start up
+[2021.06.12-15.28.19:592][  0]LogInit: Selected Device Profile: [Windows]
+[2021.06.12-15.28.19:715][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2021.06.12-15.28.19:717][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2021.06.12-15.28.19:717][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.06.12-15.28.19:717][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.06.12-15.28.19:717][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2021.06.12-15.28.19:729][  0]LogNetVersion: MyProject 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1110078900)
+[2021.06.12-15.28.20:098][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.063504 seconds
+[2021.06.12-15.28.20:103][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2021.06.12-15.28.20:103][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2021.06.12-15.28.20:103][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.06.12-15.28.20:795][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.06.12-15.28.20:808][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.06.12-15.28.20:924][  0]SourceControl: Source control is disabled
+[2021.06.12-15.28.20:924][  0]SourceControl: Source control is disabled
+[2021.06.12-15.28.20:925][  0]SourceControl: Source control is disabled
+[2021.06.12-15.28.20:925][  0]SourceControl: Source control is disabled
+[2021.06.12-15.28.21:065][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.06.12-15.28.21:115][  0]LogOcInput: OculusInput pre-init called
+[2021.06.12-15.28.21:162][  0]LogEngine: Initializing Engine...
+[2021.06.12-15.28.21:162][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.06.12-15.28.21:164][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2021.06.12-15.28.21:164][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2021.06.12-15.28.21:164][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2021.06.12-15.28.21:164][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2021.06.12-15.28.21:312][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.06.12-15.28.21:321][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.06.12-15.28.21:341][  0]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.06.12-15.28.21:373][  0]LogInit: FAudioDevice initialized.
+[2021.06.12-15.28.21:373][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.06.12-15.28.21:437][  0]LogDerivedDataCache: Saved boot cache 0.06s 71MB C:/Users/vovab/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2021.06.12-15.28.21:440][  0]LogInit: Texture streaming: Enabled
+[2021.06.12-15.28.21:452][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.06.12-15.28.21:461][  0]LogInit: Transaction tracking system initialized
+[2021.06.12-15.28.21:476][  0]BlueprintLog: New page: Editor Load
+[2021.06.12-15.28.21:529][  0]LocalizationService: Localization service is disabled
+[2021.06.12-15.28.21:574][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/FirstPersonOverview'
+[2021.06.12-15.28.21:574][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/FirstPersonOverview'
+[2021.06.12-15.28.21:574][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C'
+[2021.06.12-15.28.21:725][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.06.12-15.28.21:725][  0]LogCook: Display: Mobile HDR setting 1
+[2021.06.12-15.28.21:725][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2021.06.12-15.28.21:725][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2021.06.12-15.28.21:725][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2021.06.12-15.28.21:725][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2021.06.12-15.28.21:725][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2021.06.12-15.28.21:807][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/' took 0.01s
+[2021.06.12-15.28.21:807][  0]SourceControl: Source control is disabled
+[2021.06.12-15.28.21:807][  0]Cmd: MAP LOAD FILE="D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/мар/Level_04/level_04.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.12-15.28.21:807][  0]LightingResults: New page: Lighting Build
+[2021.06.12-15.28.21:809][  0]MapCheck: New page: Map Check
+[2021.06.12-15.28.21:809][  0]LightingResults: New page: Lighting Build
+[2021.06.12-15.28.23:462][  0]LogAIModule: Creating AISystem for world level_04
+[2021.06.12-15.28.23:483][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.12-15.28.23:504][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.12-15.28.23:575][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 71,766ms to complete.
+[2021.06.12-15.28.23:575][  0]LogFileHelpers: Loading map 'level_04' took 1.768
+[2021.06.12-15.28.23:698][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.12-15.28.23:705][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.12-15.28.23:710][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.12-15.28.23:715][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.12-15.28.23:734][  0]LogCollectionManager: Loaded 0 collections in 0.001190 seconds
+[2021.06.12-15.28.23:793][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/Collections/' took 0.01s
+[2021.06.12-15.28.23:793][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/Developers/vovab/Collections/' took 0.01s
+[2021.06.12-15.28.23:793][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/Collections/' took 0.01s
+[2021.06.12-15.28.23:793][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2021.06.12-15.28.23:802][  0]LogContentBrowser: Native class hierarchy populated in 0.0088 seconds. Added 2572 classes and 603 folders.
+[2021.06.12-15.28.23:819][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.06.12-15.28.24:165][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.06.12-15.28.24:183][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2021.06.12-15.28.24:378][  0]LogSlate: Took 0.000197 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.06.12-15.28.24:384][  0]LogSlate: Took 0.000143 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.06.12-15.28.24:395][  0]LogSlate: Took 0.005584 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.06.12-15.28.24:404][  0]LogSlate: Took 0.006827 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.06.12-15.28.24:504][  0]LogRenderer: Reallocating scene render targets to support 1252x568 Format 10 NumSamples 1 (Frame:1).
+[2021.06.12-15.28.24:620][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.06.12-15.28.24:620][  0]LogLoad: (Engine Initialization) Total time: 8.58 seconds
+[2021.06.12-15.28.24:620][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.06.12-15.28.24:652][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2021.06.12-15.28.24:690][  0]LogSlate: Took 0.006566 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.06.12-15.28.24:734][  1]LogAssetRegistry: Asset discovery search completed in 5.3924 seconds
+[2021.06.12-15.28.24:736][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2021.06.12-15.28.24:736][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000149 seconds (updated 0 objects)
+[2021.06.12-15.28.27:367][312]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.06.12-15.28.29:223][534]Cmd: t.MaxFPS 60
+[2021.06.12-15.28.29:223][534]t.MaxFPS = "60"
+[2021.06.12-15.28.30:272][597]Cmd: STAT FPS
+[2021.06.12-15.28.48:809][612]LogSlate: Took 0.000128 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.06.12-15.28.48:817][612]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\vovab\Pictures\for_ue4_texture\tree_01.jpg)
+[2021.06.12-15.28.48:826][612]LogTexture: Display: Building textures: tree_01 (BGRA8, 626X442)
+[2021.06.12-15.28.52:420][695]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/spraites/texture/tree_01.tree_01
+[2021.06.12-15.28.52:431][695]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2021.06.12-15.29.05:752][304]LogTexture: Display: Building textures: tree_01 (BGRA8, 626X442)
+[2021.06.12-15.29.09:176][508]LogTexture: Display: Building textures: tree_01 (BGRA8, 626X442)
+[2021.06.12-15.29.21:818][266]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.06.12-15.29.21:885][270]LogSlate: Window 'Color Picker' being destroyed
+[2021.06.12-15.29.24:400][421]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.06.12-15.29.24:500][427]LogSlate: Window 'tree_01*' being destroyed
+[2021.06.12-15.29.24:505][427]LogSlate: Window 'tree_01*' being destroyed
+[2021.06.12-15.29.35:252][ 70]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/spraites/texture/tree_01.tree_01
+[2021.06.12-15.29.52:106][ 69]LogSlate: Window 'tree_01*' being destroyed
+[2021.06.12-15.29.52:109][ 69]LogSlate: Window 'tree_01*' being destroyed
+[2021.06.12-15.29.56:789][233]LogSlate: Window 'Delete Assets' being destroyed
+[2021.06.12-15.30.54:264][676]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/game_settings_graphic.game_settings_graphic
+[2021.06.12-15.30.54:758][676]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2021.06.12-15.30.55:456][676]LogSlate: Took 0.005583 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.06.12-15.32.09:518][802]LogSlate: Took 0.038619 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.06.12-15.32.15:373][153]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UI/heal_unit.heal_unit:WidgetTree.VerticalBox_0 or VerticalBox /Game/UI/dialog_ok_cancel.dialog_ok_cancel:WidgetTree.VerticalBox_0
+[2021.06.12-15.32.15:374][153]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UI/heal_unit.heal_unit:WidgetTree.VerticalBox_0 or VerticalBox /Game/UI/game_menu.game_menu:WidgetTree.VerticalBox_0
+[2021.06.12-15.32.15:374][153]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UI/heal_unit.heal_unit:WidgetTree.VerticalBox_0 or VerticalBox /Game/UI/game_settings_graphic.game_settings_graphic:WidgetTree.VerticalBox_0
+[2021.06.12-15.32.15:374][153]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UI/heal_unit.heal_unit:WidgetTree.VerticalBox_0 or VerticalBox /Game/UI/game_setting_sound.game_setting_sound:WidgetTree.VerticalBox_0
+[2021.06.12-15.32.15:374][153]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UI/heal_unit.heal_unit:WidgetTree.VerticalBox_0 or VerticalBox /Game/UI/dialog_result_keyboard.dialog_result_keyboard:WidgetTree.VerticalBox_0
+[2021.06.12-15.32.15:375][153]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UI/heal_unit.heal_unit:WidgetTree.VerticalBox_0 or VerticalBox /Game/UI/game_settings.game_settings:WidgetTree.VerticalBox_0
+[2021.06.12-15.32.15:375][153]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UI/heal_unit.heal_unit:WidgetTree.VerticalBox_0 or VerticalBox /Game/UI/dialog_ok_cancel.SKEL_dialog_ok_cancel_C:WidgetTree.VerticalBox_0
+[2021.06.12-15.32.15:375][153]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UI/heal_unit.heal_unit:WidgetTree.VerticalBox_0 or VerticalBox /Game/UI/dialog_result_keyboard.SKEL_dialog_result_keyboard_C:WidgetTree.VerticalBox_0
+[2021.06.12-15.32.15:375][153]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UI/heal_unit.heal_unit:WidgetTree.VerticalBox_0 or VerticalBox /Game/UI/game_menu.SKEL_game_menu_C:WidgetTree.VerticalBox_0
+[2021.06.12-15.32.15:375][153]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UI/heal_unit.heal_unit:WidgetTree.VerticalBox_0 or VerticalBox /Game/UI/game_setting_sound.SKEL_game_setting_sound_C:WidgetTree.VerticalBox_0
+[2021.06.12-15.32.15:376][153]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UI/heal_unit.heal_unit:WidgetTree.VerticalBox_0 or VerticalBox /Game/UI/game_settings.SKEL_game_settings_C:WidgetTree.VerticalBox_0
+[2021.06.12-15.32.15:376][153]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UI/heal_unit.heal_unit:WidgetTree.VerticalBox_0 or VerticalBox /Game/UI/game_settings_graphic.SKEL_game_settings_graphic_C:WidgetTree.VerticalBox_0
+[2021.06.12-15.32.15:376][153]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UI/heal_unit.heal_unit:WidgetTree.VerticalBox_0 or VerticalBox /Game/UI/heal_unit.SKEL_heal_unit_C:WidgetTree.VerticalBox_0
+[2021.06.12-15.32.15:376][153]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UI/heal_unit.heal_unit:WidgetTree.VerticalBox_0 or VerticalBox /Game/UI/dialog_ok_cancel.dialog_ok_cancel_C:WidgetTree.VerticalBox_0
+[2021.06.12-15.32.15:377][153]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UI/heal_unit.heal_unit:WidgetTree.VerticalBox_0 or VerticalBox /Game/UI/dialog_result_keyboard.dialog_result_keyboard_C:WidgetTree.VerticalBox_0
+[2021.06.12-15.32.15:377][153]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UI/heal_unit.heal_unit:WidgetTree.VerticalBox_0 or VerticalBox /Game/UI/game_menu.game_menu_C:WidgetTree.VerticalBox_0
+[2021.06.12-15.32.15:377][153]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UI/heal_unit.heal_unit:WidgetTree.VerticalBox_0 or VerticalBox /Game/UI/game_setting_sound.game_setting_sound_C:WidgetTree.VerticalBox_0
+[2021.06.12-15.32.15:377][153]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UI/heal_unit.heal_unit:WidgetTree.VerticalBox_0 or VerticalBox /Game/UI/game_settings.game_settings_C:WidgetTree.VerticalBox_0
+[2021.06.12-15.32.15:377][153]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UI/heal_unit.heal_unit:WidgetTree.VerticalBox_0 or VerticalBox /Game/UI/game_settings_graphic.game_settings_graphic_C:WidgetTree.VerticalBox_0
+[2021.06.12-15.32.15:378][153]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UI/heal_unit.heal_unit:WidgetTree.VerticalBox_0 or VerticalBox /Game/UI/heal_unit.heal_unit_C:WidgetTree.VerticalBox_0
+[2021.06.12-15.32.15:378][153]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UI/heal_unit.heal_unit:WidgetTree.VerticalBox_0 or VerticalBox /Game/мар/Level_04/level_04.level_04:heal_unit_C_3.WidgetTree_0.VerticalBox_0
+[2021.06.12-15.32.15:378][153]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UI/heal_unit.heal_unit:WidgetTree.VerticalBox_0 or VerticalBox /Game/мар/Level_04/level_04.level_04:heal_unit_C_5.WidgetTree_0.VerticalBox_0
+[2021.06.12-15.32.15:378][153]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UI/heal_unit.heal_unit:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_2:game_settings_graphic_C_0.WidgetTree_0.VerticalBox_0
+[2021.06.12-15.32.15:379][153]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UI/heal_unit.heal_unit:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_2:game_settings_graphic_C_1.WidgetTree_0.VerticalBox_0
+[2021.06.12-15.32.15:379][153]LogProperty: Warning: Illegal TEXT reference to a private object in external package (VerticalBoxSlot /Game/UI/heal_unit.heal_unit:WidgetTree.VerticalBox_0.VerticalBoxSlot_1) from referencer (Border /Engine/UMG/Editor/Transient.Border_2).  Import failed...
+[2021.06.12-15.32.15:379][153]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'VerticalBoxSlot'"VerticalBox_0.VerticalBoxSlot_1"''
+[2021.06.12-15.34.08:514][933]BlueprintLog: New page: Compile game_settings_graphic
+[2021.06.12-15.34.40:193][802]LogSlate: Took 0.005580 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.06.12-15.38.50:693][171]BlueprintLog: New page: Compile game_settings_graphic
+[2021.06.12-15.40.34:438][842]BlueprintLog: New page: Compile game_settings_graphic
+[2021.06.12-15.41.41:947][882]BlueprintLog: New page: Compile game_settings_graphic
+[2021.06.12-15.41.53:935][591]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.12-15.41.53:965][591]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.12-15.41.53:979][591]PIE: New page: PIE session: level_04 (12 июня 2021, 21:41:53)
+[2021.06.12-15.41.53:980][591]LogPlayLevel: Creating play world package: /Game/мар/Level_04/UEDPIE_0_level_04
+[2021.06.12-15.41.53:983][591]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003666s)
+[2021.06.12-15.41.53:984][591]LogAIModule: Creating AISystem for world level_04
+[2021.06.12-15.41.53:985][591]LogPlayLevel: PIE: World Init took: (0.000677s)
+[2021.06.12-15.41.53:985][591]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/мар/Level_04/level_04.level_04 to /Game/мар/Level_04/UEDPIE_0_level_04.level_04 (0.005176s)
+[2021.06.12-15.41.54:015][591]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.06.12-15.41.54:028][591]LogInit: FAudioDevice initialized.
+[2021.06.12-15.41.54:067][591]LogLoad: Game class is 'myGameMode_C'
+[2021.06.12-15.41.54:071][591]LogWorld: Bringing World /Game/мар/Level_04/UEDPIE_0_level_04.level_04 up for play (max tick rate 60) at 2021.06.12-18.41.54
+[2021.06.12-15.41.54:074][591]LogWorld: Bringing up level for play took: 0.006465
+[2021.06.12-15.41.54:087][591]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.06.12-15.41.54:096][591]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 10 classes and 0 folders.
+[2021.06.12-15.41.54:111][591]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors2' of length 0 in '/Game/BP_player/character_paper_player.character_paper_player_C:ExecuteUbergraph_character_paper_player'!
+[2021.06.12-15.41.54:111][591]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors3' of length 0 in '/Game/BP_player/character_paper_player.character_paper_player_C:ExecuteUbergraph_character_paper_player'!
+[2021.06.12-15.41.54:112][591]PIE: Play in editor start time for /Game/мар/Level_04/UEDPIE_0_level_04 0,113
+[2021.06.12-15.41.58:642][862]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.06.12-15.42.08:492][453]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.06.12-15.42.14:328][803]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.12-15.42.14:358][803]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.12-15.42.14:385][803]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.12-15.42.14:434][806]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2021.06.12-15.43.08:973][ 72]BlueprintLog: New page: Compile game_settings_graphic
+[2021.06.12-15.43.57:890][999]BlueprintLog: New page: Compile game_settings_graphic
+[2021.06.12-15.43.58:787][ 45]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.12-15.43.58:813][ 45]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.12-15.43.58:813][ 45]PIE: New page: PIE session: level_04 (12 июня 2021, 21:43:58)
+[2021.06.12-15.43.58:814][ 45]LogPlayLevel: Creating play world package: /Game/мар/Level_04/UEDPIE_0_level_04
+[2021.06.12-15.43.58:817][ 45]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002633s)
+[2021.06.12-15.43.58:817][ 45]LogAIModule: Creating AISystem for world level_04
+[2021.06.12-15.43.58:817][ 45]LogPlayLevel: PIE: World Init took: (0.000579s)
+[2021.06.12-15.43.58:817][ 45]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/мар/Level_04/level_04.level_04 to /Game/мар/Level_04/UEDPIE_0_level_04.level_04 (0.003549s)
+[2021.06.12-15.43.58:848][ 45]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.06.12-15.43.58:860][ 45]LogInit: FAudioDevice initialized.
+[2021.06.12-15.43.58:867][ 45]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.12-15.43.58:901][ 45]LogLoad: Game class is 'myGameMode_C'
+[2021.06.12-15.43.58:905][ 45]LogWorld: Bringing World /Game/мар/Level_04/UEDPIE_0_level_04.level_04 up for play (max tick rate 60) at 2021.06.12-18.43.58
+[2021.06.12-15.43.58:906][ 45]LogWorld: Bringing up level for play took: 0.003797
+[2021.06.12-15.43.58:917][ 45]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.06.12-15.43.58:929][ 45]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors2' of length 0 in '/Game/BP_player/character_paper_player.character_paper_player_C:ExecuteUbergraph_character_paper_player'!
+[2021.06.12-15.43.58:929][ 45]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors3' of length 0 in '/Game/BP_player/character_paper_player.character_paper_player_C:ExecuteUbergraph_character_paper_player'!
+[2021.06.12-15.43.58:932][ 45]PIE: Play in editor start time for /Game/мар/Level_04/UEDPIE_0_level_04 0,934
+[2021.06.12-15.43.58:949][ 45]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2021.06.12-15.44.02:301][242]Cmd: stat FPS
+[2021.06.12-15.44.02:301][242]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.06.12-15.44.05:183][415]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.06.12-15.44.13:087][888]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.06.12-15.44.13:123][888]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.12-15.44.13:175][890]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2021.06.12-15.45.10:403][323]BlueprintLog: New page: Compile game_settings_graphic
+[2021.06.12-15.45.11:095][356]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/game_settings_graphic" FILE="D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/UI/game_settings_graphic.uasset" SILENT=true
+[2021.06.12-15.45.11:269][356]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/game_settings_graphic9F23F6EF4402F63F1F09CC835ED9ABA3.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/UI/game_settings_graphic.uasset'
+[2021.06.12-15.45.11:887][393]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.12-15.45.11:913][393]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.12-15.45.11:914][393]PIE: New page: PIE session: level_04 (12 июня 2021, 21:45:11)
+[2021.06.12-15.45.11:914][393]LogPlayLevel: Creating play world package: /Game/мар/Level_04/UEDPIE_0_level_04
+[2021.06.12-15.45.11:917][393]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002630s)
+[2021.06.12-15.45.11:917][393]LogAIModule: Creating AISystem for world level_04
+[2021.06.12-15.45.11:918][393]LogPlayLevel: PIE: World Init took: (0.000609s)
+[2021.06.12-15.45.11:918][393]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/мар/Level_04/level_04.level_04 to /Game/мар/Level_04/UEDPIE_0_level_04.level_04 (0.003561s)
+[2021.06.12-15.45.11:950][393]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.06.12-15.45.11:963][393]LogInit: FAudioDevice initialized.
+[2021.06.12-15.45.11:969][393]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.12-15.45.12:000][393]LogLoad: Game class is 'myGameMode_C'
+[2021.06.12-15.45.12:004][393]LogWorld: Bringing World /Game/мар/Level_04/UEDPIE_0_level_04.level_04 up for play (max tick rate 60) at 2021.06.12-18.45.12
+[2021.06.12-15.45.12:005][393]LogWorld: Bringing up level for play took: 0.003839
+[2021.06.12-15.45.12:017][393]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.06.12-15.45.12:029][393]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors2' of length 0 in '/Game/BP_player/character_paper_player.character_paper_player_C:ExecuteUbergraph_character_paper_player'!
+[2021.06.12-15.45.12:029][393]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors3' of length 0 in '/Game/BP_player/character_paper_player.character_paper_player_C:ExecuteUbergraph_character_paper_player'!
+[2021.06.12-15.45.12:032][393]PIE: Play in editor start time for /Game/мар/Level_04/UEDPIE_0_level_04 0,033
+[2021.06.12-15.45.15:388][593]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.06.12-15.45.22:386][ 10]LogRenderer: Reallocating scene render targets to support 1600x1024 Format 10 NumSamples 1 (Frame:619).
+[2021.06.12-15.45.26:659][520]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.12-15.45.26:683][520]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.06.12-15.45.26:714][520]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.12-15.45.26:765][522]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2021.06.12-15.45.28:423][717]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.12-15.45.28:448][717]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.12-15.45.28:449][717]PIE: New page: PIE session: level_04 (12 июня 2021, 21:45:28)
+[2021.06.12-15.45.28:449][717]LogPlayLevel: Creating play world package: /Game/мар/Level_04/UEDPIE_0_level_04
+[2021.06.12-15.45.28:452][717]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002567s)
+[2021.06.12-15.45.28:452][717]LogAIModule: Creating AISystem for world level_04
+[2021.06.12-15.45.28:452][717]LogPlayLevel: PIE: World Init took: (0.000548s)
+[2021.06.12-15.45.28:453][717]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/мар/Level_04/level_04.level_04 to /Game/мар/Level_04/UEDPIE_0_level_04.level_04 (0.003440s)
+[2021.06.12-15.45.28:482][717]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.06.12-15.45.28:493][717]LogInit: FAudioDevice initialized.
+[2021.06.12-15.45.28:499][717]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.12-15.45.28:534][717]LogLoad: Game class is 'myGameMode_C'
+[2021.06.12-15.45.28:538][717]LogWorld: Bringing World /Game/мар/Level_04/UEDPIE_0_level_04.level_04 up for play (max tick rate 0) at 2021.06.12-18.45.28
+[2021.06.12-15.45.28:539][717]LogWorld: Bringing up level for play took: 0.003636
+[2021.06.12-15.45.28:551][717]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.06.12-15.45.28:562][717]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors2' of length 0 in '/Game/BP_player/character_paper_player.character_paper_player_C:ExecuteUbergraph_character_paper_player'!
+[2021.06.12-15.45.28:563][717]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors3' of length 0 in '/Game/BP_player/character_paper_player.character_paper_player_C:ExecuteUbergraph_character_paper_player'!
+[2021.06.12-15.45.28:566][717]PIE: Play in editor start time for /Game/мар/Level_04/UEDPIE_0_level_04 0,567
+[2021.06.12-15.45.30:882][991]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.06.12-15.45.42:804][412]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.12-15.45.42:827][412]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.06.12-15.45.42:859][412]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.12-15.45.42:907][414]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.06.12-15.45.44:249][575]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.12-15.45.44:275][575]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.12-15.45.44:275][575]PIE: New page: PIE session: level_04 (12 июня 2021, 21:45:44)
+[2021.06.12-15.45.44:276][575]LogPlayLevel: Creating play world package: /Game/мар/Level_04/UEDPIE_0_level_04
+[2021.06.12-15.45.44:278][575]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002563s)
+[2021.06.12-15.45.44:279][575]LogAIModule: Creating AISystem for world level_04
+[2021.06.12-15.45.44:279][575]LogPlayLevel: PIE: World Init took: (0.000563s)
+[2021.06.12-15.45.44:279][575]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/мар/Level_04/level_04.level_04 to /Game/мар/Level_04/UEDPIE_0_level_04.level_04 (0.003463s)
+[2021.06.12-15.45.44:305][575]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.06.12-15.45.44:317][575]LogInit: FAudioDevice initialized.
+[2021.06.12-15.45.44:323][575]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.12-15.45.44:355][575]LogLoad: Game class is 'myGameMode_C'
+[2021.06.12-15.45.44:359][575]LogWorld: Bringing World /Game/мар/Level_04/UEDPIE_0_level_04.level_04 up for play (max tick rate 0) at 2021.06.12-18.45.44
+[2021.06.12-15.45.44:359][575]LogWorld: Bringing up level for play took: 0.003641
+[2021.06.12-15.45.44:371][575]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.06.12-15.45.44:382][575]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors2' of length 0 in '/Game/BP_player/character_paper_player.character_paper_player_C:ExecuteUbergraph_character_paper_player'!
+[2021.06.12-15.45.44:383][575]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors3' of length 0 in '/Game/BP_player/character_paper_player.character_paper_player_C:ExecuteUbergraph_character_paper_player'!
+[2021.06.12-15.45.44:386][575]PIE: Play in editor start time for /Game/мар/Level_04/UEDPIE_0_level_04 0,388
+[2021.06.12-15.45.49:901][233]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.06.12-15.45.56:875][ 63]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.12-15.45.56:899][ 63]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.06.12-15.45.56:927][ 63]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.12-15.45.56:975][ 65]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2021.06.12-15.45.58:181][205]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.12-15.45.58:208][205]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.12-15.45.58:208][205]PIE: New page: PIE session: level_04 (12 июня 2021, 21:45:58)
+[2021.06.12-15.45.58:209][205]LogPlayLevel: Creating play world package: /Game/мар/Level_04/UEDPIE_0_level_04
+[2021.06.12-15.45.58:211][205]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002633s)
+[2021.06.12-15.45.58:212][205]LogAIModule: Creating AISystem for world level_04
+[2021.06.12-15.45.58:212][205]LogPlayLevel: PIE: World Init took: (0.000556s)
+[2021.06.12-15.45.58:212][205]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/мар/Level_04/level_04.level_04 to /Game/мар/Level_04/UEDPIE_0_level_04.level_04 (0.003516s)
+[2021.06.12-15.45.58:241][205]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.06.12-15.45.58:253][205]LogInit: FAudioDevice initialized.
+[2021.06.12-15.45.58:259][205]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.12-15.45.58:290][205]LogLoad: Game class is 'myGameMode_C'
+[2021.06.12-15.45.58:294][205]LogWorld: Bringing World /Game/мар/Level_04/UEDPIE_0_level_04.level_04 up for play (max tick rate 0) at 2021.06.12-18.45.58
+[2021.06.12-15.45.58:295][205]LogWorld: Bringing up level for play took: 0.003683
+[2021.06.12-15.45.58:306][205]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.06.12-15.45.58:317][205]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors2' of length 0 in '/Game/BP_player/character_paper_player.character_paper_player_C:ExecuteUbergraph_character_paper_player'!
+[2021.06.12-15.45.58:318][205]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors3' of length 0 in '/Game/BP_player/character_paper_player.character_paper_player_C:ExecuteUbergraph_character_paper_player'!
+[2021.06.12-15.45.58:321][205]PIE: Play in editor start time for /Game/мар/Level_04/UEDPIE_0_level_04 0,322
+[2021.06.12-15.46.03:020][765]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.06.12-15.46.05:931][112]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.06.12-15.46.05:967][112]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.12-15.46.06:016][114]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2021.06.12-15.46.10:356][634]Cmd: t.MaxFPS 60
+[2021.06.12-15.46.10:356][634]t.MaxFPS = "60"
+[2021.06.12-15.46.11:971][731]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.12-15.46.11:997][731]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.12-15.46.11:997][731]PIE: New page: PIE session: level_04 (12 июня 2021, 21:46:11)
+[2021.06.12-15.46.11:997][731]LogPlayLevel: Creating play world package: /Game/мар/Level_04/UEDPIE_0_level_04
+[2021.06.12-15.46.12:000][731]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002664s)
+[2021.06.12-15.46.12:001][731]LogAIModule: Creating AISystem for world level_04
+[2021.06.12-15.46.12:001][731]LogPlayLevel: PIE: World Init took: (0.000566s)
+[2021.06.12-15.46.12:001][731]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/мар/Level_04/level_04.level_04 to /Game/мар/Level_04/UEDPIE_0_level_04.level_04 (0.003558s)
+[2021.06.12-15.46.12:031][731]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.06.12-15.46.12:043][731]LogInit: FAudioDevice initialized.
+[2021.06.12-15.46.12:072][731]LogLoad: Game class is 'myGameMode_C'
+[2021.06.12-15.46.12:076][731]LogWorld: Bringing World /Game/мар/Level_04/UEDPIE_0_level_04.level_04 up for play (max tick rate 60) at 2021.06.12-18.46.12
+[2021.06.12-15.46.12:077][731]LogWorld: Bringing up level for play took: 0.003969
+[2021.06.12-15.46.12:090][731]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.06.12-15.46.12:105][731]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors2' of length 0 in '/Game/BP_player/character_paper_player.character_paper_player_C:ExecuteUbergraph_character_paper_player'!
+[2021.06.12-15.46.12:105][731]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors3' of length 0 in '/Game/BP_player/character_paper_player.character_paper_player_C:ExecuteUbergraph_character_paper_player'!
+[2021.06.12-15.46.12:105][731]PIE: Play in editor start time for /Game/мар/Level_04/UEDPIE_0_level_04 0,106
+[2021.06.12-15.46.16:237][979]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.06.12-15.46.34:421][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.12-15.46.34:456][ 70]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.12-15.46.34:482][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.12-15.46.34:521][ 72]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2021.06.12-15.48.20:335][418]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.06.12-16.00.29:810][863]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\vovab\Downloads\tile_set.png)
+[2021.06.12-16.00.29:821][863]LogTexture: Display: Building textures: tile_set (AutoDXT, 1024X1024)
+[2021.06.12-16.00.33:965][976]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/spraites/texture/tile_set.tile_set
+[2021.06.12-16.00.59:363][489]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.06.12-16.00.59:446][494]LogSlate: Window 'tile_set*' being destroyed
+[2021.06.12-16.00.59:452][494]LogSlate: Window 'tile_set*' being destroyed
+[2021.06.12-16.01.04:193][777]LogTexture: Display: Building textures: tile_set (BGRA8, 1024X1024)
+[2021.06.12-16.03.20:489][927]LogSlate: Window 'Extract sprites' being destroyed
+[2021.06.12-16.03.40:251][ 54]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.928 s
+[2021.06.12-16.03.40:251][ 54]LogOutputDevice: Error: === Handled ensure: ===
+[2021.06.12-16.03.40:251][ 54]LogOutputDevice: Error: 
+[2021.06.12-16.03.40:251][ 54]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateDynamicImageBrush.h] [Line: 119]
+[2021.06.12-16.03.40:251][ 54]LogOutputDevice: Error: This hack usually results in a crash during loading screens in slate.  Please change any code that arrives here to not use FSlateDynamicImageBrush.  In the case of loading screens, you can use FDeferredCleanupSlateBrush.  Which correctly accounts for both GC lifetime, and the lifetime of the object through the slate rendering pipeline which may be several frames after you stop using it.
+[2021.06.12-16.03.40:252][ 54]LogOutputDevice: Error: Stack: 
+[2021.06.12-16.03.40:252][ 54]LogOutputDevice: Error: [Callstack] 0x00007ffd3bbb7136 UE4Editor-Core.dll!UnknownFunction []
+[2021.06.12-16.03.40:252][ 54]LogOutputDevice: Error: [Callstack] 0x00007ffd3b8f0c82 UE4Editor-Core.dll!UnknownFunction []
+[2021.06.12-16.03.40:252][ 54]LogOutputDevice: Error: [Callstack] 0x00007ffd3b90b346 UE4Editor-Core.dll!UnknownFunction []
+[2021.06.12-16.03.40:252][ 54]LogOutputDevice: Error: [Callstack] 0x00007ffd4859530c UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.12-16.03.40:252][ 54]LogOutputDevice: Error: [Callstack] 0x00007ffd484ebcca UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.12-16.03.40:252][ 54]LogOutputDevice: Error: [Callstack] 0x00007ffd28a53d32 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.06.12-16.03.40:252][ 54]LogOutputDevice: Error: [Callstack] 0x00007ffd2851448b UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.06.12-16.03.40:253][ 54]LogOutputDevice: Error: [Callstack] 0x00007ffd0c7c62e1 UE4Editor-AssetTools.dll!UnknownFunction []
+[2021.06.12-16.03.40:253][ 54]LogOutputDevice: Error: [Callstack] 0x00007ffd0b71a9c7 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.06.12-16.03.40:253][ 54]LogOutputDevice: Error: [Callstack] 0x00007ffd0b6ed35c UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.06.12-16.03.40:253][ 54]LogOutputDevice: Error: [Callstack] 0x00007ffd0b73d8e4 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.06.12-16.03.40:253][ 54]LogOutputDevice: Error: [Callstack] 0x00007ffd0b65a23d UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.06.12-16.03.40:253][ 54]LogOutputDevice: Error: [Callstack] 0x00007ffd0b63dcb9 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.06.12-16.03.40:253][ 54]LogOutputDevice: Error: [Callstack] 0x00007ffd2a7564b2 UE4Editor-Slate.dll!UnknownFunction []
+[2021.06.12-16.03.40:253][ 54]LogOutputDevice: Error: [Callstack] 0x00007ffd2a729619 UE4Editor-Slate.dll!UnknownFunction []
+[2021.06.12-16.03.40:254][ 54]LogOutputDevice: Error: [Callstack] 0x00007ffd2a736a2e UE4Editor-Slate.dll!UnknownFunction []
+[2021.06.12-16.03.40:254][ 54]LogOutputDevice: Error: [Callstack] 0x00007ffd2a5493b0 UE4Editor-Slate.dll!UnknownFunction []
+[2021.06.12-16.03.40:254][ 54]LogOutputDevice: Error: [Callstack] 0x00007ffd2a54029e UE4Editor-Slate.dll!UnknownFunction []
+[2021.06.12-16.03.40:254][ 54]LogOutputDevice: Error: [Callstack] 0x00007ffd2a5277ac UE4Editor-Slate.dll!UnknownFunction []
+[2021.06.12-16.03.40:254][ 54]LogOutputDevice: Error: [Callstack] 0x00007ffd2a51abba UE4Editor-Slate.dll!UnknownFunction []
+[2021.06.12-16.03.40:254][ 54]LogOutputDevice: Error: [Callstack] 0x00007ffd4a7bd26f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.06.12-16.03.40:254][ 54]LogOutputDevice: Error: [Callstack] 0x00007ffd4a7b0270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.06.12-16.03.40:254][ 54]LogOutputDevice: Error: [Callstack] 0x00007ffd4a7bf4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.06.12-16.03.40:254][ 54]LogOutputDevice: Error: [Callstack] 0x00007ffd4a7ac209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.06.12-16.03.40:255][ 54]LogOutputDevice: Error: [Callstack] 0x00007ffd76d5e858 USER32.dll!UnknownFunction []
+[2021.06.12-16.03.40:255][ 54]LogOutputDevice: Error: [Callstack] 0x00007ffd76d5e299 USER32.dll!UnknownFunction []
+[2021.06.12-16.03.40:255][ 54]LogOutputDevice: Error: [Callstack] 0x00007ffd4a7c0646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.06.12-16.03.40:255][ 54]LogOutputDevice: Error: [Callstack] 0x00007ff7d5b454e5 UE4Editor.exe!UnknownFunction []
+[2021.06.12-16.03.40:255][ 54]LogOutputDevice: Error: [Callstack] 0x00007ff7d5b55b3c UE4Editor.exe!UnknownFunction []
+[2021.06.12-16.03.40:255][ 54]LogOutputDevice: Error: [Callstack] 0x00007ff7d5b55bba UE4Editor.exe!UnknownFunction []
+[2021.06.12-16.03.40:255][ 54]LogOutputDevice: Error: [Callstack] 0x00007ff7d5b63dac UE4Editor.exe!UnknownFunction []
+[2021.06.12-16.03.40:255][ 54]LogOutputDevice: Error: [Callstack] 0x00007ff7d5b65aaa UE4Editor.exe!UnknownFunction []
+[2021.06.12-16.03.40:255][ 54]LogOutputDevice: Error: [Callstack] 0x00007ffd77cf7034 KERNEL32.DLL!UnknownFunction []
+[2021.06.12-16.03.40:255][ 54]LogOutputDevice: Error: [Callstack] 0x00007ffd784a2651 ntdll.dll!UnknownFunction []
+[2021.06.12-16.03.40:256][ 54]LogOutputDevice: Error: 
+[2021.06.12-16.03.40:264][ 54]LogStats:                SubmitErrorReport -  0.000 s

@@ -1,0 +1,588 @@
+﻿Log file open, 03/27/21 20:24:55
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MyProject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.361536
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.068s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4233996
+LogInit: Engine Version: 4.20.1-4233996+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Jul 26 2018 10:07:30
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2021.03.27-18.24.55:485][  0]LogInit: Selected Device Profile: [Windows]
+[2021.03.27-18.24.55:485][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.03.27-18.24.55:496][  0]LogHAL: Display: Platform has ~ 16 GB [17120292864 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.03.27-18.24.55:496][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2021.03.27-18.24.55:496][  0]LogInit: Going up to parent DeviceProfile []
+[2021.03.27-18.24.55:496][  0]LogInit: Computer: DESKTOP-KTCUO5G
+[2021.03.27-18.24.55:496][  0]LogInit: User: vovab
+[2021.03.27-18.24.55:496][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.03.27-18.24.55:496][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.03.27-18.24.55:496][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.03.27-18.24.55:496][  0]LogMemory: Platform Memory Stats for Windows
+[2021.03.27-18.24.55:496][  0]LogMemory: Process Physical Memory: 101.55 MB used, 101.55 MB peak
+[2021.03.27-18.24.55:496][  0]LogMemory: Process Virtual Memory: 93.29 MB used, 93.29 MB peak
+[2021.03.27-18.24.55:496][  0]LogMemory: Physical Memory: 6255.17 MB used,  10072.02 MB free, 16327.18 MB total
+[2021.03.27-18.24.55:496][  0]LogMemory: Virtual Memory: 4631.51 MB used,  10072.02 MB free, 134217728.00 MB total
+[2021.03.27-18.24.55:524][  0]LogInit: Using OS detected language (ru-RU).
+[2021.03.27-18.24.55:524][  0]LogInit: Using OS detected locale (ru-UA).
+[2021.03.27-18.24.55:524][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2021.03.27-18.24.55:525][  0]LogStreaming: Display: Took  0.002s to InitEngineTextLocalization.
+[2021.03.27-18.24.55:525][  0]LogInit: Setting process to per monitor DPI aware
+[2021.03.27-18.24.55:547][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.03.27-18.24.55:547][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.03.27-18.24.55:695][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.03.27-18.24.55:695][  0]LogD3D11RHI: D3D11 adapters:
+[2021.03.27-18.24.55:801][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2021.03.27-18.24.55:801][  0]LogD3D11RHI:       8079/0/8163 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.03.27-18.24.55:802][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.03.27-18.24.55:802][  0]LogD3D11RHI:       0/0/8163 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.03.27-18.24.55:802][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.03.27-18.24.55:806][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.03.27-18.24.55:806][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2021.03.27-18.24.55:806][  0]LogWindows: EnumDisplayDevices:
+[2021.03.27-18.24.55:806][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2021.03.27-18.24.55:807][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2021.03.27-18.24.55:807][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2021.03.27-18.24.55:807][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2021.03.27-18.24.55:807][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.03.27-18.24.55:807][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2021.03.27-18.24.55:807][  0]LogD3D11RHI:   Driver Version: 461.40 (internal:27.21.14.6140, unified:461.40)
+[2021.03.27-18.24.55:807][  0]LogD3D11RHI:      Driver Date: 1-22-2021
+[2021.03.27-18.24.55:807][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2021.03.27-18.24.55:875][  0]LogD3D11RHI: Async texture creation enabled
+[2021.03.27-18.24.55:897][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.03.27-18.24.55:898][  0]LogShaderCompilers: Guid format shader working directory is -4 characters bigger than the processId version (D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Intermediate/Shaders/WorkingDirectory/5620/).
+[2021.03.27-18.24.55:899][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/vovab/AppData/Local/Temp/UnrealShaderWorkingDir/0142DE1F409BE6DF4B49E3AC975D4129/'.
+[2021.03.27-18.24.56:116][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2021.03.27-18.24.56:126][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2021.03.27-18.24.56:136][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2021.03.27-18.24.56:146][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2021.03.27-18.24.56:157][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2021.03.27-18.24.56:167][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2021.03.27-18.24.56:177][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2021.03.27-18.24.56:187][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2021.03.27-18.24.56:192][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2021.03.27-18.24.56:252][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.03.27-18.24.56:252][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.03.27-18.24.56:252][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.03.27-18.24.56:252][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.03.27-18.24.56:252][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.03.27-18.24.56:252][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.03.27-18.24.56:252][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.03.27-18.24.56:252][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.03.27-18.24.56:252][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.03.27-18.24.56:252][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.03.27-18.24.56:252][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.03.27-18.24.56:252][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.03.27-18.24.56:252][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.03.27-18.24.56:252][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.03.27-18.24.56:252][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.03.27-18.24.56:252][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.03.27-18.24.56:252][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.03.27-18.24.56:252][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.03.27-18.24.56:253][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2021.03.27-18.24.56:307][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2021.03.27-18.24.56:307][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2021.03.27-18.24.56:324][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2021.03.27-18.24.56:324][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2021.03.27-18.24.56:333][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2021.03.27-18.24.56:342][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2021.03.27-18.24.56:351][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2021.03.27-18.24.56:360][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2021.03.27-18.24.56:367][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2021.03.27-18.24.56:367][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.03.27-18.24.56:411][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.03.27-18.24.56:411][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.03.27-18.24.56:411][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.03.27-18.24.57:040][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.03.27-18.24.57:081][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/vovab/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2021.03.27-18.24.57:082][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/vovab/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2021.03.27-18.24.57:082][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.03.27-18.24.57:082][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.03.27-18.24.57:082][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.03.27-18.24.57:082][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.03.27-18.24.57:093][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.03.27-18.24.57:104][  0]LogDerivedDataCache: Using Local data cache path C:/Users/vovab/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.03.27-18.24.57:104][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.03.27-18.24.57:104][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.03.27-18.24.57:118][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2021.03.27-18.24.57:119][  0]LogSlate: Using FreeType 2.6.0
+[2021.03.27-18.24.57:119][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.03.27-18.24.57:180][  0]LogAssetRegistry: FAssetRegistry took 0.0254 seconds to start up
+[2021.03.27-18.24.57:426][  0]LogInit: Selected Device Profile: [Windows]
+[2021.03.27-18.24.57:524][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2021.03.27-18.24.57:526][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2021.03.27-18.24.57:526][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.03.27-18.24.57:526][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.03.27-18.24.57:526][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2021.03.27-18.24.57:537][  0]LogNetVersion: MyProject 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1110078900)
+[2021.03.27-18.24.57:913][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.069425 seconds
+[2021.03.27-18.24.57:918][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2021.03.27-18.24.57:918][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2021.03.27-18.24.57:918][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.03.27-18.24.58:565][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.03.27-18.24.58:577][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.03.27-18.24.58:694][  0]SourceControl: Source control is disabled
+[2021.03.27-18.24.58:694][  0]SourceControl: Source control is disabled
+[2021.03.27-18.24.58:695][  0]SourceControl: Source control is disabled
+[2021.03.27-18.24.58:695][  0]SourceControl: Source control is disabled
+[2021.03.27-18.24.58:834][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.03.27-18.24.58:886][  0]LogOcInput: OculusInput pre-init called
+[2021.03.27-18.24.58:935][  0]LogEngine: Initializing Engine...
+[2021.03.27-18.24.58:936][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.03.27-18.24.58:937][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2021.03.27-18.24.58:937][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2021.03.27-18.24.58:937][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2021.03.27-18.24.58:937][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2021.03.27-18.24.59:088][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.03.27-18.24.59:098][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.03.27-18.24.59:118][  0]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.03.27-18.24.59:148][  0]LogInit: FAudioDevice initialized.
+[2021.03.27-18.24.59:149][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.03.27-18.24.59:212][  0]LogDerivedDataCache: Saved boot cache 0.06s 71MB C:/Users/vovab/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2021.03.27-18.24.59:215][  0]LogInit: Texture streaming: Enabled
+[2021.03.27-18.24.59:227][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.03.27-18.24.59:236][  0]LogInit: Transaction tracking system initialized
+[2021.03.27-18.24.59:252][  0]BlueprintLog: New page: Editor Load
+[2021.03.27-18.24.59:304][  0]LocalizationService: Localization service is disabled
+[2021.03.27-18.24.59:350][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/FirstPersonOverview'
+[2021.03.27-18.24.59:351][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/FirstPersonOverview'
+[2021.03.27-18.24.59:351][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C'
+[2021.03.27-18.24.59:516][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.03.27-18.24.59:516][  0]LogCook: Display: Mobile HDR setting 1
+[2021.03.27-18.24.59:516][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2021.03.27-18.24.59:516][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2021.03.27-18.24.59:516][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2021.03.27-18.24.59:516][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2021.03.27-18.24.59:516][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2021.03.27-18.24.59:599][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/' took 0.01s
+[2021.03.27-18.24.59:599][  0]SourceControl: Source control is disabled
+[2021.03.27-18.24.59:690][  0]LogSlate: Took 0.000157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.03.27-18.25.13:063][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2021.03.27-18.25.13:063][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.03.27-18.25.13:066][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.03.27-18.25.13:070][  0]Cmd: MAP LOAD FILE="D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/мар/Level_02/TestLevel_02.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.27-18.25.13:071][  0]LightingResults: New page: Lighting Build
+[2021.03.27-18.25.13:073][  0]MapCheck: New page: Map Check
+[2021.03.27-18.25.13:073][  0]LightingResults: New page: Lighting Build
+[2021.03.27-18.25.13:170][  0]LogLinker: Warning: Can't find file '/Game/UI/NewUserWidget_2'
+[2021.03.27-18.25.13:171][  0]LogLinker: Warning: Can't find file for asset '/Game/UI/NewUserWidget_2' while loading D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/UI/game_settings.uasset.
+[2021.03.27-18.25.13:171][  0]LoadErrors: Error: /Game/UI/game_settings : Can't find file for asset. /Game/UI/NewUserWidget_2
+[2021.03.27-18.25.13:171][  0]LogLinker: Warning: Can't find file '/Game/UI/NewUserWidget_2'
+[2021.03.27-18.25.13:171][  0]LogLinker: Warning: Can't find file for asset '/Game/UI/NewUserWidget_2' while loading D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/UI/game_settings.uasset.
+[2021.03.27-18.25.13:171][  0]LoadErrors: Error: /Game/UI/game_settings : Can't find file for asset. /Game/UI/NewUserWidget_2
+[2021.03.27-18.25.13:171][  0]LogLinker: Warning: Can't find file '/Game/UI/NewUserWidget_2'
+[2021.03.27-18.25.13:172][  0]LogLinker: Warning: Can't find file for asset '/Game/UI/NewUserWidget_2' while loading D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/мар/exit_level/BP_level_exit.uasset.
+[2021.03.27-18.25.13:172][  0]LoadErrors: Error: /Game/мар/exit_level/BP_level_exit : Can't find file for asset. /Game/UI/NewUserWidget_2
+[2021.03.27-18.25.13:172][  0]LogLinker: Warning: Can't find file '/Game/UI/NewUserWidget_2'
+[2021.03.27-18.25.13:172][  0]LogLinker: Warning: Can't find file for asset '/Game/UI/NewUserWidget_2' while loading D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/мар/exit_level/BP_level_exit.uasset.
+[2021.03.27-18.25.13:172][  0]LoadErrors: Error: /Game/мар/exit_level/BP_level_exit : Can't find file for asset. /Game/UI/NewUserWidget_2
+[2021.03.27-18.25.13:173][  0]LogLinker: Warning: Can't find file '/Game/UI/NewUserWidget_2'
+[2021.03.27-18.25.13:173][  0]LoadErrors: Failed to load /Game/UI/NewUserWidget_2.NewUserWidget_2_C Referenced by ListView_299
+[2021.03.27-18.25.13:173][  0]LogLinker: Warning: Can't find file for asset '/Game/UI/NewUserWidget_2' while loading D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/мар/exit_level/BP_level_exit.uasset.
+[2021.03.27-18.25.13:173][  0]LoadErrors: Failed to load /Game/UI/NewUserWidget_2.NewUserWidget_2_C Referenced by ListView_299
+[2021.03.27-18.25.13:173][  0]LoadErrors: Error: /Game/мар/exit_level/BP_level_exit : Can't find file for asset. /Game/UI/NewUserWidget_2
+[2021.03.27-18.25.13:385][  0]LogAIModule: Creating AISystem for world TestLevel_02
+[2021.03.27-18.25.13:394][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.27-18.25.13:412][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.27-18.25.13:478][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 67,021ms to complete.
+[2021.03.27-18.25.13:478][  0]LogFileHelpers: Loading map 'TestLevel_02' took 0.408
+[2021.03.27-18.25.13:503][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.27-18.25.13:509][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.27-18.25.13:515][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.27-18.25.13:520][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.27-18.25.13:525][  0]LogCollectionManager: Loaded 0 collections in 0.001187 seconds
+[2021.03.27-18.25.13:563][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/Collections/' took 0.01s
+[2021.03.27-18.25.13:563][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/Developers/vovab/Collections/' took 0.01s
+[2021.03.27-18.25.13:563][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/Collections/' took 0.01s
+[2021.03.27-18.25.13:563][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2021.03.27-18.25.13:569][  0]LogContentBrowser: Native class hierarchy populated in 0.0066 seconds. Added 2572 classes and 603 folders.
+[2021.03.27-18.25.13:573][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.03.27-18.25.13:606][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.03.27-18.25.13:610][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2021.03.27-18.25.13:656][  0]LogSlate: Took 0.000197 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.03.27-18.25.13:658][  0]LogSlate: Took 0.000210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.03.27-18.25.13:683][  0]LogRenderer: Reallocating scene render targets to support 1272x592 Format 10 NumSamples 1 (Frame:1).
+[2021.03.27-18.25.13:793][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.03.27-18.25.13:793][  0]LogLoad: (Engine Initialization) Total time: 19.89 seconds
+[2021.03.27-18.25.13:793][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.03.27-18.25.13:820][  0]LogAssetRegistry: Asset discovery search completed in 16.6627 seconds
+[2021.03.27-18.25.13:822][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2021.03.27-18.25.13:822][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000053 seconds (updated 0 objects)
+[2021.03.27-18.25.13:823][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2021.03.27-18.25.13:832][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.27-18.25.13:910][  0]LogSlate: Took 0.000165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.27-18.25.14:826][106]LogSlate: Took 0.000202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.27-18.25.40:912][236]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.27-18.25.50:170][346]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.27-18.25.53:715][770]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/game_settings.game_settings
+[2021.03.27-18.25.54:052][770]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2021.03.27-18.25.54:601][770]LogSlate: Took 0.000160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.03.27-18.26.20:989][652]LogSlate: Window 'game_settings' being destroyed
+[2021.03.27-18.26.23:373][938]LogSlate: Window 'Message Log' being destroyed
+[2021.03.27-18.26.23:376][938]LogSlate: Window 'Message Log' being destroyed
+[2021.03.27-18.26.31:386][896]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.03.27-18.26.34:925][321]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.27-18.26.34:948][321]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.27-18.26.34:960][321]PIE: New page: PIE session: TestLevel_02 (27 марта 2021, 22:26:34)
+[2021.03.27-18.26.34:960][321]LogPlayLevel: Creating play world package: /Game/мар/Level_02/UEDPIE_0_TestLevel_02
+[2021.03.27-18.26.34:962][321]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001412s)
+[2021.03.27-18.26.34:962][321]LogAIModule: Creating AISystem for world TestLevel_02
+[2021.03.27-18.26.34:962][321]LogPlayLevel: PIE: World Init took: (0.000514s)
+[2021.03.27-18.26.34:962][321]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/мар/Level_02/TestLevel_02.TestLevel_02 to /Game/мар/Level_02/UEDPIE_0_TestLevel_02.TestLevel_02 (0.002023s)
+[2021.03.27-18.26.34:996][321]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.03.27-18.26.35:008][321]LogInit: FAudioDevice initialized.
+[2021.03.27-18.26.35:053][321]LogLoad: Game class is 'myGameMode_C'
+[2021.03.27-18.26.35:055][321]LogWorld: Bringing World /Game/мар/Level_02/UEDPIE_0_TestLevel_02.TestLevel_02 up for play (max tick rate 0) at 2021.03.27-20.26.35
+[2021.03.27-18.26.35:055][321]LogWorld: Bringing up level for play took: 0.001045
+[2021.03.27-18.26.35:066][321]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.03.27-18.26.35:070][321]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 10 classes and 0 folders.
+[2021.03.27-18.26.35:072][321]PIE: Play in editor start time for /Game/мар/Level_02/UEDPIE_0_TestLevel_02 -0,458
+[2021.03.27-18.26.39:018][793]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.27-18.26.54:762][682]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.27-18.26.54:793][682]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.27-18.26.54:816][682]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.27-18.26.54:868][687]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2021.03.27-18.26.55:776][796]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.27-18.27.00:079][306]BlueprintLog: New page: Compile game_settings
+[2021.03.27-18.27.00:091][306]LogBlueprint: Error: [Compiler game_settings] ListView_299 has no EntryWidgetClass specified - required for any UListViewBase to function.
+[2021.03.27-18.27.00:143][306]LogBlueprint: Warning: [Compiler game_settings] [0126,24] Compile of game_settings failed. 1 Fatal Issue(s) 0 Warning(s) [in 64 ms] (/Game/UI/game_settings.game_settings)
+[2021.03.27-18.27.04:658][846]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.27-18.27.04:680][846]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.27-18.27.06:311][846]LogSlate: Window 'Message' being destroyed
+[2021.03.27-18.27.43:918][353]BlueprintLog: New page: Compile game_settings
+[2021.03.27-18.27.43:924][353]LogBlueprint: Error: [Compiler game_settings] ListView_299 has no EntryWidgetClass specified - required for any UListViewBase to function.
+[2021.03.27-18.27.43:951][353]LogBlueprint: Warning: [Compiler game_settings] [0170,04] Compile of game_settings failed. 1 Fatal Issue(s) 0 Warning(s) [in 33 ms] (/Game/UI/game_settings.game_settings)
+[2021.03.27-18.27.47:289][752]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/game_settings" FILE="D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/UI/game_settings.uasset" SILENT=true
+[2021.03.27-18.27.47:321][752]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/game_settings80E7E5E64744DAD6F7E438ABAC0392F1.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/UI/game_settings.uasset'
+[2021.03.27-18.28.45:242][689]BlueprintLog: New page: Compile game_settings
+[2021.03.27-18.29.49:370][319]BlueprintLog: New page: Compile game_settings
+[2021.03.27-18.30.19:447][847]BlueprintLog: New page: Compile game_settings
+[2021.03.27-18.32.27:921][140]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.03.27-18.32.34:251][897]BlueprintLog: New page: Compile game_settings
+[2021.03.27-18.32.34:256][897]LogBlueprint: Error: [Compiler game_settings] TileView_145 has no EntryWidgetClass specified - required for any UListViewBase to function.
+[2021.03.27-18.32.34:307][897]LogBlueprint: Warning: [Compiler game_settings] [0460,40] Compile of game_settings failed. 1 Fatal Issue(s) 0 Warning(s) [in 55 ms] (/Game/UI/game_settings.game_settings)
+[2021.03.27-18.32.49:200][672]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.03.27-18.32.58:859][976]LogSlate: Window 'Create New Blueprint' being destroyed
+[2021.03.27-18.33.03:685][554]BlueprintLog: New page: Compile game_settings
+[2021.03.27-18.33.03:690][554]LogBlueprint: Error: [Compiler game_settings] ListView_121 has no EntryWidgetClass specified - required for any UListViewBase to function.
+[2021.03.27-18.33.03:740][554]LogBlueprint: Warning: [Compiler game_settings] [0489,83] Compile of game_settings failed. 1 Fatal Issue(s) 0 Warning(s) [in 54 ms] (/Game/UI/game_settings.game_settings)
+[2021.03.27-18.33.27:944][ 37]LogSlate: Window 'Message' being destroyed
+[2021.03.27-18.33.31:811][ 37]LogSlate: Window 'Create New Blueprint' being destroyed
+[2021.03.27-18.33.42:154][277]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/NewUserWidget.NewUserWidget
+[2021.03.27-18.33.48:360][992]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.03.27-18.35.34:244][328]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/мар/Level_02/TestLevel_02' took 0.021
+[2021.03.27-18.35.34:245][328]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/game_settings] ([1] browsable assets)...
+[2021.03.27-18.35.34:245][328]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/game_settings]
+[2021.03.27-18.35.34:245][328]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/game_settings" FILE="D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/Autosaves/Game/UI/game_settings_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2021.03.27-18.35.34:276][328]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/game_settings_Auto14CD7E16B4468748DA91B1B8C660027DC.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/Autosaves/Game/UI/game_settings_Auto1.uasset'
+[2021.03.27-18.35.34:276][328]LogFileHelpers: Auto-saving content packages took 0.032
+[2021.03.27-18.37.39:620][441]LogSlate: Window 'Delete Assets' being destroyed
+[2021.03.27-18.38.27:550][ 11]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.03.27-18.38.51:184][828]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/UI/NewInterface.NewInterface
+[2021.03.27-18.38.58:577][699]BlueprintLog: New page: Compile NewInterface
+[2021.03.27-18.38.59:530][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/NewInterface" FILE="D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/UI/NewInterface.uasset" SILENT=true
+[2021.03.27-18.38.59:537][810]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/NewInterface479A83BD456A6BC2F62EF88DD307038E.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/UI/NewInterface.uasset'
+[2021.03.27-18.39.07:582][775]LogSlate: Window 'NewInterface' being destroyed
+[2021.03.27-18.39.16:735][870]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/game_settings.game_settings
+[2021.03.27-18.39.21:867][424]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.03.27-18.39.29:899][332]LogSlate: Window 'game_settings*' being destroyed
+[2021.03.27-18.40.02:534][107]LogSlate: Window 'Delete Assets' being destroyed
+[2021.03.27-18.42.47:538][367]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/game_settings.game_settings
+[2021.03.27-18.42.49:935][620]LogSlate: Window 'game_settings*' being destroyed
+[2021.03.27-18.45.40:941][862]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/мар/Level_02/TestLevel_02' took 0.018
+[2021.03.27-18.45.40:942][862]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/game_settings] ([1] browsable assets)...
+[2021.03.27-18.45.40:942][862]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/game_settings]
+[2021.03.27-18.45.40:942][862]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/game_settings" FILE="D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/Autosaves/Game/UI/game_settings_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2021.03.27-18.45.40:966][862]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/game_settings_Auto2BFD5BD5E4114751F045A7AAE666A9F47.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/Autosaves/Game/UI/game_settings_Auto2.uasset'
+[2021.03.27-18.45.40:967][862]LogFileHelpers: Auto-saving content packages took 0.025
+[2021.03.27-18.45.46:036][470]BlueprintLog: New page: Compile game_settings
+[2021.03.27-18.45.46:042][470]LogBlueprint: Error: [Compiler game_settings] ListView_121 has no EntryWidgetClass specified - required for any UListViewBase to function.
+[2021.03.27-18.45.46:065][470]LogBlueprint: Warning: [Compiler game_settings] [1252,16] Compile of game_settings failed. 1 Fatal Issue(s) 0 Warning(s) [in 28 ms] (/Game/UI/game_settings.game_settings)
+[2021.03.27-18.46.12:866][681]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.03.27-18.47.48:981][707]LogSlate: Window 'Message' being destroyed
+[2021.03.27-18.47.51:608][ 21]BlueprintLog: New page: Compile game_settings
+[2021.03.27-18.47.51:615][ 21]LogBlueprint: Error: [Compiler game_settings] ListView_121 has no EntryWidgetClass specified - required for any UListViewBase to function.
+[2021.03.27-18.47.51:644][ 21]LogBlueprint: Warning: [Compiler game_settings] [1377,74] Compile of game_settings failed. 1 Fatal Issue(s) 0 Warning(s) [in 36 ms] (/Game/UI/game_settings.game_settings)
+[2021.03.27-18.48.12:597][526]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.03.27-18.48.45:607][478]BlueprintLog: New page: Compile game_settings
+[2021.03.27-18.48.51:590][175]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.03.27-18.49.27:291][296]LogSlate: Window 'Message' being destroyed
+[2021.03.27-18.50.57:509][ 85]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/test.test
+[2021.03.27-18.51.56:341][ 80]BlueprintLog: New page: Compile test
+[2021.03.27-18.52.09:207][602]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.03.27-18.55.10:194][651]BlueprintLog: New page: Compile test
+[2021.03.27-18.55.52:660][240]LogBlueprint: Warning: [Compiler ] Pasted node  OnListItemObjectSet   conflicted with  Event On List Item Object Set  and was replaced as a Custom Event!
+[2021.03.27-18.57.31:469][347]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/мар/Level_02/TestLevel_02' took 0.021
+[2021.03.27-18.57.31:470][347]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/game_settings] ([1] browsable assets)...
+[2021.03.27-18.57.31:470][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/game_settings]
+[2021.03.27-18.57.31:470][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/game_settings" FILE="D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/Autosaves/Game/UI/game_settings_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2021.03.27-18.57.31:498][347]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/game_settings_Auto3F7E430214B3F2F2CA5FC13A7ACDCAE19.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/Autosaves/Game/UI/game_settings_Auto3.uasset'
+[2021.03.27-18.57.31:498][347]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/test] ([1] browsable assets)...
+[2021.03.27-18.57.31:498][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/test]
+[2021.03.27-18.57.31:498][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/test" FILE="D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/Autosaves/Game/UI/test_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2021.03.27-18.57.31:509][347]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/test_Auto398334E7A4F2E656C1E93E5A12E9DD82D.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/Autosaves/Game/UI/test_Auto3.uasset'
+[2021.03.27-18.57.31:510][347]LogFileHelpers: Auto-saving content packages took 0.040
+[2021.03.27-18.57.42:782][694]BlueprintLog: New page: Compile game_settings
+[2021.03.27-18.57.42:789][694]LogBlueprint: Error: [Compiler game_settings] ListView_121 has no EntryWidgetClass specified - required for any UListViewBase to function.
+[2021.03.27-18.57.42:820][694]LogBlueprint: Warning: [Compiler game_settings] [1968,91] Compile of game_settings failed. 1 Fatal Issue(s) 0 Warning(s) [in 37 ms] (/Game/UI/game_settings.game_settings)
+[2021.03.27-18.57.53:454][967]BlueprintLog: New page: Compile game_settings
+[2021.03.27-18.57.53:461][967]LogBlueprint: Error: [Compiler game_settings] ListView_121 has no EntryWidgetClass specified - required for any UListViewBase to function.
+[2021.03.27-18.57.53:491][967]LogBlueprint: Warning: [Compiler game_settings] [1979,58] Compile of game_settings failed. 1 Fatal Issue(s) 0 Warning(s) [in 36 ms] (/Game/UI/game_settings.game_settings)
+[2021.03.27-18.59.30:017][488]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.03.27-19.01.34:582][847]LogSlate: Window 'Message' being destroyed
+[2021.03.27-19.01.43:506][910]BlueprintLog: New page: Compile test
+[2021.03.27-19.01.46:303][233]BlueprintLog: New page: Compile game_settings
+[2021.03.27-19.02.10:234][ 95]LogSlate: Took 0.000178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.03.27-19.02.26:462][ 42]BlueprintLog: New page: Compile test
+[2021.03.27-19.02.31:144][600]BlueprintLog: New page: Compile game_settings
+[2021.03.27-19.02.44:386][181]BlueprintLog: New page: Compile game_settings
+[2021.03.27-19.02.49:168][750]BlueprintLog: New page: Compile test
+[2021.03.27-19.03.01:218][111]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.629 s
+[2021.03.27-19.03.01:218][111]LogOutputDevice: Error: === Handled ensure: ===
+[2021.03.27-19.03.01:218][111]LogOutputDevice: Error: 
+[2021.03.27-19.03.01:218][111]LogOutputDevice: Error: Ensure condition failed: InWidgetObject.Implements<UUserListEntry>() [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\UMG\Public\Slate/SObjectTableRow.h] [Line: 59]
+[2021.03.27-19.03.01:218][111]LogOutputDevice: Error: Any UserWidget generated as a table row must implement the IUserListEntry interface
+[2021.03.27-19.03.01:218][111]LogOutputDevice: Error: Stack: 
+[2021.03.27-19.03.01:218][111]LogOutputDevice: Error: [Callstack] 0x00007ffc6a5a7136 UE4Editor-Core.dll!UnknownFunction []
+[2021.03.27-19.03.01:218][111]LogOutputDevice: Error: [Callstack] 0x00007ffc6a2e0c82 UE4Editor-Core.dll!UnknownFunction []
+[2021.03.27-19.03.01:218][111]LogOutputDevice: Error: [Callstack] 0x00007ffc6a2fb346 UE4Editor-Core.dll!UnknownFunction []
+[2021.03.27-19.03.01:218][111]LogOutputDevice: Error: [Callstack] 0x00007ffc69d63e5e UE4Editor-UMG.dll!UnknownFunction []
+[2021.03.27-19.03.01:218][111]LogOutputDevice: Error: [Callstack] 0x00007ffc69d3693f UE4Editor-UMG.dll!UnknownFunction []
+[2021.03.27-19.03.01:218][111]LogOutputDevice: Error: [Callstack] 0x00007ffc69d58628 UE4Editor-UMG.dll!UnknownFunction []
+[2021.03.27-19.03.01:218][111]LogOutputDevice: Error: [Callstack] 0x00007ffc69e21c04 UE4Editor-UMG.dll!UnknownFunction []
+[2021.03.27-19.03.01:218][111]LogOutputDevice: Error: [Callstack] 0x00007ffc69cca550 UE4Editor-UMG.dll!UnknownFunction []
+[2021.03.27-19.03.01:218][111]LogOutputDevice: Error: [Callstack] 0x00007ffc69dbb89d UE4Editor-UMG.dll!UnknownFunction []
+[2021.03.27-19.03.01:218][111]LogOutputDevice: Error: [Callstack] 0x00007ffc69da0612 UE4Editor-UMG.dll!UnknownFunction []
+[2021.03.27-19.03.01:218][111]LogOutputDevice: Error: [Callstack] 0x00007ffc69d7fe8a UE4Editor-UMG.dll!UnknownFunction []
+[2021.03.27-19.03.01:218][111]LogOutputDevice: Error: [Callstack] 0x00007ffc69d8852d UE4Editor-UMG.dll!UnknownFunction []
+[2021.03.27-19.03.01:218][111]LogOutputDevice: Error: [Callstack] 0x00007ffc69d89783 UE4Editor-UMG.dll!UnknownFunction []
+[2021.03.27-19.03.01:218][111]LogOutputDevice: Error: [Callstack] 0x00007ffc69dd923d UE4Editor-UMG.dll!UnknownFunction []
+[2021.03.27-19.03.01:218][111]LogOutputDevice: Error: [Callstack] 0x00007ffc6d07fa4a UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.27-19.03.01:218][111]LogOutputDevice: Error: [Callstack] 0x00007ffc7301dd1d UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.27-19.03.01:218][111]LogOutputDevice: Error: [Callstack] 0x00007ffc6d03f8ad UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.27-19.03.01:218][111]LogOutputDevice: Error: [Callstack] 0x00007ffc7301dee3 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.27-19.03.01:218][111]LogOutputDevice: Error: [Callstack] 0x00007ffc7301c726 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.27-19.03.01:218][111]LogOutputDevice: Error: [Callstack] 0x00007ffc7301dee3 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.27-19.03.01:218][111]LogOutputDevice: Error: [Callstack] 0x00007ffc7301c109 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.27-19.03.01:218][111]LogOutputDevice: Error: [Callstack] 0x00007ffc69dc8df2 UE4Editor-UMG.dll!UnknownFunction []
+[2021.03.27-19.03.01:218][111]LogOutputDevice: Error: [Callstack] 0x00007ffc7301dee3 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.27-19.03.01:218][111]LogOutputDevice: Error: [Callstack] 0x00007ffc6d03f266 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.27-19.03.01:218][111]LogOutputDevice: Error: [Callstack] 0x00007ffc7301dee3 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.27-19.03.01:218][111]LogOutputDevice: Error: [Callstack] 0x00007ffc7301eab1 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.27-19.03.01:218][111]LogOutputDevice: Error: [Callstack] 0x00007ffc7301c884 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.27-19.03.01:218][111]LogOutputDevice: Error: [Callstack] 0x00007ffc7301dee3 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.27-19.03.01:218][111]LogOutputDevice: Error: [Callstack] 0x00007ffc6d03f266 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.27-19.03.01:218][111]LogOutputDevice: Error: [Callstack] 0x00007ffc7301dee3 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.27-19.03.01:218][111]LogOutputDevice: Error: [Callstack] 0x00007ffc7301c109 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.27-19.03.01:218][111]LogOutputDevice: Error: [Callstack] 0x00007ffc6d03efcd UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.27-19.03.01:218][111]LogOutputDevice: Error: [Callstack] 0x00007ffc7301dee3 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.27-19.03.01:218][111]LogOutputDevice: Error: [Callstack] 0x00007ffc7301c726 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.27-19.03.01:219][111]LogOutputDevice: Error: [Callstack] 0x00007ffc7301dee3 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.27-19.03.01:219][111]LogOutputDevice: Error: [Callstack] 0x00007ffc7301c109 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.27-19.03.01:219][111]LogOutputDevice: Error: [Callstack] 0x00007ffc7301dee3 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.27-19.03.01:219][111]LogOutputDevice: Error: [Callstack] 0x00007ffc7301c726 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.27-19.03.01:219][111]LogOutputDevice: Error: [Callstack] 0x00007ffc7301dee3 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.27-19.03.01:219][111]LogOutputDevice: Error: [Callstack] 0x00007ffc6d0402c4 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.27-19.03.01:219][111]LogOutputDevice: Error: [Callstack] 0x00007ffc7301dee3 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.27-19.03.01:219][111]LogOutputDevice: Error: [Callstack] 0x00007ffc7301c109 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.27-19.03.01:219][111]LogOutputDevice: Error: [Callstack] 0x00007ffc4c910050 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2021.03.27-19.03.01:219][111]LogOutputDevice: Error: [Callstack] 0x00007ffc7301dee3 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.27-19.03.01:219][111]LogOutputDevice: Error: [Callstack] 0x00007ffc7301c109 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.27-19.03.01:219][111]LogOutputDevice: Error: [Callstack] 0x00007ffc6d03efcd UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.27-19.03.01:219][111]LogOutputDevice: Error: [Callstack] 0x00007ffc7301dee3 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.27-19.03.01:219][111]LogOutputDevice: Error: [Callstack] 0x00007ffc7301c726 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.27-19.03.01:219][111]LogOutputDevice: Error: [Callstack] 0x00007ffc7301dee3 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.27-19.03.01:219][111]LogOutputDevice: Error: [Callstack] 0x00007ffc7301eab1 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.27-19.03.01:219][111]LogOutputDevice: Error: [Callstack] 0x00007ffc7301c884 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.27-19.03.01:219][111]LogOutputDevice: Error: [Callstack] 0x00007ffc7301dee3 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.27-19.03.01:219][111]LogOutputDevice: Error: [Callstack] 0x00007ffc7301c109 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.27-19.03.01:219][111]LogOutputDevice: Error: [Callstack] 0x00007ffc7301dee3 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.27-19.03.01:219][111]LogOutputDevice: Error: [Callstack] 0x00007ffc7301eab1 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.27-19.03.01:219][111]LogOutputDevice: Error: [Callstack] 0x00007ffc6d04438e UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.27-19.03.01:219][111]LogOutputDevice: Error: [Callstack] 0x00007ffc7301dee3 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.27-19.03.01:219][111]LogOutputDevice: Error: [Callstack] 0x00007ffc7301c109 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.27-19.03.01:219][111]LogOutputDevice: Error: [Callstack] 0x00007ffc7301dee3 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.27-19.03.01:219][111]LogOutputDevice: Error: [Callstack] 0x00007ffc7301eab1 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.27-19.03.01:219][111]LogOutputDevice: Error: [Callstack] 0x00007ffc6d04438e UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.27-19.03.01:219][111]LogOutputDevice: Error: [Callstack] 0x00007ffc7301dee3 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.27-19.03.01:219][111]LogOutputDevice: Error: [Callstack] 0x00007ffc7301c726 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.27-19.03.01:219][111]LogOutputDevice: Error: [Callstack] 0x00007ffc7301dee3 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.27-19.03.01:219][111]LogOutputDevice: Error: [Callstack] 0x00007ffc7301c109 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.27-19.03.01:219][111]LogOutputDevice: Error: [Callstack] 0x00007ffc7301dee3 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.27-19.03.01:219][111]LogOutputDevice: Error: [Callstack] 0x00007ffc7301eab1 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.27-19.03.01:219][111]LogOutputDevice: Error: [Callstack] 0x00007ffc7301c884 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.27-19.03.01:219][111]LogOutputDevice: Error: [Callstack] 0x00007ffc7301dee3 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.27-19.03.01:219][111]LogOutputDevice: Error: [Callstack] 0x00007ffc7301c109 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.27-19.03.01:219][111]LogOutputDevice: Error: [Callstack] 0x00007ffc7301dee3 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.27-19.03.01:219][111]LogOutputDevice: Error: [Callstack] 0x00007ffc7301c109 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.27-19.03.01:219][111]LogOutputDevice: Error: [Callstack] 0x00007ffc6d03efcd UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.27-19.03.01:219][111]LogOutputDevice: Error: [Callstack] 0x00007ffc7301dee3 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.27-19.03.01:219][111]LogOutputDevice: Error: [Callstack] 0x00007ffc7301c726 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.27-19.03.01:219][111]LogOutputDevice: Error: [Callstack] 0x00007ffc7301dee3 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.27-19.03.01:219][111]LogOutputDevice: Error: [Callstack] 0x00007ffc7301eab1 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.27-19.03.01:219][111]LogOutputDevice: Error: [Callstack] 0x00007ffc7301c884 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.27-19.03.01:219][111]LogOutputDevice: Error: [Callstack] 0x00007ffc7301dee3 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.27-19.03.01:219][111]LogOutputDevice: Error: [Callstack] 0x00007ffc7301c109 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.27-19.03.01:219][111]LogOutputDevice: Error: [Callstack] 0x00007ffc7301dee3 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.27-19.03.01:219][111]LogOutputDevice: Error: [Callstack] 0x00007ffc7301eab1 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.27-19.03.01:219][111]LogOutputDevice: Error: [Callstack] 0x00007ffc6d04438e UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.27-19.03.01:219][111]LogOutputDevice: Error: [Callstack] 0x00007ffc7301dee3 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.27-19.03.01:219][111]LogOutputDevice: Error: [Callstack] 0x00007ffc7301c726 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.27-19.03.01:219][111]LogOutputDevice: Error: [Callstack] 0x00007ffc7301dee3 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.27-19.03.01:219][111]LogOutputDevice: Error: [Callstack] 0x00007ffc7301c109 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.27-19.03.01:219][111]LogOutputDevice: Error: [Callstack] 0x00007ffc7301dee3 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.27-19.03.01:219][111]LogOutputDevice: Error: [Callstack] 0x00007ffc7301eab1 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.27-19.03.01:219][111]LogOutputDevice: Error: [Callstack] 0x00007ffc7301c884 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.27-19.03.01:219][111]LogOutputDevice: Error: [Callstack] 0x00007ffc7301dee3 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.27-19.03.01:219][111]LogOutputDevice: Error: [Callstack] 0x00007ffc7301eab1 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.27-19.03.01:219][111]LogOutputDevice: Error: [Callstack] 0x00007ffc7301c884 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.27-19.03.01:219][111]LogOutputDevice: Error: [Callstack] 0x00007ffc7301dee3 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.27-19.03.01:219][111]LogOutputDevice: Error: [Callstack] 0x00007ffc7301c726 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.27-19.03.01:219][111]LogOutputDevice: Error: [Callstack] 0x00007ffc7301dee3 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.27-19.03.01:219][111]LogOutputDevice: Error: [Callstack] 0x00007ffc7301c109 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.27-19.03.01:219][111]LogOutputDevice: Error: [Callstack] 0x00007ffc7301c92a UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.27-19.03.01:219][111]LogOutputDevice: Error: 
+[2021.03.27-19.03.01:227][111]LogStats:                SubmitErrorReport -  0.000 s

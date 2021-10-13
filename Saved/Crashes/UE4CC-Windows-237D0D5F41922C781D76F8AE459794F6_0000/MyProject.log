@@ -1,0 +1,520 @@
+﻿Log file open, 10/04/21 17:41:36
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MyProject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.365608
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.080s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4233996
+LogInit: Engine Version: 4.20.1-4233996+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Jul 26 2018 10:07:30
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.003s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2021.10.04-14.41.37:070][  0]LogInit: Selected Device Profile: [Windows]
+[2021.10.04-14.41.37:070][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.10.04-14.41.37:079][  0]LogHAL: Display: Platform has ~ 16 GB [17120284672 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.10.04-14.41.37:079][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2021.10.04-14.41.37:079][  0]LogInit: Going up to parent DeviceProfile []
+[2021.10.04-14.41.37:080][  0]LogInit: Computer: DESKTOP-KTCUO5G
+[2021.10.04-14.41.37:080][  0]LogInit: User: vovab
+[2021.10.04-14.41.37:080][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.10.04-14.41.37:080][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.10.04-14.41.37:080][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.10.04-14.41.37:080][  0]LogMemory: Platform Memory Stats for Windows
+[2021.10.04-14.41.37:080][  0]LogMemory: Process Physical Memory: 104.55 MB used, 104.55 MB peak
+[2021.10.04-14.41.37:080][  0]LogMemory: Process Virtual Memory: 99.39 MB used, 99.39 MB peak
+[2021.10.04-14.41.37:080][  0]LogMemory: Physical Memory: 5967.19 MB used,  10359.99 MB free, 16327.18 MB total
+[2021.10.04-14.41.37:080][  0]LogMemory: Virtual Memory: 4637.50 MB used,  10359.99 MB free, 134217728.00 MB total
+[2021.10.04-14.41.37:108][  0]LogInit: Using OS detected language (ru-RU).
+[2021.10.04-14.41.37:108][  0]LogInit: Using OS detected locale (ru-UA).
+[2021.10.04-14.41.37:109][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2021.10.04-14.41.37:110][  0]LogStreaming: Display: Took  0.002s to InitEngineTextLocalization.
+[2021.10.04-14.41.37:110][  0]LogInit: Setting process to per monitor DPI aware
+[2021.10.04-14.41.37:130][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.10.04-14.41.37:130][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.10.04-14.41.37:286][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.10.04-14.41.37:286][  0]LogD3D11RHI: D3D11 adapters:
+[2021.10.04-14.41.37:375][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2021.10.04-14.41.37:375][  0]LogD3D11RHI:       8079/0/8163 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.10.04-14.41.37:377][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.10.04-14.41.37:377][  0]LogD3D11RHI:       0/0/8163 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.10.04-14.41.37:377][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.10.04-14.41.37:381][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.10.04-14.41.37:381][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2021.10.04-14.41.37:381][  0]LogWindows: EnumDisplayDevices:
+[2021.10.04-14.41.37:381][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2021.10.04-14.41.37:382][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2021.10.04-14.41.37:382][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2021.10.04-14.41.37:382][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2021.10.04-14.41.37:382][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.10.04-14.41.37:382][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2021.10.04-14.41.37:382][  0]LogD3D11RHI:   Driver Version: 461.40 (internal:27.21.14.6140, unified:461.40)
+[2021.10.04-14.41.37:382][  0]LogD3D11RHI:      Driver Date: 1-22-2021
+[2021.10.04-14.41.37:382][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2021.10.04-14.41.37:452][  0]LogD3D11RHI: Async texture creation enabled
+[2021.10.04-14.41.37:477][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.10.04-14.41.37:479][  0]LogShaderCompilers: Guid format shader working directory is -5 characters bigger than the processId version (D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Intermediate/Shaders/WorkingDirectory/13596/).
+[2021.10.04-14.41.37:479][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/vovab/AppData/Local/Temp/UnrealShaderWorkingDir/FCD2959B4E5392B5BAF184A20D2D68D0/'.
+[2021.10.04-14.41.37:698][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2021.10.04-14.41.37:710][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2021.10.04-14.41.37:722][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2021.10.04-14.41.37:734][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2021.10.04-14.41.37:746][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2021.10.04-14.41.37:758][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2021.10.04-14.41.37:769][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2021.10.04-14.41.37:781][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2021.10.04-14.41.37:786][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2021.10.04-14.41.37:850][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.10.04-14.41.37:850][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.10.04-14.41.37:850][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.10.04-14.41.37:850][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.10.04-14.41.37:850][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.10.04-14.41.37:850][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.10.04-14.41.37:850][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.10.04-14.41.37:850][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.10.04-14.41.37:850][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.10.04-14.41.37:850][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.10.04-14.41.37:850][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.10.04-14.41.37:850][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.10.04-14.41.37:850][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.10.04-14.41.37:850][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.10.04-14.41.37:850][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.10.04-14.41.37:850][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.10.04-14.41.37:850][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.10.04-14.41.37:850][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.10.04-14.41.37:852][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2021.10.04-14.41.37:908][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2021.10.04-14.41.37:908][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2021.10.04-14.41.37:928][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2021.10.04-14.41.37:928][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2021.10.04-14.41.37:939][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2021.10.04-14.41.37:949][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2021.10.04-14.41.37:959][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2021.10.04-14.41.37:970][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2021.10.04-14.41.37:977][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2021.10.04-14.41.37:977][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.10.04-14.41.38:031][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.10.04-14.41.38:031][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.10.04-14.41.38:031][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.10.04-14.41.38:682][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.10.04-14.41.38:725][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/vovab/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2021.10.04-14.41.38:725][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/vovab/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2021.10.04-14.41.38:725][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.10.04-14.41.38:725][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.10.04-14.41.38:725][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.10.04-14.41.38:725][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.10.04-14.41.38:737][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.10.04-14.41.38:748][  0]LogDerivedDataCache: Using Local data cache path C:/Users/vovab/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.10.04-14.41.38:748][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.10.04-14.41.38:748][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.10.04-14.41.38:762][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2021.10.04-14.41.38:763][  0]LogSlate: Using FreeType 2.6.0
+[2021.10.04-14.41.38:763][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.10.04-14.41.38:825][  0]LogAssetRegistry: FAssetRegistry took 0.0256 seconds to start up
+[2021.10.04-14.41.39:106][  0]LogInit: Selected Device Profile: [Windows]
+[2021.10.04-14.41.39:211][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2021.10.04-14.41.39:214][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2021.10.04-14.41.39:215][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.10.04-14.41.39:215][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.10.04-14.41.39:215][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2021.10.04-14.41.39:227][  0]LogNetVersion: MyProject 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1110078900)
+[2021.10.04-14.41.39:631][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.069436 seconds
+[2021.10.04-14.41.39:636][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2021.10.04-14.41.39:636][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2021.10.04-14.41.39:636][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.10.04-14.41.40:363][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.10.04-14.41.40:376][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.10.04-14.41.40:497][  0]SourceControl: Source control is disabled
+[2021.10.04-14.41.40:497][  0]SourceControl: Source control is disabled
+[2021.10.04-14.41.40:498][  0]SourceControl: Source control is disabled
+[2021.10.04-14.41.40:499][  0]SourceControl: Source control is disabled
+[2021.10.04-14.41.40:642][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.10.04-14.41.40:697][  0]LogOcInput: OculusInput pre-init called
+[2021.10.04-14.41.40:746][  0]LogEngine: Initializing Engine...
+[2021.10.04-14.41.40:747][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.10.04-14.41.40:748][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2021.10.04-14.41.40:748][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2021.10.04-14.41.40:749][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2021.10.04-14.41.40:749][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2021.10.04-14.41.40:924][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.10.04-14.41.40:934][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.10.04-14.41.40:955][  0]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.10.04-14.41.40:992][  0]LogInit: FAudioDevice initialized.
+[2021.10.04-14.41.40:993][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.10.04-14.41.41:115][  0]LogDerivedDataCache: Saved boot cache 0.12s 71MB C:/Users/vovab/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2021.10.04-14.41.41:118][  0]LogInit: Texture streaming: Enabled
+[2021.10.04-14.41.41:131][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.10.04-14.41.41:142][  0]LogInit: Transaction tracking system initialized
+[2021.10.04-14.41.41:159][  0]BlueprintLog: New page: Editor Load
+[2021.10.04-14.41.41:215][  0]LocalizationService: Localization service is disabled
+[2021.10.04-14.41.41:261][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/FirstPersonOverview'
+[2021.10.04-14.41.41:262][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/FirstPersonOverview'
+[2021.10.04-14.41.41:262][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C'
+[2021.10.04-14.41.41:429][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.10.04-14.41.41:429][  0]LogCook: Display: Mobile HDR setting 1
+[2021.10.04-14.41.41:429][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2021.10.04-14.41.41:429][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2021.10.04-14.41.41:429][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2021.10.04-14.41.41:429][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2021.10.04-14.41.41:429][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2021.10.04-14.41.41:522][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/' took 0.02s
+[2021.10.04-14.41.41:522][  0]SourceControl: Source control is disabled
+[2021.10.04-14.41.41:522][  0]Cmd: MAP LOAD FILE="D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/мар/Level_06/level_06.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.10.04-14.41.41:523][  0]LightingResults: New page: Lighting Build
+[2021.10.04-14.41.41:524][  0]MapCheck: New page: Map Check
+[2021.10.04-14.41.41:525][  0]LightingResults: New page: Lighting Build
+[2021.10.04-14.41.43:960][  0]LogAIModule: Creating AISystem for world level_06
+[2021.10.04-14.41.43:989][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.10.04-14.41.44:013][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.10.04-14.41.44:091][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 77,853ms to complete.
+[2021.10.04-14.41.44:091][  0]LogFileHelpers: Loading map 'level_06' took 2.569
+[2021.10.04-14.41.44:199][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.04-14.41.44:207][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.04-14.41.44:212][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.04-14.41.44:218][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.04-14.41.44:266][  0]LogCollectionManager: Loaded 0 collections in 0.001239 seconds
+[2021.10.04-14.41.44:321][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/Collections/' took 0.01s
+[2021.10.04-14.41.44:321][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/Developers/vovab/Collections/' took 0.01s
+[2021.10.04-14.41.44:321][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/Collections/' took 0.01s
+[2021.10.04-14.41.44:321][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2021.10.04-14.41.44:332][  0]LogContentBrowser: Native class hierarchy populated in 0.0090 seconds. Added 2572 classes and 603 folders.
+[2021.10.04-14.41.44:346][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.10.04-14.41.44:638][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.10.04-14.41.44:661][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2021.10.04-14.41.44:701][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0002 seconds. Added 2 classes and 3 folders.
+[2021.10.04-14.41.44:862][  0]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.10.04-14.41.44:869][  0]LogSlate: Took 0.000179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.10.04-14.41.44:880][  0]LogSlate: Took 0.005226 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.10.04-14.41.44:888][  0]LogSlate: Took 0.006188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.10.04-14.41.44:983][  0]LogRenderer: Reallocating scene render targets to support 1252x616 Format 10 NumSamples 1 (Frame:1).
+[2021.10.04-14.41.45:092][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.10.04-14.41.45:092][  0]LogLoad: (Engine Initialization) Total time: 9.63 seconds
+[2021.10.04-14.41.45:092][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.10.04-14.41.45:124][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2021.10.04-14.41.45:185][  0]LogSlate: Took 0.005828 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.10.04-14.41.45:213][  1]LogAssetRegistry: Asset discovery search completed in 6.4105 seconds
+[2021.10.04-14.41.45:215][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2021.10.04-14.41.45:215][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000154 seconds (updated 0 objects)
+[2021.10.04-14.41.46:137][106]LogSlate: Took 0.000200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.10.04-14.41.52:662][889]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.04-14.41.52:798][901]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP_player/my_inventary/COM_my_inventary.COM_my_inventary
+[2021.10.04-14.41.53:319][901]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2021.10.04-14.41.54:008][901]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP_player/character_paper_player.character_paper_player
+[2021.10.04-14.41.54:372][901]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/my_inventory/UI_my_inventory.UI_my_inventory
+[2021.10.04-14.41.54:769][901]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP_player/my_weapon_bow/BP_my_weapon_bow.BP_my_weapon_bow
+[2021.10.04-14.41.55:105][901]LogSlate: Took 0.005613 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.10.04-14.41.55:296][902]LogSlate: Took 0.006700 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.10.04-14.42.52:418][747]Cmd: STAT FPS
+[2021.10.04-14.42.53:427][868]Cmd: t.MaxFPS 60
+[2021.10.04-14.42.53:427][868]t.MaxFPS = "60"
+[2021.10.04-14.43.32:649][725]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.04-14.45.08:078][436]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/my_inventory/UI_my_element_grid.UI_my_element_grid
+[2021.10.04-14.50.47:511][772]LogSlate: Took 0.005503 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.10.04-14.56.19:836][674]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/my_inventory/UI_my_inventory_item.UI_my_inventory_item
+[2021.10.04-14.57.58:482][568]LogEditorTransaction: Undo Move Node
+[2021.10.04-14.59.43:895][879]BlueprintLog: New page: Compile UI_my_inventory
+[2021.10.04-15.03.23:883][  1]BlueprintLog: New page: Compile UI_my_inventory
+[2021.10.04-15.06.59:533][920]BlueprintLog: New page: Compile UI_my_inventory
+[2021.10.04-15.07.59:578][509]BlueprintLog: New page: Compile UI_my_inventory
+[2021.10.04-15.08.00:233][541]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/my_inventory/UI_my_inventory" FILE="D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/UI/my_inventory/UI_my_inventory.uasset" SILENT=true
+[2021.10.04-15.08.00:405][541]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/UI_my_inventory609A20BE4D53F26A10FCB0B98A101C12.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/UI/my_inventory/UI_my_inventory.uasset'
+[2021.10.04-15.08.01:078][581]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.04-15.08.01:128][581]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/мар/Level_06/level_06.level_06:PersistentLevel' has LevelScriptBlueprint '/Game/мар/Level_06/level_06.level_06:PersistentLevel.level_06' with GeneratedClass '/Game/мар/Level_06/level_06.level_06_C' with ClassGeneratedBy '/Game/мар/Level_06/level_06.level_06:PersistentLevel.level_06'
+[2021.10.04-15.08.01:129][581]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.04-15.08.01:143][581]PIE: New page: PIE session: level_06 (4 окт. 2021, 21:08:01)
+[2021.10.04-15.08.01:144][581]LogPlayLevel: Creating play world package: /Game/мар/Level_06/UEDPIE_0_level_06
+[2021.10.04-15.08.01:149][581]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005735s)
+[2021.10.04-15.08.01:151][581]LogAIModule: Creating AISystem for world level_06
+[2021.10.04-15.08.01:151][581]LogPlayLevel: PIE: World Init took: (0.000679s)
+[2021.10.04-15.08.01:151][581]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/мар/Level_06/level_06.level_06 to /Game/мар/Level_06/UEDPIE_0_level_06.level_06 (0.007264s)
+[2021.10.04-15.08.01:190][581]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.10.04-15.08.01:204][581]LogInit: FAudioDevice initialized.
+[2021.10.04-15.08.01:211][581]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.04-15.08.01:251][581]LogLoad: Game class is 'myGameMode_C'
+[2021.10.04-15.08.01:257][581]LogWorld: Bringing World /Game/мар/Level_06/UEDPIE_0_level_06.level_06 up for play (max tick rate 60) at 2021.10.04-18.08.01
+[2021.10.04-15.08.01:258][581]LogWorld: Bringing up level for play took: 0.006439
+[2021.10.04-15.08.01:271][581]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.10.04-15.08.01:280][581]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2021.10.04-15.08.01:303][581]PIE: Play in editor start time for /Game/мар/Level_06/UEDPIE_0_level_06 0,338
+[2021.10.04-15.08.01:304][581]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/мар/Level_06/level_06.level_06:PersistentLevel' has LevelScriptBlueprint '/Game/мар/Level_06/level_06.level_06:PersistentLevel.level_06' with GeneratedClass '/Game/мар/Level_06/level_06.level_06_C' with ClassGeneratedBy '/Game/мар/Level_06/level_06.level_06:PersistentLevel.level_06'
+[2021.10.04-15.08.01:330][581]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2021.10.04-15.08.06:585][895]LogScript: Warning: Accessed None trying to read property CallFunc_get_my_item_ui_my_item
+	UI_my_inventory_C /Engine/Transient.UnrealEdEngine_0:myGameInstance_C_0.UI_my_inventory_canvas_C_0.WidgetTree_0.UI_my_inventory
+	Function /Game/UI/my_inventory/UI_my_inventory.UI_my_inventory_C:my_is_equal_item_type:01E7
+[2021.10.04-15.08.06:585][895]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_get_my_item_ui_my_item". Blueprint:  UI_my_inventory Function:  My Is Equal Item Type Graph:  my_is_equal_item_type Node:  Branch
+[2021.10.04-15.08.06:585][895]LogScript: Warning: Accessed None reading structure type_5_D2C054804E6AB83D169BC2AB97F63E9A
+	UI_my_inventory_C /Engine/Transient.UnrealEdEngine_0:myGameInstance_C_0.UI_my_inventory_canvas_C_0.WidgetTree_0.UI_my_inventory
+	Function /Game/UI/my_inventory/UI_my_inventory.UI_my_inventory_C:my_is_equal_item_type:01FC
+[2021.10.04-15.08.06:586][895]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure type_5_D2C054804E6AB83D169BC2AB97F63E9A". Blueprint:  UI_my_inventory Function:  My Is Equal Item Type Graph:  my_is_equal_item_type Node:  Branch
+[2021.10.04-15.08.06:586][895]LogScript: Warning: Accessed None trying to read property CallFunc_get_my_item_ui_my_item
+	UI_my_inventory_C /Engine/Transient.UnrealEdEngine_0:myGameInstance_C_0.UI_my_inventory_canvas_C_0.WidgetTree_0.UI_my_inventory
+	Function /Game/UI/my_inventory/UI_my_inventory.UI_my_inventory_C:my_is_equal_item_type:01E7
+[2021.10.04-15.08.06:587][895]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_get_my_item_ui_my_item". Blueprint:  UI_my_inventory Function:  My Is Equal Item Type Graph:  my_is_equal_item_type Node:  Branch
+[2021.10.04-15.08.06:587][895]LogScript: Warning: Accessed None reading structure type_5_D2C054804E6AB83D169BC2AB97F63E9A
+	UI_my_inventory_C /Engine/Transient.UnrealEdEngine_0:myGameInstance_C_0.UI_my_inventory_canvas_C_0.WidgetTree_0.UI_my_inventory
+	Function /Game/UI/my_inventory/UI_my_inventory.UI_my_inventory_C:my_is_equal_item_type:01FC
+[2021.10.04-15.08.06:587][895]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure type_5_D2C054804E6AB83D169BC2AB97F63E9A". Blueprint:  UI_my_inventory Function:  My Is Equal Item Type Graph:  my_is_equal_item_type Node:  Branch
+[2021.10.04-15.08.06:587][895]LogScript: Warning: Accessed None trying to read property CallFunc_get_my_item_ui_my_item
+	UI_my_inventory_C /Engine/Transient.UnrealEdEngine_0:myGameInstance_C_0.UI_my_inventory_canvas_C_0.WidgetTree_0.UI_my_inventory
+	Function /Game/UI/my_inventory/UI_my_inventory.UI_my_inventory_C:my_is_equal_item_type:01E7
+[2021.10.04-15.08.06:588][895]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_get_my_item_ui_my_item". Blueprint:  UI_my_inventory Function:  My Is Equal Item Type Graph:  my_is_equal_item_type Node:  Branch
+[2021.10.04-15.08.06:588][895]LogScript: Warning: Accessed None reading structure type_5_D2C054804E6AB83D169BC2AB97F63E9A
+	UI_my_inventory_C /Engine/Transient.UnrealEdEngine_0:myGameInstance_C_0.UI_my_inventory_canvas_C_0.WidgetTree_0.UI_my_inventory
+	Function /Game/UI/my_inventory/UI_my_inventory.UI_my_inventory_C:my_is_equal_item_type:01FC
+[2021.10.04-15.08.06:588][895]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure type_5_D2C054804E6AB83D169BC2AB97F63E9A". Blueprint:  UI_my_inventory Function:  My Is Equal Item Type Graph:  my_is_equal_item_type Node:  Branch
+[2021.10.04-15.08.06:589][895]LogScript: Warning: Accessed None trying to read property CallFunc_get_my_item_ui_my_item
+	UI_my_inventory_C /Engine/Transient.UnrealEdEngine_0:myGameInstance_C_0.UI_my_inventory_canvas_C_0.WidgetTree_0.UI_my_inventory
+	Function /Game/UI/my_inventory/UI_my_inventory.UI_my_inventory_C:my_is_equal_item_type:01E7
+[2021.10.04-15.08.06:589][895]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_get_my_item_ui_my_item". Blueprint:  UI_my_inventory Function:  My Is Equal Item Type Graph:  my_is_equal_item_type Node:  Branch
+[2021.10.04-15.08.06:589][895]LogScript: Warning: Accessed None reading structure type_5_D2C054804E6AB83D169BC2AB97F63E9A
+	UI_my_inventory_C /Engine/Transient.UnrealEdEngine_0:myGameInstance_C_0.UI_my_inventory_canvas_C_0.WidgetTree_0.UI_my_inventory
+	Function /Game/UI/my_inventory/UI_my_inventory.UI_my_inventory_C:my_is_equal_item_type:01FC
+[2021.10.04-15.08.06:590][895]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure type_5_D2C054804E6AB83D169BC2AB97F63E9A". Blueprint:  UI_my_inventory Function:  My Is Equal Item Type Graph:  my_is_equal_item_type Node:  Branch
+[2021.10.04-15.08.06:590][895]LogScript: Warning: Accessed None trying to read property CallFunc_get_my_item_ui_my_item
+	UI_my_inventory_C /Engine/Transient.UnrealEdEngine_0:myGameInstance_C_0.UI_my_inventory_canvas_C_0.WidgetTree_0.UI_my_inventory
+	Function /Game/UI/my_inventory/UI_my_inventory.UI_my_inventory_C:my_is_equal_item_type:01E7
+[2021.10.04-15.08.06:590][895]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_get_my_item_ui_my_item". Blueprint:  UI_my_inventory Function:  My Is Equal Item Type Graph:  my_is_equal_item_type Node:  Branch
+[2021.10.04-15.08.06:590][895]LogScript: Warning: Accessed None reading structure type_5_D2C054804E6AB83D169BC2AB97F63E9A
+	UI_my_inventory_C /Engine/Transient.UnrealEdEngine_0:myGameInstance_C_0.UI_my_inventory_canvas_C_0.WidgetTree_0.UI_my_inventory
+	Function /Game/UI/my_inventory/UI_my_inventory.UI_my_inventory_C:my_is_equal_item_type:01FC
+[2021.10.04-15.08.06:591][895]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure type_5_D2C054804E6AB83D169BC2AB97F63E9A". Blueprint:  UI_my_inventory Function:  My Is Equal Item Type Graph:  my_is_equal_item_type Node:  Branch
+[2021.10.04-15.08.09:751][ 85]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.04-15.08.10:952][157]LogBlueprintUserMessages: [character_paper_player_C_0] inventory is full
+[2021.10.04-15.08.16:935][516]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.04-15.08.18:501][610]LogBlueprintUserMessages: [character_paper_player_C_0] inventory is full
+[2021.10.04-15.08.20:452][727]LogBlueprintUserMessages: [character_paper_player_C_0] inventory is full
+[2021.10.04-15.08.23:919][935]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.04-15.08.27:135][128]LogScript: Warning: Accessed None trying to read property CallFunc_get_my_item_ui_my_item
+	UI_my_inventory_C /Engine/Transient.UnrealEdEngine_0:myGameInstance_C_0.UI_my_inventory_canvas_C_0.WidgetTree_0.UI_my_inventory
+	Function /Game/UI/my_inventory/UI_my_inventory.UI_my_inventory_C:my_is_equal_item_type:01E7
+[2021.10.04-15.08.27:136][128]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_get_my_item_ui_my_item". Blueprint:  UI_my_inventory Function:  My Is Equal Item Type Graph:  my_is_equal_item_type Node:  Branch
+[2021.10.04-15.08.27:136][128]LogScript: Warning: Accessed None reading structure type_5_D2C054804E6AB83D169BC2AB97F63E9A
+	UI_my_inventory_C /Engine/Transient.UnrealEdEngine_0:myGameInstance_C_0.UI_my_inventory_canvas_C_0.WidgetTree_0.UI_my_inventory
+	Function /Game/UI/my_inventory/UI_my_inventory.UI_my_inventory_C:my_is_equal_item_type:01FC
+[2021.10.04-15.08.27:136][128]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure type_5_D2C054804E6AB83D169BC2AB97F63E9A". Blueprint:  UI_my_inventory Function:  My Is Equal Item Type Graph:  my_is_equal_item_type Node:  Branch
+[2021.10.04-15.08.27:137][128]LogScript: Warning: Accessed None trying to read property CallFunc_get_my_item_ui_my_item
+	UI_my_inventory_C /Engine/Transient.UnrealEdEngine_0:myGameInstance_C_0.UI_my_inventory_canvas_C_0.WidgetTree_0.UI_my_inventory
+	Function /Game/UI/my_inventory/UI_my_inventory.UI_my_inventory_C:my_is_equal_item_type:01E7
+[2021.10.04-15.08.27:137][128]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_get_my_item_ui_my_item". Blueprint:  UI_my_inventory Function:  My Is Equal Item Type Graph:  my_is_equal_item_type Node:  Branch
+[2021.10.04-15.08.27:137][128]LogScript: Warning: Accessed None reading structure type_5_D2C054804E6AB83D169BC2AB97F63E9A
+	UI_my_inventory_C /Engine/Transient.UnrealEdEngine_0:myGameInstance_C_0.UI_my_inventory_canvas_C_0.WidgetTree_0.UI_my_inventory
+	Function /Game/UI/my_inventory/UI_my_inventory.UI_my_inventory_C:my_is_equal_item_type:01FC
+[2021.10.04-15.08.27:138][128]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure type_5_D2C054804E6AB83D169BC2AB97F63E9A". Blueprint:  UI_my_inventory Function:  My Is Equal Item Type Graph:  my_is_equal_item_type Node:  Branch
+[2021.10.04-15.08.27:138][128]LogScript: Warning: Accessed None trying to read property CallFunc_get_my_item_ui_my_item
+	UI_my_inventory_C /Engine/Transient.UnrealEdEngine_0:myGameInstance_C_0.UI_my_inventory_canvas_C_0.WidgetTree_0.UI_my_inventory
+	Function /Game/UI/my_inventory/UI_my_inventory.UI_my_inventory_C:my_is_equal_item_type:01E7
+[2021.10.04-15.08.27:139][128]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_get_my_item_ui_my_item". Blueprint:  UI_my_inventory Function:  My Is Equal Item Type Graph:  my_is_equal_item_type Node:  Branch
+[2021.10.04-15.08.27:139][128]LogScript: Warning: Accessed None reading structure type_5_D2C054804E6AB83D169BC2AB97F63E9A
+	UI_my_inventory_C /Engine/Transient.UnrealEdEngine_0:myGameInstance_C_0.UI_my_inventory_canvas_C_0.WidgetTree_0.UI_my_inventory
+	Function /Game/UI/my_inventory/UI_my_inventory.UI_my_inventory_C:my_is_equal_item_type:01FC
+[2021.10.04-15.08.27:139][128]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure type_5_D2C054804E6AB83D169BC2AB97F63E9A". Blueprint:  UI_my_inventory Function:  My Is Equal Item Type Graph:  my_is_equal_item_type Node:  Branch
+[2021.10.04-15.08.27:139][128]LogScript: Warning: Accessed None trying to read property CallFunc_get_my_item_ui_my_item
+	UI_my_inventory_C /Engine/Transient.UnrealEdEngine_0:myGameInstance_C_0.UI_my_inventory_canvas_C_0.WidgetTree_0.UI_my_inventory
+	Function /Game/UI/my_inventory/UI_my_inventory.UI_my_inventory_C:my_is_equal_item_type:01E7
+[2021.10.04-15.08.27:140][128]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_get_my_item_ui_my_item". Blueprint:  UI_my_inventory Function:  My Is Equal Item Type Graph:  my_is_equal_item_type Node:  Branch
+[2021.10.04-15.08.27:140][128]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure type_5_D2C054804E6AB83D169BC2AB97F63E9A". Blueprint:  UI_my_inventory Function:  My Is Equal Item Type Graph:  my_is_equal_item_type Node:  Branch
+[2021.10.04-15.08.27:140][128]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_get_my_item_ui_my_item". Blueprint:  UI_my_inventory Function:  My Is Equal Item Type Graph:  my_is_equal_item_type Node:  Branch
+[2021.10.04-15.08.27:141][128]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure type_5_D2C054804E6AB83D169BC2AB97F63E9A". Blueprint:  UI_my_inventory Function:  My Is Equal Item Type Graph:  my_is_equal_item_type Node:  Branch
+[2021.10.04-15.08.28:402][204]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_get_my_item_ui_my_item". Blueprint:  UI_my_inventory Function:  My Is Equal Item Type Graph:  my_is_equal_item_type Node:  Branch
+[2021.10.04-15.08.28:403][204]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure type_5_D2C054804E6AB83D169BC2AB97F63E9A". Blueprint:  UI_my_inventory Function:  My Is Equal Item Type Graph:  my_is_equal_item_type Node:  Branch
+[2021.10.04-15.08.28:403][204]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_get_my_item_ui_my_item". Blueprint:  UI_my_inventory Function:  My Is Equal Item Type Graph:  my_is_equal_item_type Node:  Branch
+[2021.10.04-15.08.28:403][204]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure type_5_D2C054804E6AB83D169BC2AB97F63E9A". Blueprint:  UI_my_inventory Function:  My Is Equal Item Type Graph:  my_is_equal_item_type Node:  Branch
+[2021.10.04-15.08.28:404][204]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_get_my_item_ui_my_item". Blueprint:  UI_my_inventory Function:  My Is Equal Item Type Graph:  my_is_equal_item_type Node:  Branch
+[2021.10.04-15.08.28:404][204]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure type_5_D2C054804E6AB83D169BC2AB97F63E9A". Blueprint:  UI_my_inventory Function:  My Is Equal Item Type Graph:  my_is_equal_item_type Node:  Branch
+[2021.10.04-15.08.28:404][204]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_get_my_item_ui_my_item". Blueprint:  UI_my_inventory Function:  My Is Equal Item Type Graph:  my_is_equal_item_type Node:  Branch
+[2021.10.04-15.08.28:404][204]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure type_5_D2C054804E6AB83D169BC2AB97F63E9A". Blueprint:  UI_my_inventory Function:  My Is Equal Item Type Graph:  my_is_equal_item_type Node:  Branch
+[2021.10.04-15.08.30:319][319]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_get_my_item_ui_my_item". Blueprint:  UI_my_inventory Function:  My Is Equal Item Type Graph:  my_is_equal_item_type Node:  Branch
+[2021.10.04-15.08.30:320][319]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure type_5_D2C054804E6AB83D169BC2AB97F63E9A". Blueprint:  UI_my_inventory Function:  My Is Equal Item Type Graph:  my_is_equal_item_type Node:  Branch
+[2021.10.04-15.08.30:320][319]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_get_my_item_ui_my_item". Blueprint:  UI_my_inventory Function:  My Is Equal Item Type Graph:  my_is_equal_item_type Node:  Branch
+[2021.10.04-15.08.30:320][319]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure type_5_D2C054804E6AB83D169BC2AB97F63E9A". Blueprint:  UI_my_inventory Function:  My Is Equal Item Type Graph:  my_is_equal_item_type Node:  Branch
+[2021.10.04-15.08.30:320][319]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_get_my_item_ui_my_item". Blueprint:  UI_my_inventory Function:  My Is Equal Item Type Graph:  my_is_equal_item_type Node:  Branch
+[2021.10.04-15.08.30:321][319]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure type_5_D2C054804E6AB83D169BC2AB97F63E9A". Blueprint:  UI_my_inventory Function:  My Is Equal Item Type Graph:  my_is_equal_item_type Node:  Branch
+[2021.10.04-15.08.32:703][462]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_get_my_item_ui_my_item". Blueprint:  UI_my_inventory Function:  My Is Equal Item Type Graph:  my_is_equal_item_type Node:  Branch
+[2021.10.04-15.08.32:703][462]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure type_5_D2C054804E6AB83D169BC2AB97F63E9A". Blueprint:  UI_my_inventory Function:  My Is Equal Item Type Graph:  my_is_equal_item_type Node:  Branch
+[2021.10.04-15.08.32:703][462]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_get_my_item_ui_my_item". Blueprint:  UI_my_inventory Function:  My Is Equal Item Type Graph:  my_is_equal_item_type Node:  Branch
+[2021.10.04-15.08.32:703][462]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure type_5_D2C054804E6AB83D169BC2AB97F63E9A". Blueprint:  UI_my_inventory Function:  My Is Equal Item Type Graph:  my_is_equal_item_type Node:  Branch
+[2021.10.04-15.08.36:369][682]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.04-15.08.38:519][811]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_get_my_item_ui_my_item". Blueprint:  UI_my_inventory Function:  My Is Equal Item Type Graph:  my_is_equal_item_type Node:  Branch
+[2021.10.04-15.08.38:520][811]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure type_5_D2C054804E6AB83D169BC2AB97F63E9A". Blueprint:  UI_my_inventory Function:  My Is Equal Item Type Graph:  my_is_equal_item_type Node:  Branch
+[2021.10.04-15.08.38:520][811]LogBlueprintUserMessages: [character_paper_player_C_0] inventory is full
+[2021.10.04-15.08.41:770][  6]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_get_my_item_ui_my_item". Blueprint:  UI_my_inventory Function:  My Is Equal Item Type Graph:  my_is_equal_item_type Node:  Branch
+[2021.10.04-15.08.41:770][  6]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure type_5_D2C054804E6AB83D169BC2AB97F63E9A". Blueprint:  UI_my_inventory Function:  My Is Equal Item Type Graph:  my_is_equal_item_type Node:  Branch
+[2021.10.04-15.08.41:770][  6]LogBlueprintUserMessages: [character_paper_player_C_0] inventory is full
+[2021.10.04-15.08.44:220][153]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/мар/Level_06/level_06.level_06:PersistentLevel' has LevelScriptBlueprint '/Game/мар/Level_06/level_06.level_06:PersistentLevel.level_06' with GeneratedClass '/Game/мар/Level_06/level_06.level_06_C' with ClassGeneratedBy '/Game/мар/Level_06/level_06.level_06:PersistentLevel.level_06'
+[2021.10.04-15.08.44:222][153]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.04-15.08.44:250][153]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.10.04-15.08.44:285][153]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.04-15.08.44:286][153]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/мар/Level_06/level_06.level_06:PersistentLevel' has LevelScriptBlueprint '/Game/мар/Level_06/level_06.level_06:PersistentLevel.level_06' with GeneratedClass '/Game/мар/Level_06/level_06.level_06_C' with ClassGeneratedBy '/Game/мар/Level_06/level_06.level_06:PersistentLevel.level_06'
+[2021.10.04-15.08.45:223][153]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.912 s
+[2021.10.04-15.08.45:223][153]LogOutputDevice: Error: === Handled ensure: ===
+[2021.10.04-15.08.45:223][153]LogOutputDevice: Error: 
+[2021.10.04-15.08.45:223][153]LogOutputDevice: Error: Ensure condition failed: !IsGarbageCollecting() [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\UMG\Private\Slate\SObjectWidget.cpp] [Line: 41]
+[2021.10.04-15.08.45:223][153]LogOutputDevice: Error: SObjectWidget for 'UI_my_inventory_item_dialog_C /Engine/Transient.UnrealEdEngine_0:myGameInstance_C_0.UI_my_inventory_item_dialog_C_1' destroyed while collecting garbage.  This can lead to multiple GCs being required to cleanup the object.  Possible causes might be,
+[2021.10.04-15.08.45:224][153]LogOutputDevice: Error: 1) ReleaseSlateResources not being implemented for the owner of this pointer.
+[2021.10.04-15.08.45:224][153]LogOutputDevice: Error: 2) You may just be holding onto some slate pointers on an actor that don't get reset until the actor is Garbage Collected.  You should avoid doing this, and instead reset those references when the actor is Destroyed.
+[2021.10.04-15.08.45:224][153]LogOutputDevice: Error: Stack: 
+[2021.10.04-15.08.45:224][153]LogOutputDevice: Error: [Callstack] 0x00007fffe2c47136 UE4Editor-Core.dll!UnknownFunction []
+[2021.10.04-15.08.45:224][153]LogOutputDevice: Error: [Callstack] 0x00007fffe2980c82 UE4Editor-Core.dll!UnknownFunction []
+[2021.10.04-15.08.45:224][153]LogOutputDevice: Error: [Callstack] 0x00007fffe299b346 UE4Editor-Core.dll!UnknownFunction []
+[2021.10.04-15.08.45:224][153]LogOutputDevice: Error: [Callstack] 0x00007fffe14a9a63 UE4Editor-UMG.dll!UnknownFunction []
+[2021.10.04-15.08.45:225][153]LogOutputDevice: Error: [Callstack] 0x00007fffeb98f32a UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.10.04-15.08.45:225][153]LogOutputDevice: Error: [Callstack] 0x00007fffed8dfc17 UE4Editor-Slate.dll!UnknownFunction []
+[2021.10.04-15.08.45:225][153]LogOutputDevice: Error: [Callstack] 0x00007fffed8e3419 UE4Editor-Slate.dll!UnknownFunction []
+[2021.10.04-15.08.45:225][153]LogOutputDevice: Error: [Callstack] 0x00007fffeb9992e5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.10.04-15.08.45:225][153]LogOutputDevice: Error: [Callstack] 0x00007fffe14d31f4 UE4Editor-UMG.dll!UnknownFunction []
+[2021.10.04-15.08.45:225][153]LogOutputDevice: Error: [Callstack] 0x00007fffecc12591 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.10.04-15.08.45:225][153]LogOutputDevice: Error: [Callstack] 0x00007fffecbe702e UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.10.04-15.08.45:225][153]LogOutputDevice: Error: [Callstack] 0x00007fffecb63a14 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.10.04-15.08.45:225][153]LogOutputDevice: Error: [Callstack] 0x00007fffecb62f6e UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.10.04-15.08.45:226][153]LogOutputDevice: Error: [Callstack] 0x00007fffcb6c6d41 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.10.04-15.08.45:226][153]LogOutputDevice: Error: [Callstack] 0x00007fffcb118212 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.10.04-15.08.45:226][153]LogOutputDevice: Error: [Callstack] 0x00007fffcba0f0d6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.10.04-15.08.45:226][153]LogOutputDevice: Error: [Callstack] 0x00007ff7ac555cbd UE4Editor.exe!UnknownFunction []
+[2021.10.04-15.08.45:226][153]LogOutputDevice: Error: [Callstack] 0x00007ff7ac565b3c UE4Editor.exe!UnknownFunction []
+[2021.10.04-15.08.45:226][153]LogOutputDevice: Error: [Callstack] 0x00007ff7ac565bba UE4Editor.exe!UnknownFunction []
+[2021.10.04-15.08.45:226][153]LogOutputDevice: Error: [Callstack] 0x00007ff7ac573dac UE4Editor.exe!UnknownFunction []
+[2021.10.04-15.08.45:226][153]LogOutputDevice: Error: [Callstack] 0x00007ff7ac575aaa UE4Editor.exe!UnknownFunction []
+[2021.10.04-15.08.45:226][153]LogOutputDevice: Error: [Callstack] 0x00007ff830137034 KERNEL32.DLL!UnknownFunction []
+[2021.10.04-15.08.45:227][153]LogOutputDevice: Error: [Callstack] 0x00007ff832122651 ntdll.dll!UnknownFunction []
+[2021.10.04-15.08.45:227][153]LogOutputDevice: Error: 
+[2021.10.04-15.08.45:231][153]LogStats:                SubmitErrorReport -  0.000 s

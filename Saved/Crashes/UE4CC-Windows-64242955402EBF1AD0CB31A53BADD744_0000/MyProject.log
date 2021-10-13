@@ -1,0 +1,1151 @@
+﻿Log file open, 05/20/21 20:10:16
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MyProject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.351751
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.078s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4233996
+LogInit: Engine Version: 4.20.1-4233996+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Jul 26 2018 10:07:30
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.004s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2021.05.20-17.10.16:591][  0]LogInit: Selected Device Profile: [Windows]
+[2021.05.20-17.10.16:591][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.05.20-17.10.16:600][  0]LogHAL: Display: Platform has ~ 16 GB [17120292864 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.05.20-17.10.16:600][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2021.05.20-17.10.16:600][  0]LogInit: Going up to parent DeviceProfile []
+[2021.05.20-17.10.16:601][  0]LogInit: Computer: DESKTOP-KTCUO5G
+[2021.05.20-17.10.16:601][  0]LogInit: User: vovab
+[2021.05.20-17.10.16:601][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.05.20-17.10.16:601][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.05.20-17.10.16:601][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.05.20-17.10.16:601][  0]LogMemory: Platform Memory Stats for Windows
+[2021.05.20-17.10.16:601][  0]LogMemory: Process Physical Memory: 104.11 MB used, 104.12 MB peak
+[2021.05.20-17.10.16:601][  0]LogMemory: Process Virtual Memory: 98.16 MB used, 98.16 MB peak
+[2021.05.20-17.10.16:601][  0]LogMemory: Physical Memory: 6065.63 MB used,  10261.56 MB free, 16327.18 MB total
+[2021.05.20-17.10.16:601][  0]LogMemory: Virtual Memory: 4636.09 MB used,  10261.56 MB free, 134217728.00 MB total
+[2021.05.20-17.10.16:628][  0]LogInit: Using OS detected language (ru-RU).
+[2021.05.20-17.10.16:628][  0]LogInit: Using OS detected locale (ru-UA).
+[2021.05.20-17.10.16:629][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2021.05.20-17.10.16:630][  0]LogStreaming: Display: Took  0.002s to InitEngineTextLocalization.
+[2021.05.20-17.10.16:630][  0]LogInit: Setting process to per monitor DPI aware
+[2021.05.20-17.10.16:655][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.05.20-17.10.16:655][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.05.20-17.10.16:829][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.05.20-17.10.16:829][  0]LogD3D11RHI: D3D11 adapters:
+[2021.05.20-17.10.16:920][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2021.05.20-17.10.16:920][  0]LogD3D11RHI:       8079/0/8163 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.05.20-17.10.16:921][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.05.20-17.10.16:921][  0]LogD3D11RHI:       0/0/8163 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.05.20-17.10.16:921][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.05.20-17.10.16:925][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.05.20-17.10.16:925][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2021.05.20-17.10.16:925][  0]LogWindows: EnumDisplayDevices:
+[2021.05.20-17.10.16:925][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2021.05.20-17.10.16:925][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2021.05.20-17.10.16:926][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2021.05.20-17.10.16:926][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2021.05.20-17.10.16:926][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.05.20-17.10.16:926][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2021.05.20-17.10.16:926][  0]LogD3D11RHI:   Driver Version: 461.40 (internal:27.21.14.6140, unified:461.40)
+[2021.05.20-17.10.16:926][  0]LogD3D11RHI:      Driver Date: 1-22-2021
+[2021.05.20-17.10.16:926][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2021.05.20-17.10.16:997][  0]LogD3D11RHI: Async texture creation enabled
+[2021.05.20-17.10.17:023][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.05.20-17.10.17:025][  0]LogShaderCompilers: Guid format shader working directory is -5 characters bigger than the processId version (D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Intermediate/Shaders/WorkingDirectory/10436/).
+[2021.05.20-17.10.17:025][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/vovab/AppData/Local/Temp/UnrealShaderWorkingDir/9D606C664CD464428954E0B77537DE5B/'.
+[2021.05.20-17.10.17:242][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2021.05.20-17.10.17:255][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2021.05.20-17.10.17:266][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2021.05.20-17.10.17:277][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2021.05.20-17.10.17:288][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2021.05.20-17.10.17:299][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2021.05.20-17.10.17:310][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2021.05.20-17.10.17:321][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2021.05.20-17.10.17:327][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2021.05.20-17.10.17:390][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.05.20-17.10.17:390][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.05.20-17.10.17:390][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.05.20-17.10.17:390][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.05.20-17.10.17:390][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.05.20-17.10.17:390][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.05.20-17.10.17:390][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.05.20-17.10.17:390][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.05.20-17.10.17:390][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.05.20-17.10.17:390][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.05.20-17.10.17:390][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.05.20-17.10.17:390][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.05.20-17.10.17:390][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.05.20-17.10.17:390][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.05.20-17.10.17:390][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.05.20-17.10.17:390][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.05.20-17.10.17:390][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.05.20-17.10.17:390][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.05.20-17.10.17:391][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2021.05.20-17.10.17:447][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2021.05.20-17.10.17:447][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2021.05.20-17.10.17:468][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2021.05.20-17.10.17:468][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2021.05.20-17.10.17:481][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2021.05.20-17.10.17:492][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2021.05.20-17.10.17:502][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2021.05.20-17.10.17:514][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2021.05.20-17.10.17:520][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2021.05.20-17.10.17:520][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.05.20-17.10.17:569][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.05.20-17.10.17:569][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.05.20-17.10.17:569][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.05.20-17.10.18:262][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.05.20-17.10.18:305][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/vovab/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2021.05.20-17.10.18:306][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/vovab/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2021.05.20-17.10.18:306][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.05.20-17.10.18:306][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.05.20-17.10.18:306][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.05.20-17.10.18:306][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.05.20-17.10.18:317][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.05.20-17.10.18:329][  0]LogDerivedDataCache: Using Local data cache path C:/Users/vovab/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.05.20-17.10.18:329][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.05.20-17.10.18:329][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.05.20-17.10.18:343][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2021.05.20-17.10.18:344][  0]LogSlate: Using FreeType 2.6.0
+[2021.05.20-17.10.18:345][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.05.20-17.10.18:405][  0]LogAssetRegistry: FAssetRegistry took 0.0254 seconds to start up
+[2021.05.20-17.10.18:663][  0]LogInit: Selected Device Profile: [Windows]
+[2021.05.20-17.10.18:770][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2021.05.20-17.10.18:773][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2021.05.20-17.10.18:773][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.05.20-17.10.18:773][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.05.20-17.10.18:773][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2021.05.20-17.10.18:785][  0]LogNetVersion: MyProject 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1110078900)
+[2021.05.20-17.10.19:195][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.071071 seconds
+[2021.05.20-17.10.19:201][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2021.05.20-17.10.19:201][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2021.05.20-17.10.19:201][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.05.20-17.10.19:888][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.05.20-17.10.19:902][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.05.20-17.10.20:024][  0]SourceControl: Source control is disabled
+[2021.05.20-17.10.20:024][  0]SourceControl: Source control is disabled
+[2021.05.20-17.10.20:024][  0]SourceControl: Source control is disabled
+[2021.05.20-17.10.20:025][  0]SourceControl: Source control is disabled
+[2021.05.20-17.10.20:164][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.05.20-17.10.20:220][  0]LogOcInput: OculusInput pre-init called
+[2021.05.20-17.10.20:268][  0]LogEngine: Initializing Engine...
+[2021.05.20-17.10.20:269][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.05.20-17.10.20:270][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2021.05.20-17.10.20:270][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2021.05.20-17.10.20:270][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2021.05.20-17.10.20:270][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2021.05.20-17.10.20:439][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.05.20-17.10.20:449][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.05.20-17.10.20:477][  0]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.05.20-17.10.20:512][  0]LogInit: FAudioDevice initialized.
+[2021.05.20-17.10.20:512][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.05.20-17.10.20:574][  0]LogDerivedDataCache: Saved boot cache 0.06s 71MB C:/Users/vovab/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2021.05.20-17.10.20:579][  0]LogInit: Texture streaming: Enabled
+[2021.05.20-17.10.20:594][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.05.20-17.10.20:603][  0]LogInit: Transaction tracking system initialized
+[2021.05.20-17.10.20:619][  0]BlueprintLog: New page: Editor Load
+[2021.05.20-17.10.20:674][  0]LocalizationService: Localization service is disabled
+[2021.05.20-17.10.20:722][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/FirstPersonOverview'
+[2021.05.20-17.10.20:722][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/FirstPersonOverview'
+[2021.05.20-17.10.20:722][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C'
+[2021.05.20-17.10.20:876][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.05.20-17.10.20:876][  0]LogCook: Display: Mobile HDR setting 1
+[2021.05.20-17.10.20:876][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2021.05.20-17.10.20:876][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2021.05.20-17.10.20:876][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2021.05.20-17.10.20:876][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2021.05.20-17.10.20:876][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2021.05.20-17.10.20:959][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/' took 0.01s
+[2021.05.20-17.10.20:959][  0]SourceControl: Source control is disabled
+[2021.05.20-17.10.20:959][  0]Cmd: MAP LOAD FILE="D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/мар/Level_04/level_04.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.20-17.10.20:959][  0]LightingResults: New page: Lighting Build
+[2021.05.20-17.10.20:961][  0]MapCheck: New page: Map Check
+[2021.05.20-17.10.20:961][  0]LightingResults: New page: Lighting Build
+[2021.05.20-17.10.22:542][  0]LogAIModule: Creating AISystem for world level_04
+[2021.05.20-17.10.22:568][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.20-17.10.22:587][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.20-17.10.22:656][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 69,201ms to complete.
+[2021.05.20-17.10.22:656][  0]LogFileHelpers: Loading map 'level_04' took 1.697
+[2021.05.20-17.10.22:783][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.20-17.10.22:790][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.20-17.10.22:795][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.20-17.10.22:801][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.20-17.10.22:815][  0]LogCollectionManager: Loaded 0 collections in 0.001802 seconds
+[2021.05.20-17.10.22:860][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/Collections/' took 0.01s
+[2021.05.20-17.10.22:860][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/Developers/vovab/Collections/' took 0.01s
+[2021.05.20-17.10.22:860][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/Collections/' took 0.01s
+[2021.05.20-17.10.22:860][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2021.05.20-17.10.22:867][  0]LogContentBrowser: Native class hierarchy populated in 0.0069 seconds. Added 2572 classes and 603 folders.
+[2021.05.20-17.10.22:874][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.05.20-17.10.23:207][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.05.20-17.10.23:226][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2021.05.20-17.10.23:397][  0]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.05.20-17.10.23:402][  0]LogSlate: Took 0.000149 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.05.20-17.10.23:411][  0]LogSlate: Took 0.006323 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.05.20-17.10.23:420][  0]LogSlate: Took 0.006237 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.05.20-17.10.23:524][  0]LogRenderer: Reallocating scene render targets to support 1252x568 Format 10 NumSamples 1 (Frame:1).
+[2021.05.20-17.10.23:657][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.05.20-17.10.23:657][  0]LogLoad: (Engine Initialization) Total time: 8.64 seconds
+[2021.05.20-17.10.23:657][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.05.20-17.10.23:689][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2021.05.20-17.10.23:728][  0]LogSlate: Took 0.006183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.05.20-17.10.23:754][  1]LogAssetRegistry: Asset discovery search completed in 5.3712 seconds
+[2021.05.20-17.10.23:756][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2021.05.20-17.10.23:756][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000141 seconds (updated 0 objects)
+[2021.05.20-17.10.24:688][109]LogSlate: Took 0.000176 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.05.20-17.10.26:414][316]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.05.20-17.10.26:529][327]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/enemy_entity/enemy.enemy
+[2021.05.20-17.10.27:100][327]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2021.05.20-17.10.27:829][327]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP_player/character_paper_player.character_paper_player
+[2021.05.20-17.10.28:083][327]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/enemy_entity/BP_heal_widget.BP_heal_widget
+[2021.05.20-17.10.28:354][327]LogSlate: Took 0.004775 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.05.20-17.10.34:428][ 44]Cmd: STAT FPS
+[2021.05.20-17.10.36:327][271]Cmd: t.MaxFPS 60
+[2021.05.20-17.10.36:328][271]t.MaxFPS = "60"
+[2021.05.20-17.10.44:010][732]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.05.20-17.10.52:758][254]LogSlate: Took 0.005107 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.05.20-17.10.53:529][299]LogRenderer: Reallocating scene render targets to support 1284x700 Format 10 NumSamples 1 (Frame:1).
+[2021.05.20-17.11.31:037][536]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.05.20-17.11.51:836][602]LogSlate: Window 'Delete Assets' being destroyed
+[2021.05.20-17.11.57:884][959]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/enemy_entity/heal_enemy.heal_enemy
+[2021.05.20-17.12.18:877][204]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/enemy_entity/unit_02_Sprite_0.unit_02_Sprite_0
+[2021.05.20-17.12.26:037][624]LogSlate: Window 'unit_02_Sprite_0' being destroyed
+[2021.05.20-17.12.26:040][624]LogSlate: Window 'unit_02_Sprite_0' being destroyed
+[2021.05.20-17.15.54:274][108]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.05.20-17.16.08:131][936]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.05.20-17.16.08:132][936]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.05.20-17.16.36:003][608]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/enemy_entity/enemy_heal_widget.enemy_heal_widget
+[2021.05.20-17.16.39:192][781]LogSlate: Window 'enemy_heal_widget*' being destroyed
+[2021.05.20-17.18.17:331][666]LogSlate: Window 'Color Picker' being destroyed
+[2021.05.20-17.18.51:857][732]LogSlate: Took 0.039018 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.05.20-17.22.12:638][771]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/мар/Level_04/level_04' took 0.020
+[2021.05.20-17.22.12:644][771]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/enemy_entity/enemy_heal_widget] ([1] browsable assets)...
+[2021.05.20-17.22.12:645][771]OBJ SavePackage: Finished generating thumbnails for package [/Game/enemy_entity/enemy_heal_widget]
+[2021.05.20-17.22.12:651][771]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/enemy_heal_widget_Auto1889812AF4661C799A802C599C5953435.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/Autosaves/Game/enemy_entity/enemy_heal_widget_Auto1.uasset'
+[2021.05.20-17.22.12:652][771]LogFileHelpers: Auto-saving content packages took 0.014
+[2021.05.20-17.26.13:182][183]LogSlate: Window 'Color Picker' being destroyed
+[2021.05.20-17.26.42:333][932]LogSlate: Window 'Color Picker' being destroyed
+[2021.05.20-17.28.59:618][159]LogSlate: Window 'Color Picker' being destroyed
+[2021.05.20-17.29.35:536][314]LogSlate: Window 'Color Picker' being destroyed
+[2021.05.20-17.29.54:003][422]BlueprintLog: New page: Compile enemy_heal_widget
+[2021.05.20-17.30.50:396][803]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP_player/character_paper_player.character_paper_player
+[2021.05.20-17.32.08:048][439]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP_player/heal_system.heal_system
+[2021.05.20-17.33.18:659][660]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/UI/script_heal_info/info_damage_01.info_damage_01
+[2021.05.20-17.33.43:958][159]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.05.20-17.33.48:815][447]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP_player/character_paper_player.character_paper_player
+[2021.05.20-17.35.02:571][851]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/мар/Level_04/level_04' took 0.022
+[2021.05.20-17.35.02:572][851]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/enemy_entity/enemy_heal_widget] ([1] browsable assets)...
+[2021.05.20-17.35.02:572][851]OBJ SavePackage: Finished generating thumbnails for package [/Game/enemy_entity/enemy_heal_widget]
+[2021.05.20-17.35.02:577][851]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/enemy_heal_widget_Auto2147FF627499316EB6DF31EBD81E04C9E.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/Autosaves/Game/enemy_entity/enemy_heal_widget_Auto2.uasset'
+[2021.05.20-17.35.02:578][851]LogFileHelpers: Auto-saving content packages took 0.006
+[2021.05.20-17.36.37:133][106]LogSlate: Window 'Delete Assets' being destroyed
+[2021.05.20-17.36.37:253][106]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.05.20-17.36.57:757][302]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.05.20-17.37.08:288][838]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/enemy_entity/enemy.enemy
+[2021.05.20-17.37.11:511][ 15]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/enemy_entity/enemy_heal_widget.enemy_heal_widget
+[2021.05.20-17.37.13:540][123]LogSlate: Window 'enemy_heal_widget*' being destroyed
+[2021.05.20-17.37.54:292][565]LogSlate: Took 0.005940 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.05.20-17.39.13:809][954]BlueprintLog: New page: Compile enemy_heal_widget
+[2021.05.20-17.40.37:572][977]BlueprintLog: New page: Compile enemy_heal_widget
+[2021.05.20-17.45.43:584][970]BlueprintLog: New page: Compile enemy_heal_widget
+[2021.05.20-17.46.05:562][287]BlueprintLog: New page: Compile enemy_heal_widget
+[2021.05.20-17.46.06:520][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/enemy_entity/enemy_heal_widget" FILE="D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/enemy_entity/enemy_heal_widget.uasset" SILENT=true
+[2021.05.20-17.46.06:531][342]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/enemy_heal_widget75FCB0074BC86BA7437D1BBBE486B467.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/enemy_entity/enemy_heal_widget.uasset'
+[2021.05.20-17.47.31:631][443]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.05.20-17.47.45:465][273]LogClass: Warning: In asset 'None', there is an enum property of type 'EWidgetGeometryMode' with an invalid value of ''
+[2021.05.20-17.47.45:466][273]LogClass: Warning: In asset 'None', there is an enum property of type 'EWidgetGeometryMode' with an invalid value of ''
+[2021.05.20-17.48.03:944][381]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.05.20-17.48.04:951][441]LogClass: Warning: In asset 'None', there is an enum property of type 'EWidgetGeometryMode' with an invalid value of ''
+[2021.05.20-17.48.04:952][441]LogClass: Warning: In asset 'None', there is an enum property of type 'EWidgetGeometryMode' with an invalid value of ''
+[2021.05.20-17.48.07:852][615]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.05.20-17.48.13:985][983]LogClass: Warning: In asset 'None', there is an enum property of type 'EWidgetTimingPolicy' with an invalid value of ''
+[2021.05.20-17.48.13:985][983]LogClass: Warning: In asset 'None', there is an enum property of type 'EWidgetTimingPolicy' with an invalid value of ''
+[2021.05.20-17.48.23:810][572]LogClass: Warning: In asset 'None', there is an enum property of type 'EWidgetSpace' with an invalid value of ''
+[2021.05.20-17.48.23:810][572]LogClass: Warning: In asset 'None', there is an enum property of type 'EWidgetSpace' with an invalid value of ''
+[2021.05.20-17.48.34:768][229]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.05.20-17.48.39:209][495]BlueprintLog: New page: Compile enemy
+[2021.05.20-17.48.42:802][699]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.20-17.48.42:831][699]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.20-17.48.42:844][699]PIE: New page: PIE session: level_04 (20 мая 2021, 23:48:42)
+[2021.05.20-17.48.42:846][699]LogPlayLevel: Creating play world package: /Game/мар/Level_04/UEDPIE_0_level_04
+[2021.05.20-17.48.42:849][699]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003571s)
+[2021.05.20-17.48.42:850][699]LogAIModule: Creating AISystem for world level_04
+[2021.05.20-17.48.42:850][699]LogPlayLevel: PIE: World Init took: (0.000686s)
+[2021.05.20-17.48.42:850][699]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/мар/Level_04/level_04.level_04 to /Game/мар/Level_04/UEDPIE_0_level_04.level_04 (0.004693s)
+[2021.05.20-17.48.42:886][699]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.05.20-17.48.42:901][699]LogInit: FAudioDevice initialized.
+[2021.05.20-17.48.42:946][699]LogLoad: Game class is 'myGameMode_C'
+[2021.05.20-17.48.42:949][699]LogWorld: Bringing World /Game/мар/Level_04/UEDPIE_0_level_04.level_04 up for play (max tick rate 60) at 2021.05.20-20.48.42
+[2021.05.20-17.48.42:960][699]LogWorld: Bringing up level for play took: 0.012840
+[2021.05.20-17.48.42:980][699]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.20-17.48.42:988][699]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 10 classes and 0 folders.
+[2021.05.20-17.48.43:014][699]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors2' of length 0 in '/Game/BP_player/character_paper_player.character_paper_player_C:ExecuteUbergraph_character_paper_player'!
+[2021.05.20-17.48.43:015][699]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors3' of length 0 in '/Game/BP_player/character_paper_player.character_paper_player_C:ExecuteUbergraph_character_paper_player'!
+[2021.05.20-17.48.43:015][699]PIE: Play in editor start time for /Game/мар/Level_04/UEDPIE_0_level_04 -0,232
+[2021.05.20-17.49.28:048][400]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.20-17.49.28:087][400]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.20-17.49.28:111][400]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.20-17.49.28:148][402]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.05.20-17.49.30:549][546]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.05.20-17.51.06:694][299]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/level_04_Auto33E08FCC84D98C35CB8C3CB8797C802C7.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/Autosaves/Game/мар/Level_04/level_04_Auto3.umap'
+[2021.05.20-17.51.06:696][299]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/мар/Level_04/level_04' took 0.212
+[2021.05.20-17.51.06:696][299]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.212
+[2021.05.20-17.51.06:697][299]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/enemy_entity/enemy] ([1] browsable assets)...
+[2021.05.20-17.51.06:698][299]OBJ SavePackage: Finished generating thumbnails for package [/Game/enemy_entity/enemy]
+[2021.05.20-17.51.06:698][299]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/enemy_entity/enemy" FILE="D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/Autosaves/Game/enemy_entity/enemy_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2021.05.20-17.51.06:782][299]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/enemy_Auto3E7F386CE4B795B7C7455289CD939C4B4.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/Autosaves/Game/enemy_entity/enemy_Auto3.uasset'
+[2021.05.20-17.51.06:784][299]LogFileHelpers: Auto-saving content packages took 0.087
+[2021.05.20-17.54.19:554][865]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.05.20-17.55.33:240][286]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.20-17.55.33:263][286]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.20-17.55.33:263][286]PIE: New page: PIE session: level_04 (20 мая 2021, 23:55:33)
+[2021.05.20-17.55.33:264][286]LogPlayLevel: Creating play world package: /Game/мар/Level_04/UEDPIE_0_level_04
+[2021.05.20-17.55.33:266][286]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001807s)
+[2021.05.20-17.55.33:266][286]LogAIModule: Creating AISystem for world level_04
+[2021.05.20-17.55.33:266][286]LogPlayLevel: PIE: World Init took: (0.000630s)
+[2021.05.20-17.55.33:266][286]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/мар/Level_04/level_04.level_04 to /Game/мар/Level_04/UEDPIE_0_level_04.level_04 (0.002765s)
+[2021.05.20-17.55.33:298][286]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.05.20-17.55.33:311][286]LogInit: FAudioDevice initialized.
+[2021.05.20-17.55.33:318][286]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.20-17.55.33:351][286]LogLoad: Game class is 'myGameMode_C'
+[2021.05.20-17.55.33:354][286]LogWorld: Bringing World /Game/мар/Level_04/UEDPIE_0_level_04.level_04 up for play (max tick rate 60) at 2021.05.20-20.55.33
+[2021.05.20-17.55.33:354][286]LogWorld: Bringing up level for play took: 0.002259
+[2021.05.20-17.55.33:366][286]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.20-17.55.33:377][286]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors2' of length 0 in '/Game/BP_player/character_paper_player.character_paper_player_C:ExecuteUbergraph_character_paper_player'!
+[2021.05.20-17.55.33:378][286]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors3' of length 0 in '/Game/BP_player/character_paper_player.character_paper_player_C:ExecuteUbergraph_character_paper_player'!
+[2021.05.20-17.55.33:379][286]PIE: Play in editor start time for /Game/мар/Level_04/UEDPIE_0_level_04 0,132
+[2021.05.20-17.55.33:393][286]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2021.05.20-17.56.30:425][706]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.20-17.56.30:446][706]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.05.20-17.56.30:483][706]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.20-17.56.30:532][708]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2021.05.20-18.00.20:790][124]BlueprintLog: New page: Compile enemy_heal_widget
+[2021.05.20-18.00.37:735][133]BlueprintLog: New page: Compile enemy_heal_widget
+[2021.05.20-18.00.38:286][158]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/enemy_entity/enemy_heal_widget" FILE="D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/enemy_entity/enemy_heal_widget.uasset" SILENT=true
+[2021.05.20-18.00.38:321][158]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/enemy_heal_widget6396F827462D4E178A8589A6018A842F.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/enemy_entity/enemy_heal_widget.uasset'
+[2021.05.20-18.00.39:113][206]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.20-18.00.39:134][206]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.20-18.00.39:135][206]PIE: New page: PIE session: level_04 (21 мая 2021, 00:00:39)
+[2021.05.20-18.00.39:135][206]LogPlayLevel: Creating play world package: /Game/мар/Level_04/UEDPIE_0_level_04
+[2021.05.20-18.00.39:137][206]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001731s)
+[2021.05.20-18.00.39:137][206]LogAIModule: Creating AISystem for world level_04
+[2021.05.20-18.00.39:137][206]LogPlayLevel: PIE: World Init took: (0.000603s)
+[2021.05.20-18.00.39:138][206]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/мар/Level_04/level_04.level_04 to /Game/мар/Level_04/UEDPIE_0_level_04.level_04 (0.002655s)
+[2021.05.20-18.00.39:169][206]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.05.20-18.00.39:181][206]LogInit: FAudioDevice initialized.
+[2021.05.20-18.00.39:187][206]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.20-18.00.39:218][206]LogLoad: Game class is 'myGameMode_C'
+[2021.05.20-18.00.39:221][206]LogWorld: Bringing World /Game/мар/Level_04/UEDPIE_0_level_04.level_04 up for play (max tick rate 60) at 2021.05.20-21.00.39
+[2021.05.20-18.00.39:221][206]LogWorld: Bringing up level for play took: 0.002216
+[2021.05.20-18.00.39:233][206]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.20-18.00.39:244][206]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors2' of length 0 in '/Game/BP_player/character_paper_player.character_paper_player_C:ExecuteUbergraph_character_paper_player'!
+[2021.05.20-18.00.39:244][206]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors3' of length 0 in '/Game/BP_player/character_paper_player.character_paper_player_C:ExecuteUbergraph_character_paper_player'!
+[2021.05.20-18.00.39:246][206]PIE: Play in editor start time for /Game/мар/Level_04/UEDPIE_0_level_04 -0,001
+[2021.05.20-18.00.52:016][971]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.20-18.00.52:036][971]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.05.20-18.00.52:072][971]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.20-18.00.52:122][973]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2021.05.20-18.00.56:672][246]BlueprintLog: New page: Compile enemy_heal_widget
+[2021.05.20-18.00.57:477][287]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.20-18.00.57:499][287]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.20-18.00.57:499][287]PIE: New page: PIE session: level_04 (21 мая 2021, 00:00:57)
+[2021.05.20-18.00.57:499][287]LogPlayLevel: Creating play world package: /Game/мар/Level_04/UEDPIE_0_level_04
+[2021.05.20-18.00.57:501][287]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001710s)
+[2021.05.20-18.00.57:502][287]LogAIModule: Creating AISystem for world level_04
+[2021.05.20-18.00.57:502][287]LogPlayLevel: PIE: World Init took: (0.000582s)
+[2021.05.20-18.00.57:502][287]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/мар/Level_04/level_04.level_04 to /Game/мар/Level_04/UEDPIE_0_level_04.level_04 (0.002603s)
+[2021.05.20-18.00.57:534][287]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.05.20-18.00.57:546][287]LogInit: FAudioDevice initialized.
+[2021.05.20-18.00.57:552][287]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.20-18.00.57:582][287]LogLoad: Game class is 'myGameMode_C'
+[2021.05.20-18.00.57:585][287]LogWorld: Bringing World /Game/мар/Level_04/UEDPIE_0_level_04.level_04 up for play (max tick rate 60) at 2021.05.20-21.00.57
+[2021.05.20-18.00.57:586][287]LogWorld: Bringing up level for play took: 0.002231
+[2021.05.20-18.00.57:597][287]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.20-18.00.57:608][287]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors2' of length 0 in '/Game/BP_player/character_paper_player.character_paper_player_C:ExecuteUbergraph_character_paper_player'!
+[2021.05.20-18.00.57:608][287]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors3' of length 0 in '/Game/BP_player/character_paper_player.character_paper_player_C:ExecuteUbergraph_character_paper_player'!
+[2021.05.20-18.00.57:609][287]PIE: Play in editor start time for /Game/мар/Level_04/UEDPIE_0_level_04 0,363
+[2021.05.20-18.01.23:843][856]Cmd: stat FPS
+[2021.05.20-18.01.23:843][856]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.05.20-18.01.27:008][ 46]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.05.20-18.01.30:160][235]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.20-18.01.30:180][235]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.05.20-18.01.30:210][235]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.20-18.01.30:262][237]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2021.05.20-18.06.20:704][641]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/мар/Level_04/level_04' took 0.020
+[2021.05.20-18.06.20:706][641]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/enemy_entity/enemy_heal_widget] ([1] browsable assets)...
+[2021.05.20-18.06.20:706][641]OBJ SavePackage: Finished generating thumbnails for package [/Game/enemy_entity/enemy_heal_widget]
+[2021.05.20-18.06.20:743][641]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/enemy_heal_widget_Auto42CAFED274B4A207C68DAF38E0D125388.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/Autosaves/Game/enemy_entity/enemy_heal_widget_Auto4.uasset'
+[2021.05.20-18.06.20:743][641]LogFileHelpers: Auto-saving content packages took 0.038
+[2021.05.20-18.08.34:425][658]BlueprintLog: New page: Compile enemy_heal_widget
+[2021.05.20-18.08.35:001][684]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/enemy_entity/enemy_heal_widget" FILE="D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/enemy_entity/enemy_heal_widget.uasset" SILENT=true
+[2021.05.20-18.08.35:043][684]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/enemy_heal_widget878492DB46F762CB1F1A5CB6564E6E30.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/enemy_entity/enemy_heal_widget.uasset'
+[2021.05.20-18.08.37:809][850]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.20-18.08.37:831][850]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.20-18.08.37:831][850]PIE: New page: PIE session: level_04 (21 мая 2021, 00:08:37)
+[2021.05.20-18.08.37:832][850]LogPlayLevel: Creating play world package: /Game/мар/Level_04/UEDPIE_0_level_04
+[2021.05.20-18.08.37:834][850]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001767s)
+[2021.05.20-18.08.37:834][850]LogAIModule: Creating AISystem for world level_04
+[2021.05.20-18.08.37:834][850]LogPlayLevel: PIE: World Init took: (0.000645s)
+[2021.05.20-18.08.37:834][850]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/мар/Level_04/level_04.level_04 to /Game/мар/Level_04/UEDPIE_0_level_04.level_04 (0.002749s)
+[2021.05.20-18.08.37:864][850]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.05.20-18.08.37:877][850]LogInit: FAudioDevice initialized.
+[2021.05.20-18.08.37:883][850]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.20-18.08.37:918][850]LogLoad: Game class is 'myGameMode_C'
+[2021.05.20-18.08.37:921][850]LogWorld: Bringing World /Game/мар/Level_04/UEDPIE_0_level_04.level_04 up for play (max tick rate 60) at 2021.05.20-21.08.37
+[2021.05.20-18.08.37:921][850]LogWorld: Bringing up level for play took: 0.002332
+[2021.05.20-18.08.37:933][850]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.20-18.08.37:944][850]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors2' of length 0 in '/Game/BP_player/character_paper_player.character_paper_player_C:ExecuteUbergraph_character_paper_player'!
+[2021.05.20-18.08.37:944][850]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors3' of length 0 in '/Game/BP_player/character_paper_player.character_paper_player_C:ExecuteUbergraph_character_paper_player'!
+[2021.05.20-18.08.37:945][850]PIE: Play in editor start time for /Game/мар/Level_04/UEDPIE_0_level_04 0,699
+[2021.05.20-18.08.47:967][450]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.20-18.08.47:988][450]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.05.20-18.08.48:020][450]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.20-18.08.48:068][452]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2021.05.20-18.09.43:137][756]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.20-18.09.43:158][756]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.20-18.09.43:159][756]PIE: New page: PIE session: level_04 (21 мая 2021, 00:09:43)
+[2021.05.20-18.09.43:159][756]LogPlayLevel: Creating play world package: /Game/мар/Level_04/UEDPIE_0_level_04
+[2021.05.20-18.09.43:161][756]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001665s)
+[2021.05.20-18.09.43:161][756]LogAIModule: Creating AISystem for world level_04
+[2021.05.20-18.09.43:161][756]LogPlayLevel: PIE: World Init took: (0.000591s)
+[2021.05.20-18.09.43:161][756]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/мар/Level_04/level_04.level_04 to /Game/мар/Level_04/UEDPIE_0_level_04.level_04 (0.002573s)
+[2021.05.20-18.09.43:192][756]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.05.20-18.09.43:205][756]LogInit: FAudioDevice initialized.
+[2021.05.20-18.09.43:211][756]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.20-18.09.43:239][756]LogLoad: Game class is 'myGameMode_C'
+[2021.05.20-18.09.43:242][756]LogWorld: Bringing World /Game/мар/Level_04/UEDPIE_0_level_04.level_04 up for play (max tick rate 60) at 2021.05.20-21.09.43
+[2021.05.20-18.09.43:243][756]LogWorld: Bringing up level for play took: 0.002345
+[2021.05.20-18.09.43:254][756]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.20-18.09.43:268][756]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors2' of length 0 in '/Game/BP_player/character_paper_player.character_paper_player_C:ExecuteUbergraph_character_paper_player'!
+[2021.05.20-18.09.43:268][756]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors3' of length 0 in '/Game/BP_player/character_paper_player.character_paper_player_C:ExecuteUbergraph_character_paper_player'!
+[2021.05.20-18.09.43:270][756]PIE: Play in editor start time for /Game/мар/Level_04/UEDPIE_0_level_04 0,023
+[2021.05.20-18.09.43:270][756]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 82
+[2021.05.20-18.09.43:271][756]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/enemy_entity/enemy_heal_widget.enemy_heal_widget_C:PreConstruct
+	Function /Game/enemy_entity/enemy_heal_widget.enemy_heal_widget_C:ExecuteUbergraph_enemy_heal_widget
+	Function /Game/enemy_entity/enemy_heal_widget.enemy_heal_widget_C:take_damage
+
+[2021.05.20-18.10.03:655][756]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.20-18.10.03:675][756]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.05.20-18.10.03:706][756]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.20-18.10.03:732][756]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.20-18.10.03:742][757]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2021.05.20-18.10.14:175][383]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.20-18.10.14:198][383]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.20-18.10.14:198][383]PIE: New page: PIE session: level_04 (21 мая 2021, 00:10:14)
+[2021.05.20-18.10.14:199][383]LogPlayLevel: Creating play world package: /Game/мар/Level_04/UEDPIE_0_level_04
+[2021.05.20-18.10.14:201][383]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001873s)
+[2021.05.20-18.10.14:201][383]LogAIModule: Creating AISystem for world level_04
+[2021.05.20-18.10.14:201][383]LogPlayLevel: PIE: World Init took: (0.000579s)
+[2021.05.20-18.10.14:202][383]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/мар/Level_04/level_04.level_04 to /Game/мар/Level_04/UEDPIE_0_level_04.level_04 (0.002776s)
+[2021.05.20-18.10.14:231][383]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.05.20-18.10.14:243][383]LogInit: FAudioDevice initialized.
+[2021.05.20-18.10.14:249][383]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.20-18.10.14:282][383]LogLoad: Game class is 'myGameMode_C'
+[2021.05.20-18.10.14:285][383]LogWorld: Bringing World /Game/мар/Level_04/UEDPIE_0_level_04.level_04 up for play (max tick rate 60) at 2021.05.20-21.10.14
+[2021.05.20-18.10.14:286][383]LogWorld: Bringing up level for play took: 0.002754
+[2021.05.20-18.10.14:297][383]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.20-18.10.14:308][383]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors2' of length 0 in '/Game/BP_player/character_paper_player.character_paper_player_C:ExecuteUbergraph_character_paper_player'!
+[2021.05.20-18.10.14:308][383]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors3' of length 0 in '/Game/BP_player/character_paper_player.character_paper_player_C:ExecuteUbergraph_character_paper_player'!
+[2021.05.20-18.10.14:310][383]PIE: Play in editor start time for /Game/мар/Level_04/UEDPIE_0_level_04 1,063
+[2021.05.20-18.10.14:310][383]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 82
+[2021.05.20-18.10.14:311][383]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/enemy_entity/enemy_heal_widget.enemy_heal_widget_C:PreConstruct
+	Function /Game/enemy_entity/enemy_heal_widget.enemy_heal_widget_C:ExecuteUbergraph_enemy_heal_widget
+	Function /Game/enemy_entity/enemy_heal_widget.enemy_heal_widget_C:take_damage
+
+[2021.05.20-18.10.27:384][383]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.20-18.10.27:404][383]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.05.20-18.10.27:439][383]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.20-18.10.27:465][383]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.20-18.10.27:475][384]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2021.05.20-18.10.35:307][854]BlueprintLog: New page: Compile enemy_heal_widget
+[2021.05.20-18.10.35:947][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/enemy_entity/enemy_heal_widget" FILE="D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/enemy_entity/enemy_heal_widget.uasset" SILENT=true
+[2021.05.20-18.10.35:984][884]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/enemy_heal_widget5EA6B5114EEFC0BD650B1CAD488F7F85.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/enemy_entity/enemy_heal_widget.uasset'
+[2021.05.20-18.10.36:819][934]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.20-18.10.36:845][934]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.20-18.10.36:845][934]PIE: New page: PIE session: level_04 (21 мая 2021, 00:10:36)
+[2021.05.20-18.10.36:846][934]LogPlayLevel: Creating play world package: /Game/мар/Level_04/UEDPIE_0_level_04
+[2021.05.20-18.10.36:847][934]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001653s)
+[2021.05.20-18.10.36:848][934]LogAIModule: Creating AISystem for world level_04
+[2021.05.20-18.10.36:848][934]LogPlayLevel: PIE: World Init took: (0.000546s)
+[2021.05.20-18.10.36:848][934]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/мар/Level_04/level_04.level_04 to /Game/мар/Level_04/UEDPIE_0_level_04.level_04 (0.002523s)
+[2021.05.20-18.10.36:881][934]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.05.20-18.10.36:893][934]LogInit: FAudioDevice initialized.
+[2021.05.20-18.10.36:899][934]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.20-18.10.36:931][934]LogLoad: Game class is 'myGameMode_C'
+[2021.05.20-18.10.36:934][934]LogWorld: Bringing World /Game/мар/Level_04/UEDPIE_0_level_04.level_04 up for play (max tick rate 60) at 2021.05.20-21.10.36
+[2021.05.20-18.10.36:934][934]LogWorld: Bringing up level for play took: 0.002221
+[2021.05.20-18.10.36:946][934]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.20-18.10.36:957][934]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors2' of length 0 in '/Game/BP_player/character_paper_player.character_paper_player_C:ExecuteUbergraph_character_paper_player'!
+[2021.05.20-18.10.36:957][934]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors3' of length 0 in '/Game/BP_player/character_paper_player.character_paper_player_C:ExecuteUbergraph_character_paper_player'!
+[2021.05.20-18.10.36:958][934]PIE: Play in editor start time for /Game/мар/Level_04/UEDPIE_0_level_04 -0,288
+[2021.05.20-18.10.36:959][934]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 82
+[2021.05.20-18.10.36:959][934]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/enemy_entity/enemy_heal_widget.enemy_heal_widget_C:PreConstruct
+	Function /Game/enemy_entity/enemy_heal_widget.enemy_heal_widget_C:ExecuteUbergraph_enemy_heal_widget
+	Function /Game/enemy_entity/enemy_heal_widget.enemy_heal_widget_C:take_damage
+
+[2021.05.20-18.11.13:570][358]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.20-18.11.13:591][358]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.05.20-18.11.13:625][358]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.20-18.11.13:679][360]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2021.05.20-18.11.26:064][103]BlueprintLog: New page: Compile enemy_heal_widget
+[2021.05.20-18.11.27:092][157]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.20-18.11.27:113][157]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.20-18.11.27:114][157]PIE: New page: PIE session: level_04 (21 мая 2021, 00:11:27)
+[2021.05.20-18.11.27:114][157]LogPlayLevel: Creating play world package: /Game/мар/Level_04/UEDPIE_0_level_04
+[2021.05.20-18.11.27:116][157]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001726s)
+[2021.05.20-18.11.27:116][157]LogAIModule: Creating AISystem for world level_04
+[2021.05.20-18.11.27:117][157]LogPlayLevel: PIE: World Init took: (0.000562s)
+[2021.05.20-18.11.27:117][157]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/мар/Level_04/level_04.level_04 to /Game/мар/Level_04/UEDPIE_0_level_04.level_04 (0.002608s)
+[2021.05.20-18.11.27:148][157]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.05.20-18.11.27:161][157]LogInit: FAudioDevice initialized.
+[2021.05.20-18.11.27:167][157]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.20-18.11.27:197][157]LogLoad: Game class is 'myGameMode_C'
+[2021.05.20-18.11.27:200][157]LogWorld: Bringing World /Game/мар/Level_04/UEDPIE_0_level_04.level_04 up for play (max tick rate 60) at 2021.05.20-21.11.27
+[2021.05.20-18.11.27:200][157]LogWorld: Bringing up level for play took: 0.002296
+[2021.05.20-18.11.27:213][157]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.20-18.11.27:224][157]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors2' of length 0 in '/Game/BP_player/character_paper_player.character_paper_player_C:ExecuteUbergraph_character_paper_player'!
+[2021.05.20-18.11.27:224][157]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors3' of length 0 in '/Game/BP_player/character_paper_player.character_paper_player_C:ExecuteUbergraph_character_paper_player'!
+[2021.05.20-18.11.27:225][157]PIE: Play in editor start time for /Game/мар/Level_04/UEDPIE_0_level_04 -0,021
+[2021.05.20-18.11.34:063][566]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.20-18.11.34:085][566]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.05.20-18.11.34:121][566]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.20-18.11.34:171][568]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2021.05.20-18.11.39:722][901]BlueprintLog: New page: Compile enemy_heal_widget
+[2021.05.20-18.11.40:783][957]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.20-18.11.40:805][957]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.20-18.11.40:805][957]PIE: New page: PIE session: level_04 (21 мая 2021, 00:11:40)
+[2021.05.20-18.11.40:805][957]LogPlayLevel: Creating play world package: /Game/мар/Level_04/UEDPIE_0_level_04
+[2021.05.20-18.11.40:807][957]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001683s)
+[2021.05.20-18.11.40:808][957]LogAIModule: Creating AISystem for world level_04
+[2021.05.20-18.11.40:808][957]LogPlayLevel: PIE: World Init took: (0.000586s)
+[2021.05.20-18.11.40:808][957]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/мар/Level_04/level_04.level_04 to /Game/мар/Level_04/UEDPIE_0_level_04.level_04 (0.002609s)
+[2021.05.20-18.11.40:840][957]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.05.20-18.11.40:852][957]LogInit: FAudioDevice initialized.
+[2021.05.20-18.11.40:858][957]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.20-18.11.40:887][957]LogLoad: Game class is 'myGameMode_C'
+[2021.05.20-18.11.40:890][957]LogWorld: Bringing World /Game/мар/Level_04/UEDPIE_0_level_04.level_04 up for play (max tick rate 60) at 2021.05.20-21.11.40
+[2021.05.20-18.11.40:890][957]LogWorld: Bringing up level for play took: 0.002235
+[2021.05.20-18.11.40:902][957]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.20-18.11.40:913][957]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors2' of length 0 in '/Game/BP_player/character_paper_player.character_paper_player_C:ExecuteUbergraph_character_paper_player'!
+[2021.05.20-18.11.40:913][957]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors3' of length 0 in '/Game/BP_player/character_paper_player.character_paper_player_C:ExecuteUbergraph_character_paper_player'!
+[2021.05.20-18.11.40:914][957]PIE: Play in editor start time for /Game/мар/Level_04/UEDPIE_0_level_04 -0,332
+[2021.05.20-18.11.44:733][185]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.20-18.11.44:753][185]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.05.20-18.11.44:786][185]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.20-18.11.44:834][187]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2021.05.20-18.11.49:068][441]BlueprintLog: New page: Compile enemy_heal_widget
+[2021.05.20-18.11.49:929][485]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.20-18.11.49:952][485]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.20-18.11.49:952][485]PIE: New page: PIE session: level_04 (21 мая 2021, 00:11:49)
+[2021.05.20-18.11.49:953][485]LogPlayLevel: Creating play world package: /Game/мар/Level_04/UEDPIE_0_level_04
+[2021.05.20-18.11.49:955][485]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001717s)
+[2021.05.20-18.11.49:955][485]LogAIModule: Creating AISystem for world level_04
+[2021.05.20-18.11.49:955][485]LogPlayLevel: PIE: World Init took: (0.000568s)
+[2021.05.20-18.11.49:955][485]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/мар/Level_04/level_04.level_04 to /Game/мар/Level_04/UEDPIE_0_level_04.level_04 (0.002600s)
+[2021.05.20-18.11.49:986][485]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.05.20-18.11.50:011][485]LogInit: FAudioDevice initialized.
+[2021.05.20-18.11.50:016][485]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.20-18.11.50:046][485]LogLoad: Game class is 'myGameMode_C'
+[2021.05.20-18.11.50:049][485]LogWorld: Bringing World /Game/мар/Level_04/UEDPIE_0_level_04.level_04 up for play (max tick rate 60) at 2021.05.20-21.11.50
+[2021.05.20-18.11.50:049][485]LogWorld: Bringing up level for play took: 0.002215
+[2021.05.20-18.11.50:061][485]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.20-18.11.50:072][485]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors2' of length 0 in '/Game/BP_player/character_paper_player.character_paper_player_C:ExecuteUbergraph_character_paper_player'!
+[2021.05.20-18.11.50:072][485]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors3' of length 0 in '/Game/BP_player/character_paper_player.character_paper_player_C:ExecuteUbergraph_character_paper_player'!
+[2021.05.20-18.11.50:073][485]PIE: Play in editor start time for /Game/мар/Level_04/UEDPIE_0_level_04 0,827
+[2021.05.20-18.12.35:271][195]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.20-18.12.35:291][195]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.05.20-18.12.35:327][195]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.20-18.12.35:375][197]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2021.05.20-18.13.55:474][996]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP_player/character_paper_player.character_paper_player
+[2021.05.20-18.16.03:114][629]BlueprintLog: New page: Compile enemy_heal_widget
+[2021.05.20-18.16.03:573][647]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/enemy_entity/enemy_heal_widget" FILE="D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/enemy_entity/enemy_heal_widget.uasset" SILENT=true
+[2021.05.20-18.16.03:609][647]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/enemy_heal_widget3C78356E46A33C84289476824A07D885.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/enemy_entity/enemy_heal_widget.uasset'
+[2021.05.20-18.16.28:710][151]BlueprintLog: New page: Compile enemy
+[2021.05.20-18.16.29:205][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/enemy_entity/enemy" FILE="D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/enemy_entity/enemy.uasset" SILENT=true
+[2021.05.20-18.16.29:299][169]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/enemyBF846BF644522347968CD18A8888DC9D.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/enemy_entity/enemy.uasset'
+[2021.05.20-18.16.29:915][206]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.20-18.16.29:944][206]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.20-18.16.29:944][206]PIE: New page: PIE session: level_04 (21 мая 2021, 00:16:29)
+[2021.05.20-18.16.29:945][206]LogPlayLevel: Creating play world package: /Game/мар/Level_04/UEDPIE_0_level_04
+[2021.05.20-18.16.29:947][206]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001778s)
+[2021.05.20-18.16.29:947][206]LogAIModule: Creating AISystem for world level_04
+[2021.05.20-18.16.29:947][206]LogPlayLevel: PIE: World Init took: (0.000616s)
+[2021.05.20-18.16.29:947][206]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/мар/Level_04/level_04.level_04 to /Game/мар/Level_04/UEDPIE_0_level_04.level_04 (0.002720s)
+[2021.05.20-18.16.29:980][206]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.05.20-18.16.29:993][206]LogInit: FAudioDevice initialized.
+[2021.05.20-18.16.29:999][206]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.20-18.16.30:030][206]LogLoad: Game class is 'myGameMode_C'
+[2021.05.20-18.16.30:033][206]LogWorld: Bringing World /Game/мар/Level_04/UEDPIE_0_level_04.level_04 up for play (max tick rate 60) at 2021.05.20-21.16.30
+[2021.05.20-18.16.30:033][206]LogWorld: Bringing up level for play took: 0.002366
+[2021.05.20-18.16.30:045][206]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.20-18.16.30:056][206]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors2' of length 0 in '/Game/BP_player/character_paper_player.character_paper_player_C:ExecuteUbergraph_character_paper_player'!
+[2021.05.20-18.16.30:056][206]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors3' of length 0 in '/Game/BP_player/character_paper_player.character_paper_player_C:ExecuteUbergraph_character_paper_player'!
+[2021.05.20-18.16.30:057][206]PIE: Play in editor start time for /Game/мар/Level_04/UEDPIE_0_level_04 0,811
+[2021.05.20-18.16.51:187][471]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.20-18.16.51:207][471]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.05.20-18.16.51:242][471]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.20-18.16.51:299][472]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2021.05.20-18.17.37:834][261]BlueprintLog: New page: Compile enemy_heal_widget
+[2021.05.20-18.17.38:794][307]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.20-18.17.38:821][307]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.20-18.17.38:821][307]PIE: New page: PIE session: level_04 (21 мая 2021, 00:17:38)
+[2021.05.20-18.17.38:821][307]LogPlayLevel: Creating play world package: /Game/мар/Level_04/UEDPIE_0_level_04
+[2021.05.20-18.17.38:823][307]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001742s)
+[2021.05.20-18.17.38:824][307]LogAIModule: Creating AISystem for world level_04
+[2021.05.20-18.17.38:824][307]LogPlayLevel: PIE: World Init took: (0.000542s)
+[2021.05.20-18.17.38:824][307]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/мар/Level_04/level_04.level_04 to /Game/мар/Level_04/UEDPIE_0_level_04.level_04 (0.002600s)
+[2021.05.20-18.17.38:858][307]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.05.20-18.17.38:870][307]LogInit: FAudioDevice initialized.
+[2021.05.20-18.17.38:876][307]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.20-18.17.38:904][307]LogLoad: Game class is 'myGameMode_C'
+[2021.05.20-18.17.38:907][307]LogWorld: Bringing World /Game/мар/Level_04/UEDPIE_0_level_04.level_04 up for play (max tick rate 60) at 2021.05.20-21.17.38
+[2021.05.20-18.17.38:907][307]LogWorld: Bringing up level for play took: 0.002349
+[2021.05.20-18.17.38:919][307]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.20-18.17.38:930][307]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors2' of length 0 in '/Game/BP_player/character_paper_player.character_paper_player_C:ExecuteUbergraph_character_paper_player'!
+[2021.05.20-18.17.38:930][307]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors3' of length 0 in '/Game/BP_player/character_paper_player.character_paper_player_C:ExecuteUbergraph_character_paper_player'!
+[2021.05.20-18.17.38:932][307]PIE: Play in editor start time for /Game/мар/Level_04/UEDPIE_0_level_04 -0,314
+[2021.05.20-18.17.54:342][230]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.20-18.17.54:362][230]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.05.20-18.17.54:397][230]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.20-18.17.54:451][232]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2021.05.20-18.18.41:041][ 20]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/level_04_Auto5E48EF999446035BF0217919C5E491F8C.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/Autosaves/Game/мар/Level_04/level_04_Auto5.umap'
+[2021.05.20-18.18.41:042][ 20]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/мар/Level_04/level_04' took 0.075
+[2021.05.20-18.18.41:043][ 20]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.075
+[2021.05.20-18.18.41:044][ 20]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/enemy_entity/enemy_heal_widget] ([1] browsable assets)...
+[2021.05.20-18.18.41:044][ 20]OBJ SavePackage: Finished generating thumbnails for package [/Game/enemy_entity/enemy_heal_widget]
+[2021.05.20-18.18.41:080][ 20]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/enemy_heal_widget_Auto564413FF84DE48879ABDCED93F9449D1C.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/Autosaves/Game/enemy_entity/enemy_heal_widget_Auto5.uasset'
+[2021.05.20-18.18.41:081][ 20]LogFileHelpers: Auto-saving content packages took 0.037
+[2021.05.20-18.18.58:489][ 65]BlueprintLog: New page: Compile enemy_heal_widget
+[2021.05.20-18.20.46:278][512]BlueprintLog: New page: Compile enemy
+[2021.05.20-18.21.12:883][ 96]BlueprintLog: New page: Compile enemy_heal_widget
+[2021.05.20-18.22.08:209][405]BlueprintLog: New page: Compile enemy_heal_widget
+[2021.05.20-18.23.27:031][120]BlueprintLog: New page: Compile enemy_heal_widget
+[2021.05.20-18.23.27:428][134]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/enemy_entity/enemy_heal_widget" FILE="D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/enemy_entity/enemy_heal_widget.uasset" SILENT=true
+[2021.05.20-18.23.27:472][134]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/enemy_heal_widget7556F09D461704A2BA6A3C8CC6FDBD9D.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/enemy_entity/enemy_heal_widget.uasset'
+[2021.05.20-18.23.28:904][220]BlueprintLog: New page: Compile enemy
+[2021.05.20-18.23.29:207][227]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/enemy_entity/enemy" FILE="D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/enemy_entity/enemy.uasset" SILENT=true
+[2021.05.20-18.23.29:293][227]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/enemy868E8F5B442605749848458D7B258AF6.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/enemy_entity/enemy.uasset'
+[2021.05.20-18.24.30:570][899]BlueprintLog: New page: Compile enemy_heal_widget
+[2021.05.20-18.24.33:297][ 53]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/enemy_entity/enemy_heal_widget" FILE="D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/enemy_entity/enemy_heal_widget.uasset" SILENT=true
+[2021.05.20-18.24.33:334][ 53]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/enemy_heal_widget1B92A5414A994E7FD8CBC5AD3F98EC93.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/enemy_entity/enemy_heal_widget.uasset'
+[2021.05.20-18.26.44:715][933]BlueprintLog: New page: Compile enemy_heal_widget
+[2021.05.20-18.27.57:508][290]BlueprintLog: New page: Compile enemy_heal_widget
+[2021.05.20-18.28.46:457][212]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/level_04_Auto663BD4D3F438CCCDD105411AFDA6046D7.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/Autosaves/Game/мар/Level_04/level_04_Auto6.umap'
+[2021.05.20-18.28.46:459][212]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/мар/Level_04/level_04' took 0.072
+[2021.05.20-18.28.46:459][212]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.072
+[2021.05.20-18.28.46:460][212]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/enemy_entity/enemy_heal_widget] ([1] browsable assets)...
+[2021.05.20-18.28.46:461][212]OBJ SavePackage: Finished generating thumbnails for package [/Game/enemy_entity/enemy_heal_widget]
+[2021.05.20-18.28.46:503][212]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/enemy_heal_widget_Auto6C13123224082A292B38CD9889F49357D.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/Autosaves/Game/enemy_entity/enemy_heal_widget_Auto6.uasset'
+[2021.05.20-18.28.46:503][212]LogFileHelpers: Auto-saving content packages took 0.044
+[2021.05.20-18.30.43:281][198]BlueprintLog: New page: Compile enemy
+[2021.05.20-18.30.43:328][198]LogBlueprint: Error: [Compiler enemy] This blueprint (self) is not a enemy_heal_widget_C, therefore ' Target ' must have a connection.
+[2021.05.20-18.30.43:330][198]LogBlueprint: Error: [Compiler enemy] Event Dispatcher pin is not connected  Bind Event to is_dead
+[2021.05.20-18.30.43:449][198]LogBlueprint: Warning: [Compiler enemy] [4828,43] Compile of enemy failed. 2 Fatal Issue(s) 0 Warning(s) [in 167 ms] (/Game/enemy_entity/enemy.enemy)
+[2021.05.20-18.31.47:878][ 30]BlueprintLog: New page: Compile enemy
+[2021.05.20-18.31.47:925][ 30]LogBlueprint: Error: [Compiler enemy] This blueprint (self) is not a enemy_heal_widget_C, therefore ' Target ' must have a connection.
+[2021.05.20-18.31.48:051][ 30]LogBlueprint: Warning: [Compiler enemy] [4893,04] Compile of enemy failed. 1 Fatal Issue(s) 0 Warning(s) [in 173 ms] (/Game/enemy_entity/enemy.enemy)
+[2021.05.20-18.33.35:875][456]BlueprintLog: New page: Compile enemy
+[2021.05.20-18.33.35:923][456]LogBlueprint: Error: [Compiler enemy] This blueprint (self) is not a enemy_heal_widget_C, therefore ' Target ' must have a connection.
+[2021.05.20-18.33.35:923][456]LogBlueprint: Error: [Compiler enemy] Create Event  : missing a function/event name.
+[2021.05.20-18.33.35:924][456]LogBlueprint: Error: [Compiler enemy] Failed to create property K2Node_CreateDelegate_OutputDelegate from  <None>  due to a bad or unknown type (Delegate)
+[2021.05.20-18.33.35:926][456]LogBlueprint: Error: [Compiler enemy] Create Event  Signature Error: No function/event specified.
+[2021.05.20-18.33.36:047][456]LogBlueprint: Warning: [Compiler enemy] [5001,03] Compile of enemy failed. 4 Fatal Issue(s) 0 Warning(s) [in 171 ms] (/Game/enemy_entity/enemy.enemy)
+[2021.05.20-18.33.43:138][880]BlueprintLog: New page: Compile enemy
+[2021.05.20-18.33.43:185][880]LogBlueprint: Error: [Compiler enemy] This blueprint (self) is not a enemy_heal_widget_C, therefore ' Target ' must have a connection.
+[2021.05.20-18.33.43:307][880]LogBlueprint: Warning: [Compiler enemy] [5008,29] Compile of enemy failed. 1 Fatal Issue(s) 0 Warning(s) [in 168 ms] (/Game/enemy_entity/enemy.enemy)
+[2021.05.20-18.35.45:484][180]BlueprintLog: New page: Compile enemy
+[2021.05.20-18.37.04:916][932]BlueprintLog: New page: Compile enemy
+[2021.05.20-18.37.05:487][954]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/enemy_entity/enemy" FILE="D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/enemy_entity/enemy.uasset" SILENT=true
+[2021.05.20-18.37.05:575][954]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/enemy127B319E4F9DB6C3BB271FAED69804B3.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/enemy_entity/enemy.uasset'
+[2021.05.20-18.37.06:143][988]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.20-18.37.06:171][988]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.20-18.37.06:171][988]PIE: New page: PIE session: level_04 (21 мая 2021, 00:37:06)
+[2021.05.20-18.37.06:171][988]LogPlayLevel: Creating play world package: /Game/мар/Level_04/UEDPIE_0_level_04
+[2021.05.20-18.37.06:173][988]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001732s)
+[2021.05.20-18.37.06:174][988]LogAIModule: Creating AISystem for world level_04
+[2021.05.20-18.37.06:174][988]LogPlayLevel: PIE: World Init took: (0.000607s)
+[2021.05.20-18.37.06:174][988]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/мар/Level_04/level_04.level_04 to /Game/мар/Level_04/UEDPIE_0_level_04.level_04 (0.002662s)
+[2021.05.20-18.37.06:207][988]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.05.20-18.37.06:220][988]LogInit: FAudioDevice initialized.
+[2021.05.20-18.37.06:227][988]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.20-18.37.06:254][988]LogLoad: Game class is 'myGameMode_C'
+[2021.05.20-18.37.06:257][988]LogWorld: Bringing World /Game/мар/Level_04/UEDPIE_0_level_04.level_04 up for play (max tick rate 60) at 2021.05.20-21.37.06
+[2021.05.20-18.37.06:257][988]LogWorld: Bringing up level for play took: 0.002257
+[2021.05.20-18.37.06:269][988]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.20-18.37.06:281][988]LogBlueprintUserMessages: [enemy_2] dead
+[2021.05.20-18.37.06:281][988]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors2' of length 0 in '/Game/BP_player/character_paper_player.character_paper_player_C:ExecuteUbergraph_character_paper_player'!
+[2021.05.20-18.37.06:281][988]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors3' of length 0 in '/Game/BP_player/character_paper_player.character_paper_player_C:ExecuteUbergraph_character_paper_player'!
+[2021.05.20-18.37.06:283][988]PIE: Play in editor start time for /Game/мар/Level_04/UEDPIE_0_level_04 1,036
+[2021.05.20-18.37.14:931][504]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.20-18.37.14:951][504]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.05.20-18.37.14:986][504]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.20-18.37.15:038][505]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2021.05.20-18.37.49:373][565]BlueprintLog: New page: Compile enemy
+[2021.05.20-18.37.49:886][584]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/enemy_entity/enemy" FILE="D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/enemy_entity/enemy.uasset" SILENT=true
+[2021.05.20-18.37.49:972][584]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/enemyE44BC84C4AE9CF01D66645A3EEF3799D.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/enemy_entity/enemy.uasset'
+[2021.05.20-18.37.50:576][620]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.20-18.37.50:606][620]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.20-18.37.50:606][620]PIE: New page: PIE session: level_04 (21 мая 2021, 00:37:50)
+[2021.05.20-18.37.50:606][620]LogPlayLevel: Creating play world package: /Game/мар/Level_04/UEDPIE_0_level_04
+[2021.05.20-18.37.50:608][620]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001685s)
+[2021.05.20-18.37.50:608][620]LogAIModule: Creating AISystem for world level_04
+[2021.05.20-18.37.50:608][620]LogPlayLevel: PIE: World Init took: (0.000686s)
+[2021.05.20-18.37.50:608][620]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/мар/Level_04/level_04.level_04 to /Game/мар/Level_04/UEDPIE_0_level_04.level_04 (0.002688s)
+[2021.05.20-18.37.50:639][620]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.05.20-18.37.50:651][620]LogInit: FAudioDevice initialized.
+[2021.05.20-18.37.50:657][620]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.20-18.37.50:688][620]LogLoad: Game class is 'myGameMode_C'
+[2021.05.20-18.37.50:691][620]LogWorld: Bringing World /Game/мар/Level_04/UEDPIE_0_level_04.level_04 up for play (max tick rate 60) at 2021.05.20-21.37.50
+[2021.05.20-18.37.50:691][620]LogWorld: Bringing up level for play took: 0.002274
+[2021.05.20-18.37.50:703][620]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.20-18.37.50:714][620]LogBlueprintUserMessages: [enemy_2] dead
+[2021.05.20-18.37.50:714][620]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors2' of length 0 in '/Game/BP_player/character_paper_player.character_paper_player_C:ExecuteUbergraph_character_paper_player'!
+[2021.05.20-18.37.50:714][620]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors3' of length 0 in '/Game/BP_player/character_paper_player.character_paper_player_C:ExecuteUbergraph_character_paper_player'!
+[2021.05.20-18.37.50:715][620]PIE: Play in editor start time for /Game/мар/Level_04/UEDPIE_0_level_04 -0,531
+[2021.05.20-18.38.10:653][813]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.20-18.38.10:674][813]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.05.20-18.38.10:711][813]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.20-18.38.10:765][814]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2021.05.20-18.38.19:414][333]BlueprintLog: New page: Compile enemy
+[2021.05.20-18.38.20:397][381]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.20-18.38.20:427][381]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.20-18.38.20:427][381]PIE: New page: PIE session: level_04 (21 мая 2021, 00:38:20)
+[2021.05.20-18.38.20:428][381]LogPlayLevel: Creating play world package: /Game/мар/Level_04/UEDPIE_0_level_04
+[2021.05.20-18.38.20:430][381]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001735s)
+[2021.05.20-18.38.20:430][381]LogAIModule: Creating AISystem for world level_04
+[2021.05.20-18.38.20:431][381]LogPlayLevel: PIE: World Init took: (0.000627s)
+[2021.05.20-18.38.20:431][381]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/мар/Level_04/level_04.level_04 to /Game/мар/Level_04/UEDPIE_0_level_04.level_04 (0.002730s)
+[2021.05.20-18.38.20:462][381]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.05.20-18.38.20:474][381]LogInit: FAudioDevice initialized.
+[2021.05.20-18.38.20:480][381]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.20-18.38.20:510][381]LogLoad: Game class is 'myGameMode_C'
+[2021.05.20-18.38.20:513][381]LogWorld: Bringing World /Game/мар/Level_04/UEDPIE_0_level_04.level_04 up for play (max tick rate 60) at 2021.05.20-21.38.20
+[2021.05.20-18.38.20:513][381]LogWorld: Bringing up level for play took: 0.002166
+[2021.05.20-18.38.20:525][381]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.20-18.38.20:536][381]LogBlueprintUserMessages: [enemy_2] dead
+[2021.05.20-18.38.20:536][381]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors2' of length 0 in '/Game/BP_player/character_paper_player.character_paper_player_C:ExecuteUbergraph_character_paper_player'!
+[2021.05.20-18.38.20:536][381]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors3' of length 0 in '/Game/BP_player/character_paper_player.character_paper_player_C:ExecuteUbergraph_character_paper_player'!
+[2021.05.20-18.38.20:537][381]PIE: Play in editor start time for /Game/мар/Level_04/UEDPIE_0_level_04 -0,709
+[2021.05.20-18.38.25:847][697]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.20-18.38.25:867][697]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.05.20-18.38.25:902][697]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.20-18.38.25:956][698]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2021.05.20-18.38.30:140][949]BlueprintLog: New page: Compile enemy
+[2021.05.20-18.38.31:036][991]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/enemy_entity/enemy" FILE="D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/enemy_entity/enemy.uasset" SILENT=true
+[2021.05.20-18.38.31:122][991]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/enemy221A769B4FDA9846DF3428B6CF574DE1.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/enemy_entity/enemy.uasset'
+[2021.05.20-18.38.31:855][ 35]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.20-18.38.31:884][ 35]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.20-18.38.31:884][ 35]PIE: New page: PIE session: level_04 (21 мая 2021, 00:38:31)
+[2021.05.20-18.38.31:884][ 35]LogPlayLevel: Creating play world package: /Game/мар/Level_04/UEDPIE_0_level_04
+[2021.05.20-18.38.31:886][ 35]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001661s)
+[2021.05.20-18.38.31:887][ 35]LogAIModule: Creating AISystem for world level_04
+[2021.05.20-18.38.31:887][ 35]LogPlayLevel: PIE: World Init took: (0.000576s)
+[2021.05.20-18.38.31:887][ 35]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/мар/Level_04/level_04.level_04 to /Game/мар/Level_04/UEDPIE_0_level_04.level_04 (0.002552s)
+[2021.05.20-18.38.31:921][ 35]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.05.20-18.38.31:933][ 35]LogInit: FAudioDevice initialized.
+[2021.05.20-18.38.31:938][ 35]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.20-18.38.31:964][ 35]LogLoad: Game class is 'myGameMode_C'
+[2021.05.20-18.38.31:967][ 35]LogWorld: Bringing World /Game/мар/Level_04/UEDPIE_0_level_04.level_04 up for play (max tick rate 60) at 2021.05.20-21.38.31
+[2021.05.20-18.38.31:967][ 35]LogWorld: Bringing up level for play took: 0.002109
+[2021.05.20-18.38.31:979][ 35]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.20-18.38.31:990][ 35]LogBlueprintUserMessages: [enemy_2] dead
+[2021.05.20-18.38.31:990][ 35]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors2' of length 0 in '/Game/BP_player/character_paper_player.character_paper_player_C:ExecuteUbergraph_character_paper_player'!
+[2021.05.20-18.38.31:990][ 35]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors3' of length 0 in '/Game/BP_player/character_paper_player.character_paper_player_C:ExecuteUbergraph_character_paper_player'!
+[2021.05.20-18.38.31:991][ 35]PIE: Play in editor start time for /Game/мар/Level_04/UEDPIE_0_level_04 0,745
+[2021.05.20-18.38.34:567][187]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.20-18.38.34:586][187]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.05.20-18.38.34:624][187]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.20-18.38.34:678][188]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2021.05.20-18.38.54:778][394]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.20-18.38.54:800][394]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.20-18.38.54:801][394]PIE: New page: PIE session: level_04 (21 мая 2021, 00:38:54)
+[2021.05.20-18.38.54:801][394]LogPlayLevel: Creating play world package: /Game/мар/Level_04/UEDPIE_0_level_04
+[2021.05.20-18.38.54:803][394]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001697s)
+[2021.05.20-18.38.54:803][394]LogAIModule: Creating AISystem for world level_04
+[2021.05.20-18.38.54:803][394]LogPlayLevel: PIE: World Init took: (0.000628s)
+[2021.05.20-18.38.54:804][394]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/мар/Level_04/level_04.level_04 to /Game/мар/Level_04/UEDPIE_0_level_04.level_04 (0.002650s)
+[2021.05.20-18.38.54:837][394]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.05.20-18.38.54:858][394]LogInit: FAudioDevice initialized.
+[2021.05.20-18.38.54:864][394]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.20-18.38.54:893][394]LogLoad: Game class is 'myGameMode_C'
+[2021.05.20-18.38.54:896][394]LogWorld: Bringing World /Game/мар/Level_04/UEDPIE_0_level_04.level_04 up for play (max tick rate 60) at 2021.05.20-21.38.54
+[2021.05.20-18.38.54:897][394]LogWorld: Bringing up level for play took: 0.002681
+[2021.05.20-18.38.54:909][394]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.20-18.38.54:920][394]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_CallDelegate', from offset 254
+[2021.05.20-18.38.54:920][394]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/enemy_entity/enemy.enemy_C:ReceiveBeginPlay
+	Function /Game/enemy_entity/enemy.enemy_C:ExecuteUbergraph_enemy
+	Function /Game/enemy_entity/enemy_heal_widget.enemy_heal_widget_C:take_damage
+
+[2021.05.20-18.39.05:363][394]LogBlueprintUserMessages: [enemy_2] dead
+[2021.05.20-18.39.05:363][394]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors2' of length 0 in '/Game/BP_player/character_paper_player.character_paper_player_C:ExecuteUbergraph_character_paper_player'!
+[2021.05.20-18.39.05:363][394]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors3' of length 0 in '/Game/BP_player/character_paper_player.character_paper_player_C:ExecuteUbergraph_character_paper_player'!
+[2021.05.20-18.39.05:365][394]PIE: Play in editor start time for /Game/мар/Level_04/UEDPIE_0_level_04 10,118
+[2021.05.20-18.39.05:368][394]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.20-18.39.05:389][394]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.05.20-18.39.05:423][394]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.20-18.39.05:448][394]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.20-18.39.05:464][395]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2021.05.20-18.39.24:089][511]BlueprintLog: New page: Compile enemy_heal_widget
+[2021.05.20-18.39.24:946][553]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.20-18.39.24:969][553]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.20-18.39.24:969][553]PIE: New page: PIE session: level_04 (21 мая 2021, 00:39:24)
+[2021.05.20-18.39.24:970][553]LogPlayLevel: Creating play world package: /Game/мар/Level_04/UEDPIE_0_level_04
+[2021.05.20-18.39.24:971][553]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001734s)
+[2021.05.20-18.39.24:972][553]LogAIModule: Creating AISystem for world level_04
+[2021.05.20-18.39.24:972][553]LogPlayLevel: PIE: World Init took: (0.000593s)
+[2021.05.20-18.39.24:972][553]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/мар/Level_04/level_04.level_04 to /Game/мар/Level_04/UEDPIE_0_level_04.level_04 (0.002647s)
+[2021.05.20-18.39.25:005][553]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.05.20-18.39.25:017][553]LogInit: FAudioDevice initialized.
+[2021.05.20-18.39.25:024][553]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.20-18.39.25:051][553]LogLoad: Game class is 'myGameMode_C'
+[2021.05.20-18.39.25:054][553]LogWorld: Bringing World /Game/мар/Level_04/UEDPIE_0_level_04.level_04 up for play (max tick rate 60) at 2021.05.20-21.39.25
+[2021.05.20-18.39.25:055][553]LogWorld: Bringing up level for play took: 0.002409
+[2021.05.20-18.39.25:067][553]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.20-18.39.25:077][553]LogBlueprintUserMessages: [enemy_2] dead
+[2021.05.20-18.39.25:077][553]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors2' of length 0 in '/Game/BP_player/character_paper_player.character_paper_player_C:ExecuteUbergraph_character_paper_player'!
+[2021.05.20-18.39.25:077][553]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors3' of length 0 in '/Game/BP_player/character_paper_player.character_paper_player_C:ExecuteUbergraph_character_paper_player'!
+[2021.05.20-18.39.25:079][553]PIE: Play in editor start time for /Game/мар/Level_04/UEDPIE_0_level_04 -0,167
+[2021.05.20-18.39.27:805][715]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.20-18.39.27:826][715]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.05.20-18.39.27:860][715]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.20-18.39.27:920][717]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2021.05.20-18.39.57:577][494]BlueprintLog: New page: Compile enemy_heal_widget
+[2021.05.20-18.39.58:091][515]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/enemy_entity/enemy_heal_widget" FILE="D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/enemy_entity/enemy_heal_widget.uasset" SILENT=true
+[2021.05.20-18.39.58:128][515]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/enemy_heal_widgetF3674D204A2A0683F7AC52843EFE21C2.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/enemy_entity/enemy_heal_widget.uasset'
+[2021.05.20-18.40.21:764][933]BlueprintLog: New page: Compile enemy
+[2021.05.20-18.40.22:292][953]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/enemy_entity/enemy" FILE="D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/enemy_entity/enemy.uasset" SILENT=true
+[2021.05.20-18.40.22:379][953]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/enemy285E4FD5461DFAFD98E5D5B9E4924BB5.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/enemy_entity/enemy.uasset'
+[2021.05.20-18.40.22:975][989]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.20-18.40.23:004][989]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.20-18.40.23:004][989]PIE: New page: PIE session: level_04 (21 мая 2021, 00:40:23)
+[2021.05.20-18.40.23:005][989]LogPlayLevel: Creating play world package: /Game/мар/Level_04/UEDPIE_0_level_04
+[2021.05.20-18.40.23:006][989]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001686s)
+[2021.05.20-18.40.23:007][989]LogAIModule: Creating AISystem for world level_04
+[2021.05.20-18.40.23:007][989]LogPlayLevel: PIE: World Init took: (0.000641s)
+[2021.05.20-18.40.23:007][989]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/мар/Level_04/level_04.level_04 to /Game/мар/Level_04/UEDPIE_0_level_04.level_04 (0.002710s)
+[2021.05.20-18.40.23:039][989]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.05.20-18.40.23:051][989]LogInit: FAudioDevice initialized.
+[2021.05.20-18.40.23:057][989]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.20-18.40.23:086][989]LogLoad: Game class is 'myGameMode_C'
+[2021.05.20-18.40.23:088][989]LogWorld: Bringing World /Game/мар/Level_04/UEDPIE_0_level_04.level_04 up for play (max tick rate 60) at 2021.05.20-21.40.23
+[2021.05.20-18.40.23:089][989]LogWorld: Bringing up level for play took: 0.002297
+[2021.05.20-18.40.23:101][989]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.20-18.40.23:111][989]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors2' of length 0 in '/Game/BP_player/character_paper_player.character_paper_player_C:ExecuteUbergraph_character_paper_player'!
+[2021.05.20-18.40.23:112][989]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors3' of length 0 in '/Game/BP_player/character_paper_player.character_paper_player_C:ExecuteUbergraph_character_paper_player'!
+[2021.05.20-18.40.23:113][989]PIE: Play in editor start time for /Game/мар/Level_04/UEDPIE_0_level_04 -0,134
+[2021.05.20-18.40.28:171][290]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.20-18.40.28:191][290]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.05.20-18.40.28:229][290]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.20-18.40.28:282][291]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2021.05.20-18.40.29:198][346]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.20-18.40.29:220][346]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.20-18.40.29:220][346]PIE: New page: PIE session: level_04 (21 мая 2021, 00:40:29)
+[2021.05.20-18.40.29:221][346]LogPlayLevel: Creating play world package: /Game/мар/Level_04/UEDPIE_0_level_04
+[2021.05.20-18.40.29:222][346]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001678s)
+[2021.05.20-18.40.29:223][346]LogAIModule: Creating AISystem for world level_04
+[2021.05.20-18.40.29:223][346]LogPlayLevel: PIE: World Init took: (0.000610s)
+[2021.05.20-18.40.29:223][346]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/мар/Level_04/level_04.level_04 to /Game/мар/Level_04/UEDPIE_0_level_04.level_04 (0.002603s)
+[2021.05.20-18.40.29:253][346]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.05.20-18.40.29:265][346]LogInit: FAudioDevice initialized.
+[2021.05.20-18.40.29:271][346]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.20-18.40.29:305][346]LogLoad: Game class is 'myGameMode_C'
+[2021.05.20-18.40.29:308][346]LogWorld: Bringing World /Game/мар/Level_04/UEDPIE_0_level_04.level_04 up for play (max tick rate 60) at 2021.05.20-21.40.29
+[2021.05.20-18.40.29:308][346]LogWorld: Bringing up level for play took: 0.002211
+[2021.05.20-18.40.29:320][346]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.20-18.40.29:331][346]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors2' of length 0 in '/Game/BP_player/character_paper_player.character_paper_player_C:ExecuteUbergraph_character_paper_player'!
+[2021.05.20-18.40.29:331][346]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors3' of length 0 in '/Game/BP_player/character_paper_player.character_paper_player_C:ExecuteUbergraph_character_paper_player'!
+[2021.05.20-18.40.29:333][346]PIE: Play in editor start time for /Game/мар/Level_04/UEDPIE_0_level_04 0,086
+[2021.05.20-18.40.30:305][403]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.20-18.40.30:325][403]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.05.20-18.40.30:361][403]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.20-18.40.30:415][404]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2021.05.20-18.40.38:831][909]BlueprintLog: New page: Compile enemy
+[2021.05.20-18.40.47:502][418]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.20-18.40.47:531][418]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.20-18.40.47:532][418]PIE: New page: PIE session: level_04 (21 мая 2021, 00:40:47)
+[2021.05.20-18.40.47:532][418]LogPlayLevel: Creating play world package: /Game/мар/Level_04/UEDPIE_0_level_04
+[2021.05.20-18.40.47:534][418]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001774s)
+[2021.05.20-18.40.47:534][418]LogAIModule: Creating AISystem for world level_04
+[2021.05.20-18.40.47:535][418]LogPlayLevel: PIE: World Init took: (0.000578s)
+[2021.05.20-18.40.47:535][418]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/мар/Level_04/level_04.level_04 to /Game/мар/Level_04/UEDPIE_0_level_04.level_04 (0.002708s)
+[2021.05.20-18.40.47:569][418]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.05.20-18.40.47:581][418]LogInit: FAudioDevice initialized.
+[2021.05.20-18.40.47:587][418]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.20-18.40.47:615][418]LogLoad: Game class is 'myGameMode_C'
+[2021.05.20-18.40.47:618][418]LogWorld: Bringing World /Game/мар/Level_04/UEDPIE_0_level_04.level_04 up for play (max tick rate 60) at 2021.05.20-21.40.47
+[2021.05.20-18.40.47:618][418]LogWorld: Bringing up level for play took: 0.002229
+[2021.05.20-18.40.47:630][418]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.20-18.40.47:641][418]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 82
+[2021.05.20-18.40.47:641][418]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/enemy_entity/enemy.enemy_C:ReceiveBeginPlay
+	Function /Game/enemy_entity/enemy.enemy_C:ExecuteUbergraph_enemy
+	Function /Game/enemy_entity/enemy_heal_widget.enemy_heal_widget_C:take_damage
+
+[2021.05.20-18.41.01:171][418]LogBlueprintUserMessages: [enemy_2] dead
+[2021.05.20-18.41.01:171][418]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors2' of length 0 in '/Game/BP_player/character_paper_player.character_paper_player_C:ExecuteUbergraph_character_paper_player'!
+[2021.05.20-18.41.01:171][418]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors3' of length 0 in '/Game/BP_player/character_paper_player.character_paper_player_C:ExecuteUbergraph_character_paper_player'!
+[2021.05.20-18.41.01:173][418]PIE: Play in editor start time for /Game/мар/Level_04/UEDPIE_0_level_04 13,927
+[2021.05.20-18.41.01:176][418]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.20-18.41.01:195][418]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.05.20-18.41.01:227][418]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.20-18.41.01:251][418]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.20-18.41.01:268][419]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2021.05.20-18.41.04:377][600]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/level_04_Auto78968C5024384CBF6534FAA8581607B22.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/Autosaves/Game/мар/Level_04/level_04_Auto7.umap'
+[2021.05.20-18.41.04:379][600]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/мар/Level_04/level_04' took 0.085
+[2021.05.20-18.41.04:379][600]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.085
+[2021.05.20-18.41.04:380][600]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/enemy_entity/enemy] ([1] browsable assets)...
+[2021.05.20-18.41.04:381][600]OBJ SavePackage: Finished generating thumbnails for package [/Game/enemy_entity/enemy]
+[2021.05.20-18.41.04:381][600]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/enemy_entity/enemy" FILE="D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/Autosaves/Game/enemy_entity/enemy_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2021.05.20-18.41.04:473][600]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/enemy_Auto79466BA65416BA7D851AA9CA686908D60.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/Autosaves/Game/enemy_entity/enemy_Auto7.uasset'
+[2021.05.20-18.41.04:474][600]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/enemy_entity/enemy_heal_widget] ([1] browsable assets)...
+[2021.05.20-18.41.04:474][600]OBJ SavePackage: Finished generating thumbnails for package [/Game/enemy_entity/enemy_heal_widget]
+[2021.05.20-18.41.04:512][600]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/enemy_heal_widget_Auto79A90A20E49FED85CD31A66AE25413320.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/Autosaves/Game/enemy_entity/enemy_heal_widget_Auto7.uasset'
+[2021.05.20-18.41.04:512][600]LogFileHelpers: Auto-saving content packages took 0.132
+[2021.05.20-18.41.14:138][178]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.20-18.41.14:159][178]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.20-18.41.14:159][178]PIE: New page: PIE session: level_04 (21 мая 2021, 00:41:14)
+[2021.05.20-18.41.14:160][178]LogPlayLevel: Creating play world package: /Game/мар/Level_04/UEDPIE_0_level_04
+[2021.05.20-18.41.14:161][178]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001718s)
+[2021.05.20-18.41.14:162][178]LogAIModule: Creating AISystem for world level_04
+[2021.05.20-18.41.14:162][178]LogPlayLevel: PIE: World Init took: (0.000588s)
+[2021.05.20-18.41.14:162][178]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/мар/Level_04/level_04.level_04 to /Game/мар/Level_04/UEDPIE_0_level_04.level_04 (0.002622s)
+[2021.05.20-18.41.14:193][178]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.05.20-18.41.14:205][178]LogInit: FAudioDevice initialized.
+[2021.05.20-18.41.14:211][178]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.20-18.41.14:243][178]LogLoad: Game class is 'myGameMode_C'
+[2021.05.20-18.41.14:246][178]LogWorld: Bringing World /Game/мар/Level_04/UEDPIE_0_level_04.level_04 up for play (max tick rate 60) at 2021.05.20-21.41.14
+[2021.05.20-18.41.14:246][178]LogWorld: Bringing up level for play took: 0.002294
+[2021.05.20-18.41.14:258][178]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.20-18.41.14:269][178]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 82
+[2021.05.20-18.41.14:269][178]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/enemy_entity/enemy.enemy_C:ReceiveBeginPlay
+	Function /Game/enemy_entity/enemy.enemy_C:ExecuteUbergraph_enemy
+	Function /Game/enemy_entity/enemy_heal_widget.enemy_heal_widget_C:take_damage
+
+[2021.05.20-18.41.21:440][178]LogBlueprintUserMessages: [enemy_2] dead
+[2021.05.20-18.41.21:440][178]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors2' of length 0 in '/Game/BP_player/character_paper_player.character_paper_player_C:ExecuteUbergraph_character_paper_player'!
+[2021.05.20-18.41.21:441][178]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors3' of length 0 in '/Game/BP_player/character_paper_player.character_paper_player_C:ExecuteUbergraph_character_paper_player'!
+[2021.05.20-18.41.21:443][178]PIE: Play in editor start time for /Game/мар/Level_04/UEDPIE_0_level_04 8,196
+[2021.05.20-18.41.21:445][178]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.20-18.41.21:465][178]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.05.20-18.41.21:494][178]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.20-18.41.21:521][178]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.20-18.41.21:531][179]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2021.05.20-18.42.20:792][734]BlueprintLog: New page: Compile enemy_heal_widget
+[2021.05.20-18.42.21:215][750]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/enemy_entity/enemy_heal_widget" FILE="D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/enemy_entity/enemy_heal_widget.uasset" SILENT=true
+[2021.05.20-18.42.21:251][750]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/enemy_heal_widgetC2F10A6C4804136B56A9D5B25CA83FF7.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/enemy_entity/enemy_heal_widget.uasset'
+[2021.05.20-18.42.21:886][788]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.20-18.42.21:908][788]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.20-18.42.21:908][788]PIE: New page: PIE session: level_04 (21 мая 2021, 00:42:21)
+[2021.05.20-18.42.21:908][788]LogPlayLevel: Creating play world package: /Game/мар/Level_04/UEDPIE_0_level_04
+[2021.05.20-18.42.21:910][788]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001688s)
+[2021.05.20-18.42.21:911][788]LogAIModule: Creating AISystem for world level_04
+[2021.05.20-18.42.21:911][788]LogPlayLevel: PIE: World Init took: (0.000558s)
+[2021.05.20-18.42.21:911][788]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/мар/Level_04/level_04.level_04 to /Game/мар/Level_04/UEDPIE_0_level_04.level_04 (0.002566s)
+[2021.05.20-18.42.21:944][788]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.05.20-18.42.21:956][788]LogInit: FAudioDevice initialized.
+[2021.05.20-18.42.21:963][788]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.20-18.42.21:990][788]LogLoad: Game class is 'myGameMode_C'
+[2021.05.20-18.42.21:993][788]LogWorld: Bringing World /Game/мар/Level_04/UEDPIE_0_level_04.level_04 up for play (max tick rate 60) at 2021.05.20-21.42.21
+[2021.05.20-18.42.21:994][788]LogWorld: Bringing up level for play took: 0.002508
+[2021.05.20-18.42.22:005][788]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.20-18.42.22:016][788]LogBlueprintUserMessages: [enemy_2] dead
+[2021.05.20-18.42.22:016][788]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors2' of length 0 in '/Game/BP_player/character_paper_player.character_paper_player_C:ExecuteUbergraph_character_paper_player'!
+[2021.05.20-18.42.22:016][788]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors3' of length 0 in '/Game/BP_player/character_paper_player.character_paper_player_C:ExecuteUbergraph_character_paper_player'!
+[2021.05.20-18.42.22:017][788]PIE: Play in editor start time for /Game/мар/Level_04/UEDPIE_0_level_04 0,771
+[2021.05.20-18.42.26:654][ 65]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.20-18.42.26:673][ 65]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.05.20-18.42.26:709][ 65]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.20-18.42.26:765][ 67]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2021.05.20-18.44.21:904][974]BlueprintLog: New page: Compile enemy_heal_widget
+[2021.05.20-18.44.36:525][842]BlueprintLog: New page: Compile enemy_heal_widget
+[2021.05.20-18.44.37:153][870]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/enemy_entity/enemy_heal_widget" FILE="D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/enemy_entity/enemy_heal_widget.uasset" SILENT=true
+[2021.05.20-18.44.37:190][870]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/enemy_heal_widget0A8A895342465890283248A985B17209.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/enemy_entity/enemy_heal_widget.uasset'
+[2021.05.20-18.44.44:048][281]LogUObjectArray: Warning: Invalid object index 7340127
+[2021.05.20-18.44.44:963][281]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.914 s
+[2021.05.20-18.44.44:964][281]LogOutputDevice: Error: === Handled ensure: ===
+[2021.05.20-18.44.44:964][281]LogOutputDevice: Error: 
+[2021.05.20-18.44.44:964][281]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1142]
+[2021.05.20-18.44.44:964][281]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2021.05.20-18.44.44:964][281]LogOutputDevice: Error: Stack: 
+[2021.05.20-18.44.44:964][281]LogOutputDevice: Error: [Callstack] 0x00007fff4f2c7136 UE4Editor-Core.dll!UnknownFunction []
+[2021.05.20-18.44.44:964][281]LogOutputDevice: Error: [Callstack] 0x00007fff4f000c82 UE4Editor-Core.dll!UnknownFunction []
+[2021.05.20-18.44.44:964][281]LogOutputDevice: Error: [Callstack] 0x00007fff4f01b346 UE4Editor-Core.dll!UnknownFunction []
+[2021.05.20-18.44.44:964][281]LogOutputDevice: Error: [Callstack] 0x00007fff21430c6b UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.05.20-18.44.44:965][281]LogOutputDevice: Error: [Callstack] 0x00007fff2144009e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.05.20-18.44.44:965][281]LogOutputDevice: Error: [Callstack] 0x00007fff4a64da3a UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2021.05.20-18.44.44:965][281]LogOutputDevice: Error: [Callstack] 0x00007fff4945ec2a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.05.20-18.44.44:965][281]LogOutputDevice: Error: [Callstack] 0x00007fff4941f337 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.05.20-18.44.44:965][281]LogOutputDevice: Error: [Callstack] 0x00007fff4ba88204 UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.20-18.44.44:965][281]LogOutputDevice: Error: [Callstack] 0x00007fff4bcce933 UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.20-18.44.44:965][281]LogOutputDevice: Error: [Callstack] 0x00007fff4bae281a UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.20-18.44.44:965][281]LogOutputDevice: Error: [Callstack] 0x00007fff4bab8190 UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.20-18.44.44:965][281]LogOutputDevice: Error: [Callstack] 0x00007fff4baab073 UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.20-18.44.44:966][281]LogOutputDevice: Error: [Callstack] 0x00007fff7d67d007 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.05.20-18.44.44:966][281]LogOutputDevice: Error: [Callstack] 0x00007fff7d670270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.05.20-18.44.44:966][281]LogOutputDevice: Error: [Callstack] 0x00007fff7d67f4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.05.20-18.44.44:966][281]LogOutputDevice: Error: [Callstack] 0x00007fff7d66c209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.05.20-18.44.44:966][281]LogOutputDevice: Error: [Callstack] 0x00007fff8a86e858 USER32.dll!UnknownFunction []
+[2021.05.20-18.44.44:966][281]LogOutputDevice: Error: [Callstack] 0x00007fff8a86e299 USER32.dll!UnknownFunction []
+[2021.05.20-18.44.44:966][281]LogOutputDevice: Error: [Callstack] 0x00007fff7d680646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.05.20-18.44.44:966][281]LogOutputDevice: Error: [Callstack] 0x00007ff7f21554e5 UE4Editor.exe!UnknownFunction []
+[2021.05.20-18.44.44:966][281]LogOutputDevice: Error: [Callstack] 0x00007ff7f2165b3c UE4Editor.exe!UnknownFunction []
+[2021.05.20-18.44.44:967][281]LogOutputDevice: Error: [Callstack] 0x00007ff7f2165bba UE4Editor.exe!UnknownFunction []
+[2021.05.20-18.44.44:967][281]LogOutputDevice: Error: [Callstack] 0x00007ff7f2173dac UE4Editor.exe!UnknownFunction []
+[2021.05.20-18.44.44:967][281]LogOutputDevice: Error: [Callstack] 0x00007ff7f2175aaa UE4Editor.exe!UnknownFunction []
+[2021.05.20-18.44.44:967][281]LogOutputDevice: Error: [Callstack] 0x00007fff89827034 KERNEL32.DLL!UnknownFunction []
+[2021.05.20-18.44.44:967][281]LogOutputDevice: Error: [Callstack] 0x00007fff8ad82651 ntdll.dll!UnknownFunction []
+[2021.05.20-18.44.44:967][281]LogOutputDevice: Error: 
+[2021.05.20-18.44.44:975][281]LogStats:                SubmitErrorReport -  0.000 s
