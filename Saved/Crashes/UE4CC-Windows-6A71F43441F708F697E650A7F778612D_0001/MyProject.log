@@ -1,0 +1,779 @@
+﻿Log file open, 09/30/21 17:03:21
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MyProject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.363698
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.086s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4233996
+LogInit: Engine Version: 4.20.1-4233996+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Jul 26 2018 10:07:30
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.003s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2021.09.30-14.03.22:100][  0]LogInit: Selected Device Profile: [Windows]
+[2021.09.30-14.03.22:100][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.09.30-14.03.22:109][  0]LogHAL: Display: Platform has ~ 16 GB [17120284672 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.09.30-14.03.22:109][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2021.09.30-14.03.22:109][  0]LogInit: Going up to parent DeviceProfile []
+[2021.09.30-14.03.22:110][  0]LogInit: Computer: DESKTOP-KTCUO5G
+[2021.09.30-14.03.22:110][  0]LogInit: User: vovab
+[2021.09.30-14.03.22:110][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.09.30-14.03.22:110][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.09.30-14.03.22:110][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.09.30-14.03.22:110][  0]LogMemory: Platform Memory Stats for Windows
+[2021.09.30-14.03.22:110][  0]LogMemory: Process Physical Memory: 104.44 MB used, 104.45 MB peak
+[2021.09.30-14.03.22:110][  0]LogMemory: Process Virtual Memory: 99.55 MB used, 99.55 MB peak
+[2021.09.30-14.03.22:110][  0]LogMemory: Physical Memory: 6355.50 MB used,  9971.68 MB free, 16327.18 MB total
+[2021.09.30-14.03.22:110][  0]LogMemory: Virtual Memory: 4637.50 MB used,  9971.68 MB free, 134217728.00 MB total
+[2021.09.30-14.03.22:135][  0]LogInit: Using OS detected language (ru-RU).
+[2021.09.30-14.03.22:135][  0]LogInit: Using OS detected locale (ru-UA).
+[2021.09.30-14.03.22:135][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2021.09.30-14.03.22:137][  0]LogStreaming: Display: Took  0.002s to InitEngineTextLocalization.
+[2021.09.30-14.03.22:137][  0]LogInit: Setting process to per monitor DPI aware
+[2021.09.30-14.03.22:157][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.09.30-14.03.22:157][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.09.30-14.03.22:329][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.09.30-14.03.22:329][  0]LogD3D11RHI: D3D11 adapters:
+[2021.09.30-14.03.22:429][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2021.09.30-14.03.22:429][  0]LogD3D11RHI:       8079/0/8163 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.09.30-14.03.22:431][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.09.30-14.03.22:431][  0]LogD3D11RHI:       0/0/8163 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.09.30-14.03.22:431][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.09.30-14.03.22:436][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.09.30-14.03.22:436][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2021.09.30-14.03.22:436][  0]LogWindows: EnumDisplayDevices:
+[2021.09.30-14.03.22:436][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2021.09.30-14.03.22:436][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2021.09.30-14.03.22:436][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2021.09.30-14.03.22:436][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2021.09.30-14.03.22:437][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.09.30-14.03.22:437][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2021.09.30-14.03.22:437][  0]LogD3D11RHI:   Driver Version: 461.40 (internal:27.21.14.6140, unified:461.40)
+[2021.09.30-14.03.22:437][  0]LogD3D11RHI:      Driver Date: 1-22-2021
+[2021.09.30-14.03.22:437][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2021.09.30-14.03.22:509][  0]LogD3D11RHI: Async texture creation enabled
+[2021.09.30-14.03.22:531][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.09.30-14.03.22:533][  0]LogShaderCompilers: Guid format shader working directory is -5 characters bigger than the processId version (D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Intermediate/Shaders/WorkingDirectory/11372/).
+[2021.09.30-14.03.22:533][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/vovab/AppData/Local/Temp/UnrealShaderWorkingDir/9EB0006A46888B45426B8B98A256797E/'.
+[2021.09.30-14.03.22:740][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2021.09.30-14.03.22:751][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2021.09.30-14.03.22:763][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2021.09.30-14.03.22:775][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2021.09.30-14.03.22:787][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2021.09.30-14.03.22:798][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2021.09.30-14.03.22:811][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2021.09.30-14.03.22:823][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2021.09.30-14.03.22:828][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2021.09.30-14.03.22:890][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.09.30-14.03.22:890][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.09.30-14.03.22:890][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.09.30-14.03.22:890][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.09.30-14.03.22:890][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.09.30-14.03.22:890][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.09.30-14.03.22:890][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.09.30-14.03.22:890][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.09.30-14.03.22:890][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.09.30-14.03.22:890][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.09.30-14.03.22:890][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.09.30-14.03.22:890][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.09.30-14.03.22:890][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.09.30-14.03.22:890][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.09.30-14.03.22:890][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.09.30-14.03.22:890][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.09.30-14.03.22:890][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.09.30-14.03.22:890][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.09.30-14.03.22:891][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2021.09.30-14.03.22:947][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2021.09.30-14.03.22:947][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2021.09.30-14.03.22:967][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2021.09.30-14.03.22:967][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2021.09.30-14.03.22:978][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2021.09.30-14.03.22:988][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2021.09.30-14.03.22:998][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2021.09.30-14.03.23:009][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2021.09.30-14.03.23:016][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2021.09.30-14.03.23:016][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.09.30-14.03.23:060][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.09.30-14.03.23:060][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.09.30-14.03.23:060][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.09.30-14.03.23:710][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.09.30-14.03.23:751][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/vovab/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2021.09.30-14.03.23:751][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/vovab/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2021.09.30-14.03.23:751][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.09.30-14.03.23:751][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.09.30-14.03.23:751][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.09.30-14.03.23:751][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.09.30-14.03.23:762][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.09.30-14.03.23:775][  0]LogDerivedDataCache: Using Local data cache path C:/Users/vovab/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.09.30-14.03.23:775][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.09.30-14.03.23:775][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.09.30-14.03.23:788][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2021.09.30-14.03.23:789][  0]LogSlate: Using FreeType 2.6.0
+[2021.09.30-14.03.23:790][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.09.30-14.03.23:851][  0]LogAssetRegistry: FAssetRegistry took 0.0257 seconds to start up
+[2021.09.30-14.03.24:094][  0]LogInit: Selected Device Profile: [Windows]
+[2021.09.30-14.03.24:198][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2021.09.30-14.03.24:201][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2021.09.30-14.03.24:201][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.09.30-14.03.24:201][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.09.30-14.03.24:201][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2021.09.30-14.03.24:212][  0]LogNetVersion: MyProject 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1110078900)
+[2021.09.30-14.03.24:600][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.069648 seconds
+[2021.09.30-14.03.24:606][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2021.09.30-14.03.24:606][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2021.09.30-14.03.24:606][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.09.30-14.03.25:303][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.09.30-14.03.25:316][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.09.30-14.03.25:435][  0]SourceControl: Source control is disabled
+[2021.09.30-14.03.25:435][  0]SourceControl: Source control is disabled
+[2021.09.30-14.03.25:436][  0]SourceControl: Source control is disabled
+[2021.09.30-14.03.25:437][  0]SourceControl: Source control is disabled
+[2021.09.30-14.03.25:577][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.09.30-14.03.25:628][  0]LogOcInput: OculusInput pre-init called
+[2021.09.30-14.03.25:677][  0]LogEngine: Initializing Engine...
+[2021.09.30-14.03.25:677][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.09.30-14.03.25:679][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2021.09.30-14.03.25:679][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2021.09.30-14.03.25:679][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2021.09.30-14.03.25:679][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2021.09.30-14.03.25:837][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.09.30-14.03.25:846][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.09.30-14.03.25:864][  0]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.09.30-14.03.25:897][  0]LogInit: FAudioDevice initialized.
+[2021.09.30-14.03.25:897][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.09.30-14.03.25:959][  0]LogDerivedDataCache: Saved boot cache 0.06s 71MB C:/Users/vovab/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2021.09.30-14.03.25:962][  0]LogInit: Texture streaming: Enabled
+[2021.09.30-14.03.25:974][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.09.30-14.03.25:984][  0]LogInit: Transaction tracking system initialized
+[2021.09.30-14.03.26:000][  0]BlueprintLog: New page: Editor Load
+[2021.09.30-14.03.26:054][  0]LocalizationService: Localization service is disabled
+[2021.09.30-14.03.26:100][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/FirstPersonOverview'
+[2021.09.30-14.03.26:100][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/FirstPersonOverview'
+[2021.09.30-14.03.26:100][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C'
+[2021.09.30-14.03.26:268][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.09.30-14.03.26:268][  0]LogCook: Display: Mobile HDR setting 1
+[2021.09.30-14.03.26:268][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2021.09.30-14.03.26:268][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2021.09.30-14.03.26:268][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2021.09.30-14.03.26:268][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2021.09.30-14.03.26:268][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2021.09.30-14.03.26:351][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/' took 0.02s
+[2021.09.30-14.03.26:352][  0]SourceControl: Source control is disabled
+[2021.09.30-14.03.26:352][  0]Cmd: MAP LOAD FILE="D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/мар/Level_06/level_06.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.09.30-14.03.26:352][  0]LightingResults: New page: Lighting Build
+[2021.09.30-14.03.26:354][  0]MapCheck: New page: Map Check
+[2021.09.30-14.03.26:354][  0]LightingResults: New page: Lighting Build
+[2021.09.30-14.03.28:583][  0]LogAIModule: Creating AISystem for world level_06
+[2021.09.30-14.03.28:611][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.09.30-14.03.28:635][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.09.30-14.03.28:712][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 77,172ms to complete.
+[2021.09.30-14.03.28:712][  0]LogFileHelpers: Loading map 'level_06' took 2.361
+[2021.09.30-14.03.28:835][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.30-14.03.28:842][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.30-14.03.28:848][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.30-14.03.28:853][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.30-14.03.28:872][  0]LogCollectionManager: Loaded 0 collections in 0.001251 seconds
+[2021.09.30-14.03.28:931][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/Collections/' took 0.01s
+[2021.09.30-14.03.28:931][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/Developers/vovab/Collections/' took 0.01s
+[2021.09.30-14.03.28:931][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/Collections/' took 0.01s
+[2021.09.30-14.03.28:931][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2021.09.30-14.03.28:942][  0]LogContentBrowser: Native class hierarchy populated in 0.0095 seconds. Added 2572 classes and 603 folders.
+[2021.09.30-14.03.28:958][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.09.30-14.03.29:296][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.09.30-14.03.29:322][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2021.09.30-14.03.29:373][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0002 seconds. Added 2 classes and 3 folders.
+[2021.09.30-14.03.29:563][  0]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.09.30-14.03.29:568][  0]LogSlate: Took 0.000152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.09.30-14.03.29:577][  0]LogSlate: Took 0.005067 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.09.30-14.03.29:668][  0]LogRenderer: Reallocating scene render targets to support 1252x616 Format 10 NumSamples 1 (Frame:1).
+[2021.09.30-14.03.29:778][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.09.30-14.03.29:778][  0]LogLoad: (Engine Initialization) Total time: 9.26 seconds
+[2021.09.30-14.03.29:778][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.09.30-14.03.29:813][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2021.09.30-14.03.29:875][  0]LogSlate: Took 0.006639 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.09.30-14.03.29:901][  1]LogAssetRegistry: Asset discovery search completed in 6.0732 seconds
+[2021.09.30-14.03.29:903][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2021.09.30-14.03.29:903][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000052 seconds (updated 0 objects)
+[2021.09.30-14.03.30:821][106]LogSlate: Took 0.000162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.09.30-14.03.56:351][169]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.09.30-14.03.56:470][179]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP_player/my_inventary/COM_my_inventary.COM_my_inventary
+[2021.09.30-14.03.56:994][179]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2021.09.30-14.03.57:664][179]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP_player/character_paper_player.character_paper_player
+[2021.09.30-14.03.58:006][179]LogSlate: Took 0.005824 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.09.30-14.03.58:408][180]LogSlate: Took 0.004891 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.09.30-14.04.01:314][526]LogSlate: Took 0.007177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.09.30-14.04.08:451][380]Cmd: t.MaxFPS 60
+[2021.09.30-14.04.08:452][380]t.MaxFPS = "60"
+[2021.09.30-14.04.10:634][511]Cmd: STAT FPS
+[2021.09.30-14.04.48:752][798]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.09.30-14.04.56:946][283]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.30-14.04.56:980][283]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/мар/Level_06/level_06.level_06:PersistentLevel' has LevelScriptBlueprint '/Game/мар/Level_06/level_06.level_06:PersistentLevel.level_06' with GeneratedClass '/Game/мар/Level_06/level_06.level_06_C' with ClassGeneratedBy '/Game/мар/Level_06/level_06.level_06:PersistentLevel.level_06'
+[2021.09.30-14.04.56:981][283]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.30-14.04.56:995][283]PIE: New page: PIE session: level_06 (30 сент. 2021, 20:04:56)
+[2021.09.30-14.04.56:996][283]LogPlayLevel: Creating play world package: /Game/мар/Level_06/UEDPIE_0_level_06
+[2021.09.30-14.04.57:001][283]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004902s)
+[2021.09.30-14.04.57:002][283]LogAIModule: Creating AISystem for world level_06
+[2021.09.30-14.04.57:002][283]LogPlayLevel: PIE: World Init took: (0.000636s)
+[2021.09.30-14.04.57:002][283]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/мар/Level_06/level_06.level_06 to /Game/мар/Level_06/UEDPIE_0_level_06.level_06 (0.006341s)
+[2021.09.30-14.04.57:040][283]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.09.30-14.04.57:053][283]LogInit: FAudioDevice initialized.
+[2021.09.30-14.04.57:060][283]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.30-14.04.57:106][283]LogLoad: Game class is 'myGameMode_C'
+[2021.09.30-14.04.57:113][283]LogWorld: Bringing World /Game/мар/Level_06/UEDPIE_0_level_06.level_06 up for play (max tick rate 60) at 2021.09.30-17.04.57
+[2021.09.30-14.04.57:114][283]LogWorld: Bringing up level for play took: 0.006374
+[2021.09.30-14.04.57:127][283]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.09.30-14.04.57:133][283]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2021.09.30-14.04.57:159][283]PIE: Play in editor start time for /Game/мар/Level_06/UEDPIE_0_level_06 0,361
+[2021.09.30-14.04.57:160][283]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/мар/Level_06/level_06.level_06:PersistentLevel' has LevelScriptBlueprint '/Game/мар/Level_06/level_06.level_06:PersistentLevel.level_06' with GeneratedClass '/Game/мар/Level_06/level_06.level_06_C' with ClassGeneratedBy '/Game/мар/Level_06/level_06.level_06:PersistentLevel.level_06'
+[2021.09.30-14.04.57:190][283]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2021.09.30-14.05.07:510][901]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:myGameInstance_C_0.UI_my_inventory_item_C_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2021.09.30-14.05.09:843][ 41]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.09.30-14.05.12:510][201]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.09.30-14.05.29:211][203]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.09.30-14.05.33:944][487]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.09.30-14.05.41:178][921]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.09.30-14.05.43:128][ 38]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.09.30-14.05.45:378][173]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/мар/Level_06/level_06.level_06:PersistentLevel' has LevelScriptBlueprint '/Game/мар/Level_06/level_06.level_06:PersistentLevel.level_06' with GeneratedClass '/Game/мар/Level_06/level_06.level_06_C' with ClassGeneratedBy '/Game/мар/Level_06/level_06.level_06:PersistentLevel.level_06'
+[2021.09.30-14.05.45:380][173]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.30-14.05.45:408][173]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.09.30-14.05.45:439][173]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.30-14.05.45:439][173]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/мар/Level_06/level_06.level_06:PersistentLevel' has LevelScriptBlueprint '/Game/мар/Level_06/level_06.level_06:PersistentLevel.level_06' with GeneratedClass '/Game/мар/Level_06/level_06.level_06_C' with ClassGeneratedBy '/Game/мар/Level_06/level_06.level_06:PersistentLevel.level_06'
+[2021.09.30-14.05.46:389][173]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.925 s
+[2021.09.30-14.05.46:389][173]LogOutputDevice: Error: === Handled ensure: ===
+[2021.09.30-14.05.46:389][173]LogOutputDevice: Error: 
+[2021.09.30-14.05.46:389][173]LogOutputDevice: Error: Ensure condition failed: !IsGarbageCollecting() [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\UMG\Private\Slate\SObjectWidget.cpp] [Line: 41]
+[2021.09.30-14.05.46:389][173]LogOutputDevice: Error: SObjectWidget for 'UI_my_inventory_item_dialog_C /Engine/Transient.UnrealEdEngine_0:myGameInstance_C_0.UI_my_inventory_item_dialog_C_3' destroyed while collecting garbage.  This can lead to multiple GCs being required to cleanup the object.  Possible causes might be,
+[2021.09.30-14.05.46:389][173]LogOutputDevice: Error: 1) ReleaseSlateResources not being implemented for the owner of this pointer.
+[2021.09.30-14.05.46:389][173]LogOutputDevice: Error: 2) You may just be holding onto some slate pointers on an actor that don't get reset until the actor is Garbage Collected.  You should avoid doing this, and instead reset those references when the actor is Destroyed.
+[2021.09.30-14.05.46:390][173]LogOutputDevice: Error: Stack: 
+[2021.09.30-14.05.46:390][173]LogOutputDevice: Error: [Callstack] 0x00007fffddc77136 UE4Editor-Core.dll!UnknownFunction []
+[2021.09.30-14.05.46:390][173]LogOutputDevice: Error: [Callstack] 0x00007fffdd9b0c82 UE4Editor-Core.dll!UnknownFunction []
+[2021.09.30-14.05.46:390][173]LogOutputDevice: Error: [Callstack] 0x00007fffdd9cb346 UE4Editor-Core.dll!UnknownFunction []
+[2021.09.30-14.05.46:390][173]LogOutputDevice: Error: [Callstack] 0x00007fffc56e9a63 UE4Editor-UMG.dll!UnknownFunction []
+[2021.09.30-14.05.46:390][173]LogOutputDevice: Error: [Callstack] 0x00007fffec4df32a UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.09.30-14.05.46:390][173]LogOutputDevice: Error: [Callstack] 0x00007fffeb02fc17 UE4Editor-Slate.dll!UnknownFunction []
+[2021.09.30-14.05.46:390][173]LogOutputDevice: Error: [Callstack] 0x00007fffeb033419 UE4Editor-Slate.dll!UnknownFunction []
+[2021.09.30-14.05.46:390][173]LogOutputDevice: Error: [Callstack] 0x00007fffec4e92e5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.09.30-14.05.46:390][173]LogOutputDevice: Error: [Callstack] 0x00007fffc57131f4 UE4Editor-UMG.dll!UnknownFunction []
+[2021.09.30-14.05.46:391][173]LogOutputDevice: Error: [Callstack] 0x00007fffe84d2591 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.09.30-14.05.46:391][173]LogOutputDevice: Error: [Callstack] 0x00007fffe84a702e UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.09.30-14.05.46:391][173]LogOutputDevice: Error: [Callstack] 0x00007fffe8423a14 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.09.30-14.05.46:391][173]LogOutputDevice: Error: [Callstack] 0x00007fffe8422f6e UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.09.30-14.05.46:391][173]LogOutputDevice: Error: [Callstack] 0x00007fffc6836d41 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.09.30-14.05.46:391][173]LogOutputDevice: Error: [Callstack] 0x00007fffc6288212 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.09.30-14.05.46:391][173]LogOutputDevice: Error: [Callstack] 0x00007fffc6b7f0d6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.09.30-14.05.46:391][173]LogOutputDevice: Error: [Callstack] 0x00007ff624965cbd UE4Editor.exe!UnknownFunction []
+[2021.09.30-14.05.46:391][173]LogOutputDevice: Error: [Callstack] 0x00007ff624975b3c UE4Editor.exe!UnknownFunction []
+[2021.09.30-14.05.46:391][173]LogOutputDevice: Error: [Callstack] 0x00007ff624975bba UE4Editor.exe!UnknownFunction []
+[2021.09.30-14.05.46:392][173]LogOutputDevice: Error: [Callstack] 0x00007ff624983dac UE4Editor.exe!UnknownFunction []
+[2021.09.30-14.05.46:392][173]LogOutputDevice: Error: [Callstack] 0x00007ff624985aaa UE4Editor.exe!UnknownFunction []
+[2021.09.30-14.05.46:392][173]LogOutputDevice: Error: [Callstack] 0x00007ff830137034 KERNEL32.DLL!UnknownFunction []
+[2021.09.30-14.05.46:392][173]LogOutputDevice: Error: [Callstack] 0x00007ff832122651 ntdll.dll!UnknownFunction []
+[2021.09.30-14.05.46:392][173]LogOutputDevice: Error: 
+[2021.09.30-14.05.46:393][173]LogStats:                SubmitErrorReport -  0.000 s
+[2021.09.30-14.05.47:209][173]LogStats:                    SendNewReport -  0.816 s
+[2021.09.30-14.05.47:209][173]LogStats:             FDebug::EnsureFailed -  1.745 s
+[2021.09.30-14.05.47:227][174]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2021.09.30-14.08.48:041][659]BlueprintLog: New page: Compile COM_my_inventary
+[2021.09.30-14.08.48:943][696]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_player/my_inventary/COM_my_inventary" FILE="D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/BP_player/my_inventary/COM_my_inventary.uasset" SILENT=true
+[2021.09.30-14.08.49:137][696]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/COM_my_inventary69B29090425E449C25221FA1FF5A4B39.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/BP_player/my_inventary/COM_my_inventary.uasset'
+[2021.09.30-14.08.50:356][769]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.30-14.08.50:387][769]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/мар/Level_06/level_06.level_06:PersistentLevel' has LevelScriptBlueprint '/Game/мар/Level_06/level_06.level_06:PersistentLevel.level_06' with GeneratedClass '/Game/мар/Level_06/level_06.level_06_C' with ClassGeneratedBy '/Game/мар/Level_06/level_06.level_06:PersistentLevel.level_06'
+[2021.09.30-14.08.50:388][769]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.30-14.08.50:388][769]PIE: New page: PIE session: level_06 (30 сент. 2021, 20:08:50)
+[2021.09.30-14.08.50:388][769]LogPlayLevel: Creating play world package: /Game/мар/Level_06/UEDPIE_0_level_06
+[2021.09.30-14.08.50:392][769]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003964s)
+[2021.09.30-14.08.50:393][769]LogAIModule: Creating AISystem for world level_06
+[2021.09.30-14.08.50:393][769]LogPlayLevel: PIE: World Init took: (0.000707s)
+[2021.09.30-14.08.50:393][769]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/мар/Level_06/level_06.level_06 to /Game/мар/Level_06/UEDPIE_0_level_06.level_06 (0.004983s)
+[2021.09.30-14.08.50:428][769]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.09.30-14.08.50:440][769]LogInit: FAudioDevice initialized.
+[2021.09.30-14.08.50:446][769]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.30-14.08.50:480][769]LogLoad: Game class is 'myGameMode_C'
+[2021.09.30-14.08.50:485][769]LogWorld: Bringing World /Game/мар/Level_06/UEDPIE_0_level_06.level_06 up for play (max tick rate 60) at 2021.09.30-17.08.50
+[2021.09.30-14.08.50:486][769]LogWorld: Bringing up level for play took: 0.005499
+[2021.09.30-14.08.50:498][769]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.09.30-14.08.50:516][769]PIE: Play in editor start time for /Game/мар/Level_06/UEDPIE_0_level_06 -0,282
+[2021.09.30-14.08.50:517][769]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/мар/Level_06/level_06.level_06:PersistentLevel' has LevelScriptBlueprint '/Game/мар/Level_06/level_06.level_06:PersistentLevel.level_06' with GeneratedClass '/Game/мар/Level_06/level_06.level_06_C' with ClassGeneratedBy '/Game/мар/Level_06/level_06.level_06:PersistentLevel.level_06'
+[2021.09.30-14.09.10:704][978]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.09.30-14.09.14:204][188]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.09.30-14.09.16:188][307]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:myGameInstance_C_1.UI_my_inventory_item_C_2' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2021.09.30-14.09.20:671][576]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:myGameInstance_C_1.UI_my_inventory_item_C_2' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2021.09.30-14.09.31:605][232]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.09.30-14.09.33:540][348]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/мар/Level_06/level_06.level_06:PersistentLevel' has LevelScriptBlueprint '/Game/мар/Level_06/level_06.level_06:PersistentLevel.level_06' with GeneratedClass '/Game/мар/Level_06/level_06.level_06_C' with ClassGeneratedBy '/Game/мар/Level_06/level_06.level_06:PersistentLevel.level_06'
+[2021.09.30-14.09.33:541][348]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.30-14.09.33:568][348]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.09.30-14.09.33:602][348]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.30-14.09.33:602][348]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/мар/Level_06/level_06.level_06:PersistentLevel' has LevelScriptBlueprint '/Game/мар/Level_06/level_06.level_06:PersistentLevel.level_06' with GeneratedClass '/Game/мар/Level_06/level_06.level_06_C' with ClassGeneratedBy '/Game/мар/Level_06/level_06.level_06:PersistentLevel.level_06'
+[2021.09.30-14.09.33:643][349]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2021.09.30-14.10.05:333][249]BlueprintLog: New page: Compile COM_my_inventary
+[2021.09.30-14.10.06:394][297]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_player/my_inventary/COM_my_inventary" FILE="D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/BP_player/my_inventary/COM_my_inventary.uasset" SILENT=true
+[2021.09.30-14.10.06:514][297]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/COM_my_inventaryD67D1CFC4755544AA0D4E9958C428A7D.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/BP_player/my_inventary/COM_my_inventary.uasset'
+[2021.09.30-14.10.18:817][ 35]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.30-14.10.18:849][ 35]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/мар/Level_06/level_06.level_06:PersistentLevel' has LevelScriptBlueprint '/Game/мар/Level_06/level_06.level_06:PersistentLevel.level_06' with GeneratedClass '/Game/мар/Level_06/level_06.level_06_C' with ClassGeneratedBy '/Game/мар/Level_06/level_06.level_06:PersistentLevel.level_06'
+[2021.09.30-14.10.18:849][ 35]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.30-14.10.18:849][ 35]PIE: New page: PIE session: level_06 (30 сент. 2021, 20:10:18)
+[2021.09.30-14.10.18:850][ 35]LogPlayLevel: Creating play world package: /Game/мар/Level_06/UEDPIE_0_level_06
+[2021.09.30-14.10.18:854][ 35]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003963s)
+[2021.09.30-14.10.18:854][ 35]LogAIModule: Creating AISystem for world level_06
+[2021.09.30-14.10.18:854][ 35]LogPlayLevel: PIE: World Init took: (0.000576s)
+[2021.09.30-14.10.18:854][ 35]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/мар/Level_06/level_06.level_06 to /Game/мар/Level_06/UEDPIE_0_level_06.level_06 (0.004845s)
+[2021.09.30-14.10.18:889][ 35]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.09.30-14.10.18:901][ 35]LogInit: FAudioDevice initialized.
+[2021.09.30-14.10.18:908][ 35]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.30-14.10.18:941][ 35]LogLoad: Game class is 'myGameMode_C'
+[2021.09.30-14.10.18:947][ 35]LogWorld: Bringing World /Game/мар/Level_06/UEDPIE_0_level_06.level_06 up for play (max tick rate 60) at 2021.09.30-17.10.18
+[2021.09.30-14.10.18:948][ 35]LogWorld: Bringing up level for play took: 0.005521
+[2021.09.30-14.10.18:960][ 35]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.09.30-14.10.18:978][ 35]PIE: Play in editor start time for /Game/мар/Level_06/UEDPIE_0_level_06 0,179
+[2021.09.30-14.10.18:978][ 35]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/мар/Level_06/level_06.level_06:PersistentLevel' has LevelScriptBlueprint '/Game/мар/Level_06/level_06.level_06:PersistentLevel.level_06' with GeneratedClass '/Game/мар/Level_06/level_06.level_06_C' with ClassGeneratedBy '/Game/мар/Level_06/level_06.level_06:PersistentLevel.level_06'
+[2021.09.30-14.10.38:420][200]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.09.30-14.11.07:202][926]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/мар/Level_06/level_06.level_06:PersistentLevel' has LevelScriptBlueprint '/Game/мар/Level_06/level_06.level_06:PersistentLevel.level_06' with GeneratedClass '/Game/мар/Level_06/level_06.level_06_C' with ClassGeneratedBy '/Game/мар/Level_06/level_06.level_06:PersistentLevel.level_06'
+[2021.09.30-14.11.07:203][926]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.30-14.11.07:230][926]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.09.30-14.11.07:259][926]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.30-14.11.07:259][926]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/мар/Level_06/level_06.level_06:PersistentLevel' has LevelScriptBlueprint '/Game/мар/Level_06/level_06.level_06:PersistentLevel.level_06' with GeneratedClass '/Game/мар/Level_06/level_06.level_06_C' with ClassGeneratedBy '/Game/мар/Level_06/level_06.level_06:PersistentLevel.level_06'
+[2021.09.30-14.11.07:301][927]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2021.09.30-14.20.58:981][294]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.09.30-14.21.12:574][109]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP_player/my_weapon_bow/BP_my_weapon_bow.BP_my_weapon_bow
+[2021.09.30-14.26.08:101][812]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/мар/Level_06/level_06' took 0.024
+[2021.09.30-14.26.08:108][812]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_player/my_inventary/COM_my_inventary] ([1] browsable assets)...
+[2021.09.30-14.26.08:108][812]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_player/my_inventary/COM_my_inventary]
+[2021.09.30-14.26.08:230][812]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/COM_my_inventary_Auto10A14B5344C7F2AE7B719649C11222507.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/Autosaves/Game/BP_player/my_inventary/COM_my_inventary_Auto1.uasset'
+[2021.09.30-14.26.08:233][812]LogFileHelpers: Auto-saving content packages took 0.132
+[2021.09.30-14.29.59:484][685]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/my_inventory/UI_my_inventory_item.UI_my_inventory_item
+[2021.09.30-14.30.22:444][ 39]BlueprintLog: New page: Compile UI_my_inventory_item
+[2021.09.30-14.38.04:053][412]LogSlate: Window 'Color Picker' being destroyed
+[2021.09.30-14.38.23:270][565]LogSlate: Window 'Color Picker' being destroyed
+[2021.09.30-14.38.33:904][203]BlueprintLog: New page: Compile UI_my_inventory_item
+[2021.09.30-14.38.56:887][570]BlueprintLog: New page: Compile UI_my_inventory_item
+[2021.09.30-14.38.57:517][600]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/my_inventory/UI_my_inventory_item" FILE="D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/UI/my_inventory/UI_my_inventory_item.uasset" SILENT=true
+[2021.09.30-14.38.57:562][600]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/UI_my_inventory_item36B364A8460593028421EB816E6E6CE5.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/UI/my_inventory/UI_my_inventory_item.uasset'
+[2021.09.30-14.39.26:741][344]LogSlate: Took 0.006552 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.09.30-14.39.30:139][547]BlueprintLog: New page: Compile UI_my_inventory_item
+[2021.09.30-14.40.42:501][880]BlueprintLog: New page: Compile UI_my_inventory_item
+[2021.09.30-14.40.43:235][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/my_inventory/UI_my_inventory_item" FILE="D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/UI/my_inventory/UI_my_inventory_item.uasset" SILENT=true
+[2021.09.30-14.40.43:280][918]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/UI_my_inventory_item37D112F249F38D5B0956289F8ECCEC27.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/UI/my_inventory/UI_my_inventory_item.uasset'
+[2021.09.30-14.40.44:842][ 12]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.30-14.40.44:883][ 12]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/мар/Level_06/level_06.level_06:PersistentLevel' has LevelScriptBlueprint '/Game/мар/Level_06/level_06.level_06:PersistentLevel.level_06' with GeneratedClass '/Game/мар/Level_06/level_06.level_06_C' with ClassGeneratedBy '/Game/мар/Level_06/level_06.level_06:PersistentLevel.level_06'
+[2021.09.30-14.40.44:884][ 12]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.30-14.40.44:884][ 12]PIE: New page: PIE session: level_06 (30 сент. 2021, 20:40:44)
+[2021.09.30-14.40.44:884][ 12]LogPlayLevel: Creating play world package: /Game/мар/Level_06/UEDPIE_0_level_06
+[2021.09.30-14.40.44:888][ 12]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004035s)
+[2021.09.30-14.40.44:889][ 12]LogAIModule: Creating AISystem for world level_06
+[2021.09.30-14.40.44:889][ 12]LogPlayLevel: PIE: World Init took: (0.000674s)
+[2021.09.30-14.40.44:889][ 12]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/мар/Level_06/level_06.level_06 to /Game/мар/Level_06/UEDPIE_0_level_06.level_06 (0.005025s)
+[2021.09.30-14.40.44:927][ 12]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.09.30-14.40.44:940][ 12]LogInit: FAudioDevice initialized.
+[2021.09.30-14.40.44:947][ 12]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.30-14.40.44:983][ 12]LogLoad: Game class is 'myGameMode_C'
+[2021.09.30-14.40.44:989][ 12]LogWorld: Bringing World /Game/мар/Level_06/UEDPIE_0_level_06.level_06 up for play (max tick rate 60) at 2021.09.30-17.40.44
+[2021.09.30-14.40.44:990][ 12]LogWorld: Bringing up level for play took: 0.006405
+[2021.09.30-14.40.45:002][ 12]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.09.30-14.40.45:020][ 12]PIE: Play in editor start time for /Game/мар/Level_06/UEDPIE_0_level_06 0,222
+[2021.09.30-14.40.45:021][ 12]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/мар/Level_06/level_06.level_06:PersistentLevel' has LevelScriptBlueprint '/Game/мар/Level_06/level_06.level_06:PersistentLevel.level_06' with GeneratedClass '/Game/мар/Level_06/level_06.level_06_C' with ClassGeneratedBy '/Game/мар/Level_06/level_06.level_06:PersistentLevel.level_06'
+[2021.09.30-14.41.01:061][973]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.09.30-14.41.01:495][999]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/мар/Level_06/level_06.level_06:PersistentLevel' has LevelScriptBlueprint '/Game/мар/Level_06/level_06.level_06:PersistentLevel.level_06' with GeneratedClass '/Game/мар/Level_06/level_06.level_06_C' with ClassGeneratedBy '/Game/мар/Level_06/level_06.level_06:PersistentLevel.level_06'
+[2021.09.30-14.41.01:496][999]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.30-14.41.01:524][999]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.09.30-14.41.01:552][999]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.30-14.41.01:552][999]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/мар/Level_06/level_06.level_06:PersistentLevel' has LevelScriptBlueprint '/Game/мар/Level_06/level_06.level_06:PersistentLevel.level_06' with GeneratedClass '/Game/мар/Level_06/level_06.level_06_C' with ClassGeneratedBy '/Game/мар/Level_06/level_06.level_06:PersistentLevel.level_06'
+[2021.09.30-14.41.01:604][  1]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2021.09.30-14.41.15:284][819]BlueprintLog: New page: Compile UI_my_inventory_item
+[2021.09.30-14.41.15:920][851]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/my_inventory/UI_my_inventory_item" FILE="D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/UI/my_inventory/UI_my_inventory_item.uasset" SILENT=true
+[2021.09.30-14.41.15:964][851]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/UI_my_inventory_itemD22C4E3847E18956F08D34A43B33ABA7.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/UI/my_inventory/UI_my_inventory_item.uasset'
+[2021.09.30-14.43.06:498][478]BlueprintLog: New page: Compile UI_my_inventory_item
+[2021.09.30-14.43.35:394][206]BlueprintLog: New page: Compile UI_my_inventory_item
+[2021.09.30-14.43.36:111][243]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/my_inventory/UI_my_inventory_item" FILE="D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/UI/my_inventory/UI_my_inventory_item.uasset" SILENT=true
+[2021.09.30-14.43.36:157][243]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/UI_my_inventory_item2B536C724875F45249931A91D651B7C9.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/UI/my_inventory/UI_my_inventory_item.uasset'
+[2021.09.30-14.43.36:784][281]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.30-14.43.36:823][281]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/мар/Level_06/level_06.level_06:PersistentLevel' has LevelScriptBlueprint '/Game/мар/Level_06/level_06.level_06:PersistentLevel.level_06' with GeneratedClass '/Game/мар/Level_06/level_06.level_06_C' with ClassGeneratedBy '/Game/мар/Level_06/level_06.level_06:PersistentLevel.level_06'
+[2021.09.30-14.43.36:823][281]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.30-14.43.36:823][281]PIE: New page: PIE session: level_06 (30 сент. 2021, 20:43:36)
+[2021.09.30-14.43.36:824][281]LogPlayLevel: Creating play world package: /Game/мар/Level_06/UEDPIE_0_level_06
+[2021.09.30-14.43.36:828][281]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004178s)
+[2021.09.30-14.43.36:828][281]LogAIModule: Creating AISystem for world level_06
+[2021.09.30-14.43.36:829][281]LogPlayLevel: PIE: World Init took: (0.000652s)
+[2021.09.30-14.43.36:829][281]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/мар/Level_06/level_06.level_06 to /Game/мар/Level_06/UEDPIE_0_level_06.level_06 (0.005172s)
+[2021.09.30-14.43.36:864][281]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.09.30-14.43.36:876][281]LogInit: FAudioDevice initialized.
+[2021.09.30-14.43.36:883][281]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.30-14.43.36:915][281]LogLoad: Game class is 'myGameMode_C'
+[2021.09.30-14.43.36:921][281]LogWorld: Bringing World /Game/мар/Level_06/UEDPIE_0_level_06.level_06 up for play (max tick rate 60) at 2021.09.30-17.43.36
+[2021.09.30-14.43.36:922][281]LogWorld: Bringing up level for play took: 0.005668
+[2021.09.30-14.43.36:933][281]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.09.30-14.43.36:951][281]PIE: Play in editor start time for /Game/мар/Level_06/UEDPIE_0_level_06 0,153
+[2021.09.30-14.43.36:952][281]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/мар/Level_06/level_06.level_06:PersistentLevel' has LevelScriptBlueprint '/Game/мар/Level_06/level_06.level_06:PersistentLevel.level_06' with GeneratedClass '/Game/мар/Level_06/level_06.level_06_C' with ClassGeneratedBy '/Game/мар/Level_06/level_06.level_06:PersistentLevel.level_06'
+[2021.09.30-14.43.52:578][217]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:myGameInstance_C_4.UI_my_inventory_canvas_C_0.WidgetTree_0.UI_my_inventory' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2021.09.30-14.43.52:579][217]LogBlueprintUserMessages: [UI_my_inventory_canvas_C_0] drop
+[2021.09.30-14.44.00:011][663]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.09.30-14.44.01:479][751]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/мар/Level_06/level_06.level_06:PersistentLevel' has LevelScriptBlueprint '/Game/мар/Level_06/level_06.level_06:PersistentLevel.level_06' with GeneratedClass '/Game/мар/Level_06/level_06.level_06_C' with ClassGeneratedBy '/Game/мар/Level_06/level_06.level_06:PersistentLevel.level_06'
+[2021.09.30-14.44.01:480][751]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.30-14.44.01:509][751]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.09.30-14.44.01:544][751]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.30-14.44.01:544][751]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/мар/Level_06/level_06.level_06:PersistentLevel' has LevelScriptBlueprint '/Game/мар/Level_06/level_06.level_06:PersistentLevel.level_06' with GeneratedClass '/Game/мар/Level_06/level_06.level_06_C' with ClassGeneratedBy '/Game/мар/Level_06/level_06.level_06:PersistentLevel.level_06'
+[2021.09.30-14.44.01:582][752]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2021.09.30-14.44.30:072][457]BlueprintLog: New page: Compile UI_my_inventory_item
+[2021.09.30-14.44.30:640][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/my_inventory/UI_my_inventory_item" FILE="D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/UI/my_inventory/UI_my_inventory_item.uasset" SILENT=true
+[2021.09.30-14.44.30:687][483]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/UI_my_inventory_item4EDFC2AC404D8A9C3B64F194E3DA72B6.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/UI/my_inventory/UI_my_inventory_item.uasset'
+[2021.09.30-14.44.31:219][515]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.30-14.44.31:262][515]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/мар/Level_06/level_06.level_06:PersistentLevel' has LevelScriptBlueprint '/Game/мар/Level_06/level_06.level_06:PersistentLevel.level_06' with GeneratedClass '/Game/мар/Level_06/level_06.level_06_C' with ClassGeneratedBy '/Game/мар/Level_06/level_06.level_06:PersistentLevel.level_06'
+[2021.09.30-14.44.31:263][515]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.30-14.44.31:263][515]PIE: New page: PIE session: level_06 (30 сент. 2021, 20:44:31)
+[2021.09.30-14.44.31:263][515]LogPlayLevel: Creating play world package: /Game/мар/Level_06/UEDPIE_0_level_06
+[2021.09.30-14.44.31:268][515]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003999s)
+[2021.09.30-14.44.31:268][515]LogAIModule: Creating AISystem for world level_06
+[2021.09.30-14.44.31:268][515]LogPlayLevel: PIE: World Init took: (0.000575s)
+[2021.09.30-14.44.31:268][515]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/мар/Level_06/level_06.level_06 to /Game/мар/Level_06/UEDPIE_0_level_06.level_06 (0.004889s)
+[2021.09.30-14.44.31:306][515]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.09.30-14.44.31:318][515]LogInit: FAudioDevice initialized.
+[2021.09.30-14.44.31:325][515]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.30-14.44.31:358][515]LogLoad: Game class is 'myGameMode_C'
+[2021.09.30-14.44.31:364][515]LogWorld: Bringing World /Game/мар/Level_06/UEDPIE_0_level_06.level_06 up for play (max tick rate 60) at 2021.09.30-17.44.31
+[2021.09.30-14.44.31:365][515]LogWorld: Bringing up level for play took: 0.005792
+[2021.09.30-14.44.31:376][515]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.09.30-14.44.31:394][515]PIE: Play in editor start time for /Game/мар/Level_06/UEDPIE_0_level_06 0,596
+[2021.09.30-14.44.31:394][515]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/мар/Level_06/level_06.level_06:PersistentLevel' has LevelScriptBlueprint '/Game/мар/Level_06/level_06.level_06:PersistentLevel.level_06' with GeneratedClass '/Game/мар/Level_06/level_06.level_06_C' with ClassGeneratedBy '/Game/мар/Level_06/level_06.level_06:PersistentLevel.level_06'
+[2021.09.30-14.44.42:205][161]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:myGameInstance_C_5.UI_my_inventory_item_C_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2021.09.30-14.44.44:771][315]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.09.30-14.44.49:639][607]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/мар/Level_06/level_06.level_06:PersistentLevel' has LevelScriptBlueprint '/Game/мар/Level_06/level_06.level_06:PersistentLevel.level_06' with GeneratedClass '/Game/мар/Level_06/level_06.level_06_C' with ClassGeneratedBy '/Game/мар/Level_06/level_06.level_06:PersistentLevel.level_06'
+[2021.09.30-14.44.49:640][607]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.30-14.44.49:668][607]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.09.30-14.44.49:697][607]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.30-14.44.49:697][607]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/мар/Level_06/level_06.level_06:PersistentLevel' has LevelScriptBlueprint '/Game/мар/Level_06/level_06.level_06:PersistentLevel.level_06' with GeneratedClass '/Game/мар/Level_06/level_06.level_06_C' with ClassGeneratedBy '/Game/мар/Level_06/level_06.level_06:PersistentLevel.level_06'
+[2021.09.30-14.44.49:739][608]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.09.30-14.45.17:696][283]BlueprintLog: New page: Compile UI_my_inventory_item
+[2021.09.30-14.45.18:228][309]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/my_inventory/UI_my_inventory_item" FILE="D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/UI/my_inventory/UI_my_inventory_item.uasset" SILENT=true
+[2021.09.30-14.45.18:275][309]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/UI_my_inventory_itemD4ED289740E6ACE54B9FE586D8440061.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/UI/my_inventory/UI_my_inventory_item.uasset'
+[2021.09.30-14.45.19:022][354]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.30-14.45.19:063][354]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/мар/Level_06/level_06.level_06:PersistentLevel' has LevelScriptBlueprint '/Game/мар/Level_06/level_06.level_06:PersistentLevel.level_06' with GeneratedClass '/Game/мар/Level_06/level_06.level_06_C' with ClassGeneratedBy '/Game/мар/Level_06/level_06.level_06:PersistentLevel.level_06'
+[2021.09.30-14.45.19:063][354]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.30-14.45.19:063][354]PIE: New page: PIE session: level_06 (30 сент. 2021, 20:45:19)
+[2021.09.30-14.45.19:063][354]LogPlayLevel: Creating play world package: /Game/мар/Level_06/UEDPIE_0_level_06
+[2021.09.30-14.45.19:068][354]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004317s)
+[2021.09.30-14.45.19:068][354]LogAIModule: Creating AISystem for world level_06
+[2021.09.30-14.45.19:069][354]LogPlayLevel: PIE: World Init took: (0.000639s)
+[2021.09.30-14.45.19:069][354]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/мар/Level_06/level_06.level_06 to /Game/мар/Level_06/UEDPIE_0_level_06.level_06 (0.005287s)
+[2021.09.30-14.45.19:105][354]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.09.30-14.45.19:117][354]LogInit: FAudioDevice initialized.
+[2021.09.30-14.45.19:123][354]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.30-14.45.19:154][354]LogLoad: Game class is 'myGameMode_C'
+[2021.09.30-14.45.19:160][354]LogWorld: Bringing World /Game/мар/Level_06/UEDPIE_0_level_06.level_06 up for play (max tick rate 60) at 2021.09.30-17.45.19
+[2021.09.30-14.45.19:161][354]LogWorld: Bringing up level for play took: 0.005919
+[2021.09.30-14.45.19:173][354]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.09.30-14.45.19:191][354]PIE: Play in editor start time for /Game/мар/Level_06/UEDPIE_0_level_06 0,394
+[2021.09.30-14.45.19:192][354]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/мар/Level_06/level_06.level_06:PersistentLevel' has LevelScriptBlueprint '/Game/мар/Level_06/level_06.level_06:PersistentLevel.level_06' with GeneratedClass '/Game/мар/Level_06/level_06.level_06_C' with ClassGeneratedBy '/Game/мар/Level_06/level_06.level_06:PersistentLevel.level_06'
+[2021.09.30-14.45.29:117][948]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.09.30-14.45.33:751][226]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/мар/Level_06/level_06.level_06:PersistentLevel' has LevelScriptBlueprint '/Game/мар/Level_06/level_06.level_06:PersistentLevel.level_06' with GeneratedClass '/Game/мар/Level_06/level_06.level_06_C' with ClassGeneratedBy '/Game/мар/Level_06/level_06.level_06:PersistentLevel.level_06'
+[2021.09.30-14.45.33:752][226]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.30-14.45.33:779][226]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.09.30-14.45.33:814][226]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.30-14.45.33:814][226]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/мар/Level_06/level_06.level_06:PersistentLevel' has LevelScriptBlueprint '/Game/мар/Level_06/level_06.level_06:PersistentLevel.level_06' with GeneratedClass '/Game/мар/Level_06/level_06.level_06_C' with ClassGeneratedBy '/Game/мар/Level_06/level_06.level_06:PersistentLevel.level_06'
+[2021.09.30-14.45.33:852][227]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2021.09.30-14.45.39:493][565]BlueprintLog: New page: Compile UI_my_inventory_item
+[2021.09.30-14.47.26:206][954]BlueprintLog: New page: Compile UI_my_inventory_item
+[2021.09.30-14.47.27:268][ 12]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/my_inventory/UI_my_inventory_item" FILE="D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/UI/my_inventory/UI_my_inventory_item.uasset" SILENT=true
+[2021.09.30-14.47.27:318][ 12]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/UI_my_inventory_item4528084E47DE2214C72A6BAE0083190B.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/UI/my_inventory/UI_my_inventory_item.uasset'
+[2021.09.30-14.47.57:050][734]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/мар/Level_06/level_06' took 0.025
+[2021.09.30-14.47.57:051][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_player/my_inventary/COM_my_inventary] ([1] browsable assets)...
+[2021.09.30-14.47.57:052][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_player/my_inventary/COM_my_inventary]
+[2021.09.30-14.47.57:180][734]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/COM_my_inventary_Auto23262BFA0465BFFC63688F7A4413154CF.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/Autosaves/Game/BP_player/my_inventary/COM_my_inventary_Auto2.uasset'
+[2021.09.30-14.47.57:181][734]LogFileHelpers: Auto-saving content packages took 0.130
+[2021.09.30-14.53.25:582][ 43]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/my_inventory/UI_my_inventory.UI_my_inventory
+[2021.09.30-14.53.52:958][666]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/my_inventory/UI_my_element_grid.UI_my_element_grid
+[2021.09.30-14.56.12:573][945]BlueprintLog: New page: Compile UI_my_inventory_item
+[2021.09.30-14.56.13:289][980]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/my_inventory/UI_my_inventory_item" FILE="D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/UI/my_inventory/UI_my_inventory_item.uasset" SILENT=true
+[2021.09.30-14.56.13:340][980]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/UI_my_inventory_itemDBD35D8A46A3F2C6DA117DBB677C6FC9.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/UI/my_inventory/UI_my_inventory_item.uasset'
+[2021.09.30-14.59.04:963][717]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/мар/Level_06/level_06' took 0.031
+[2021.09.30-14.59.04:965][717]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_player/my_inventary/COM_my_inventary] ([1] browsable assets)...
+[2021.09.30-14.59.04:965][717]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_player/my_inventary/COM_my_inventary]
+[2021.09.30-14.59.05:087][717]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/COM_my_inventary_Auto3E9B9A5384720DEF25AF811955F32B3D7.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/Autosaves/Game/BP_player/my_inventary/COM_my_inventary_Auto3.uasset'
+[2021.09.30-14.59.05:088][717]LogFileHelpers: Auto-saving content packages took 0.124
+[2021.09.30-15.12.35:806][412]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.09.30-15.13.00:081][866]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/items/my_item_world/COM_my_inventory_count.COM_my_inventory_count
+[2021.09.30-15.13.03:622][ 62]LogSlate: Window 'COM_my_inventory_count*' being destroyed
+[2021.09.30-15.13.24:707][326]BlueprintLog: New page: Compile COM_my_inventory_count
+[2021.09.30-15.13.31:453][729]BlueprintLog: New page: Compile COM_my_inventory_count
+[2021.09.30-15.13.40:042][242]BlueprintLog: New page: Compile COM_my_inventory_count
+[2021.09.30-15.13.40:043][242]LogClass: Warning: Type mismatch in my_count of COM_my_inventory_count_C - Previous (BoolProperty) Current(IntProperty) for package:  FObjectReader
+[2021.09.30-15.13.45:210][550]BlueprintLog: New page: Compile COM_my_inventory_count
+[2021.09.30-15.13.45:703][577]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/COM_my_inventory_count31B80AD046EECA0F834500886319036B.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/items/my_item_world/COM_my_inventory_count.uasset'
+[2021.09.30-15.13.59:267][388]LogRenderer: Reallocating scene render targets to support 1312x756 Format 10 NumSamples 1 (Frame:1).
+[2021.09.30-15.16.45:936][367]BlueprintLog: New page: Compile BP_my_weapon_bow
+[2021.09.30-15.16.47:276][434]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_player/my_weapon_bow/BP_my_weapon_bow" FILE="D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/BP_player/my_weapon_bow/BP_my_weapon_bow.uasset" SILENT=true
+[2021.09.30-15.16.47:340][434]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/BP_my_weapon_bowBA4587BE4FEED06A3C811D83B6353336.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/BP_player/my_weapon_bow/BP_my_weapon_bow.uasset'
+[2021.09.30-15.17.06:040][556]BlueprintLog: New page: Compile BP_my_weapon_bow
+[2021.09.30-15.17.07:184][612]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_player/my_weapon_bow/BP_my_weapon_bow" FILE="D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/BP_player/my_weapon_bow/BP_my_weapon_bow.uasset" SILENT=true
+[2021.09.30-15.17.07:246][612]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/BP_my_weapon_bow7DE44BE14BA77919ED9A898541F642DF.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/BP_player/my_weapon_bow/BP_my_weapon_bow.uasset'
+[2021.09.30-15.18.08:032][257]BlueprintLog: New page: Compile BP_my_weapon_bow
+[2021.09.30-15.18.08:636][281]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_player/my_weapon_bow/BP_my_weapon_bow" FILE="D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/BP_player/my_weapon_bow/BP_my_weapon_bow.uasset" SILENT=true
+[2021.09.30-15.18.08:696][281]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/BP_my_weapon_bowA876124C42B50056AE8A369792E3C395.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/BP_player/my_weapon_bow/BP_my_weapon_bow.uasset'
+[2021.09.30-15.18.21:556][ 40]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/items/my_item_world/BP_my_item_world.BP_my_item_world
+[2021.09.30-15.18.25:900][284]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/items/my_item_world/BP_item_weapon_bow.BP_item_weapon_bow
+[2021.09.30-15.19.01:698][411]BlueprintLog: New page: Compile BP_my_item_world
+[2021.09.30-15.19.02:431][443]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/items/my_item_world/BP_my_item_world" FILE="D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/items/my_item_world/BP_my_item_world.uasset" SILENT=true
+[2021.09.30-15.19.02:453][443]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/BP_my_item_world5814D3D14DB3D5F16EABD3BB2324A1AF.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/items/my_item_world/BP_my_item_world.uasset'
+[2021.09.30-15.19.16:315][275]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.09.30-15.19.22:580][647]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/items/my_item_world/BP_item_weapon_acid_barrel.BP_item_weapon_acid_barrel
+[2021.09.30-15.20.19:240][ 14]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/level_06_Auto49CE2717946AE6307E4634DA0ED7E099D.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/Autosaves/Game/мар/Level_06/level_06_Auto4.umap'
+[2021.09.30-15.20.19:242][ 14]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/мар/Level_06/level_06' took 0.197
+[2021.09.30-15.20.19:242][ 14]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.197
+[2021.09.30-15.20.19:244][ 14]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_player/my_inventary/COM_my_inventary] ([1] browsable assets)...
+[2021.09.30-15.20.19:244][ 14]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_player/my_inventary/COM_my_inventary]
+[2021.09.30-15.20.19:366][ 14]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/COM_my_inventary_Auto46F6BFE424B9A4EBD17CE6795B05FA87E.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/Autosaves/Game/BP_player/my_inventary/COM_my_inventary_Auto4.uasset'
+[2021.09.30-15.20.19:371][ 14]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/items/my_item_world/BP_item_healPack] ([1] browsable assets)...
+[2021.09.30-15.20.19:371][ 14]OBJ SavePackage: Finished generating thumbnails for package [/Game/items/my_item_world/BP_item_healPack]
+[2021.09.30-15.20.19:393][ 14]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/BP_item_healPack_Auto4BB6E93EC4FBD2442815003A71DDB71A2.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/Autosaves/Game/items/my_item_world/BP_item_healPack_Auto4.uasset'
+[2021.09.30-15.20.19:394][ 14]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/items/my_item_world/BP_item_weapon_acid_barrel] ([1] browsable assets)...
+[2021.09.30-15.20.19:395][ 14]OBJ SavePackage: Finished generating thumbnails for package [/Game/items/my_item_world/BP_item_weapon_acid_barrel]
+[2021.09.30-15.20.19:418][ 14]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/BP_item_weapon_acid_barrel_Auto4FE39A8BD48589FCE832D8EAA95928726.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/Autosaves/Game/items/my_item_world/BP_item_weapon_acid_barrel_Auto4.uasset'
+[2021.09.30-15.20.19:420][ 14]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/items/my_item_world/BP_item_weapon_bow] ([1] browsable assets)...
+[2021.09.30-15.20.19:420][ 14]OBJ SavePackage: Finished generating thumbnails for package [/Game/items/my_item_world/BP_item_weapon_bow]
+[2021.09.30-15.20.19:444][ 14]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/BP_item_weapon_bow_Auto420F618344ACCAE9BC9F6A2B0D8204713.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/Autosaves/Game/items/my_item_world/BP_item_weapon_bow_Auto4.uasset'
+[2021.09.30-15.20.19:445][ 14]LogFileHelpers: Auto-saving content packages took 0.202
+[2021.09.30-15.23.17:651][602]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.09.30-15.24.41:987][660]BlueprintLog: New page: Compile COM_my_inventary
+[2021.09.30-15.24.42:637][683]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_player/my_inventary/COM_my_inventary" FILE="D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/BP_player/my_inventary/COM_my_inventary.uasset" SILENT=true
+[2021.09.30-15.24.42:758][683]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/COM_my_inventary39FBEC03405170EFC4ACFFBE8D259BFA.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/BP_player/my_inventary/COM_my_inventary.uasset'
+[2021.09.30-15.25.07:172][145]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/my_inventory/UI_my_inventory.UI_my_inventory
+[2021.09.30-15.25.18:288][793]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/my_inventory/UI_my_element_grid.UI_my_element_grid
+[2021.09.30-15.29.16:670][ 64]BlueprintLog: New page: Compile UI_my_inventory
+[2021.09.30-15.30.28:390][341]BlueprintLog: New page: Compile UI_my_element_grid
+[2021.09.30-15.30.37:562][872]BlueprintLog: New page: Compile UI_my_inventory
+[2021.09.30-15.32.07:480][248]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.09.30-15.32.51:349][878]BlueprintLog: New page: Compile UI_my_element_grid
+[2021.09.30-15.32.51:980][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/my_inventory/UI_my_element_grid" FILE="D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/UI/my_inventory/UI_my_element_grid.uasset" SILENT=true
+[2021.09.30-15.32.52:060][902]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/UI_my_element_grid6792AFEA45E580016BE2DFB6F4C3E412.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/UI/my_inventory/UI_my_element_grid.uasset'
+[2021.09.30-15.33.17:350][419]LogEditorViewport: Clicking Background
+[2021.09.30-15.33.19:418][543]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.09.30-15.33.20:836][628]LogEditorViewport: Clicking on Actor (LMB): BP_item_healPack_C (BP_item_healPack)
+[2021.09.30-15.33.41:287][853]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.09.30-15.33.50:158][385]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.30-15.33.50:200][385]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/мар/Level_06/level_06.level_06:PersistentLevel' has LevelScriptBlueprint '/Game/мар/Level_06/level_06.level_06:PersistentLevel.level_06' with GeneratedClass '/Game/мар/Level_06/level_06.level_06_C' with ClassGeneratedBy '/Game/мар/Level_06/level_06.level_06:PersistentLevel.level_06'
+[2021.09.30-15.33.50:200][385]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.30-15.33.50:200][385]PIE: New page: PIE session: level_06 (30 сент. 2021, 21:33:50)
+[2021.09.30-15.33.50:200][385]LogPlayLevel: Creating play world package: /Game/мар/Level_06/UEDPIE_0_level_06
+[2021.09.30-15.33.50:204][385]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004288s)
+[2021.09.30-15.33.50:205][385]LogAIModule: Creating AISystem for world level_06
+[2021.09.30-15.33.50:205][385]LogPlayLevel: PIE: World Init took: (0.000647s)
+[2021.09.30-15.33.50:205][385]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/мар/Level_06/level_06.level_06 to /Game/мар/Level_06/UEDPIE_0_level_06.level_06 (0.005278s)
+[2021.09.30-15.33.50:242][385]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.09.30-15.33.50:255][385]LogInit: FAudioDevice initialized.
+[2021.09.30-15.33.50:285][385]LogLoad: Game class is 'myGameMode_C'
+[2021.09.30-15.33.50:291][385]LogWorld: Bringing World /Game/мар/Level_06/UEDPIE_0_level_06.level_06 up for play (max tick rate 60) at 2021.09.30-18.33.50
+[2021.09.30-15.33.50:292][385]LogWorld: Bringing up level for play took: 0.005589
+[2021.09.30-15.33.50:304][385]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.09.30-15.33.50:321][385]PIE: Play in editor start time for /Game/мар/Level_06/UEDPIE_0_level_06 -0,477
+[2021.09.30-15.33.50:321][385]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/мар/Level_06/level_06.level_06:PersistentLevel' has LevelScriptBlueprint '/Game/мар/Level_06/level_06.level_06:PersistentLevel.level_06' with GeneratedClass '/Game/мар/Level_06/level_06.level_06_C' with ClassGeneratedBy '/Game/мар/Level_06/level_06.level_06:PersistentLevel.level_06'
+[2021.09.30-15.33.54:060][609]LogScript: Warning: Accessed None trying to read property object_world
+	UI_my_element_grid_C /Engine/Transient.UnrealEdEngine_0:myGameInstance_C_7.UI_my_element_grid_C_0
+	Function /Game/UI/my_inventory/UI_my_element_grid.UI_my_element_grid_C:create_my_item:01F4
+[2021.09.30-15.33.54:060][609]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property object_world". Blueprint:  UI_my_element_grid Function:  Create My Item Graph:  create_my_item Node:  My Set Count
+[2021.09.30-15.33.54:060][609]LogScript: Warning: Accessed None trying to read property CallFunc_GetComponentByClass_ReturnValue
+	UI_my_element_grid_C /Engine/Transient.UnrealEdEngine_0:myGameInstance_C_7.UI_my_element_grid_C_0
+	Function /Game/UI/my_inventory/UI_my_element_grid.UI_my_element_grid_C:create_my_item:0241
+[2021.09.30-15.33.54:061][609]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetComponentByClass_ReturnValue". Blueprint:  UI_my_element_grid Function:  Create My Item Graph:  create_my_item Node:  My Set Count
+[2021.09.30-15.33.56:425][751]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.09.30-15.33.58:176][856]LogScript: Warning: Accessed None trying to read property object_world
+	UI_my_element_grid_C /Engine/Transient.UnrealEdEngine_0:myGameInstance_C_7.UI_my_element_grid_C_1
+	Function /Game/UI/my_inventory/UI_my_element_grid.UI_my_element_grid_C:create_my_item:01F4
+[2021.09.30-15.33.58:177][856]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property object_world". Blueprint:  UI_my_element_grid Function:  Create My Item Graph:  create_my_item Node:  My Set Count
+[2021.09.30-15.33.58:177][856]LogScript: Warning: Accessed None trying to read property CallFunc_GetComponentByClass_ReturnValue
+	UI_my_element_grid_C /Engine/Transient.UnrealEdEngine_0:myGameInstance_C_7.UI_my_element_grid_C_1
+	Function /Game/UI/my_inventory/UI_my_element_grid.UI_my_element_grid_C:create_my_item:0241
+[2021.09.30-15.33.58:177][856]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetComponentByClass_ReturnValue". Blueprint:  UI_my_element_grid Function:  Create My Item Graph:  create_my_item Node:  My Set Count
+[2021.09.30-15.34.06:542][358]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.09.30-15.34.07:110][392]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/мар/Level_06/level_06.level_06:PersistentLevel' has LevelScriptBlueprint '/Game/мар/Level_06/level_06.level_06:PersistentLevel.level_06' with GeneratedClass '/Game/мар/Level_06/level_06.level_06_C' with ClassGeneratedBy '/Game/мар/Level_06/level_06.level_06:PersistentLevel.level_06'
+[2021.09.30-15.34.07:111][392]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.30-15.34.07:143][392]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.30-15.34.07:144][392]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/мар/Level_06/level_06.level_06:PersistentLevel' has LevelScriptBlueprint '/Game/мар/Level_06/level_06.level_06:PersistentLevel.level_06' with GeneratedClass '/Game/мар/Level_06/level_06.level_06_C' with ClassGeneratedBy '/Game/мар/Level_06/level_06.level_06:PersistentLevel.level_06'
+[2021.09.30-15.34.07:174][392]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.30-15.34.07:221][394]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2021.09.30-15.34.08:959][498]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.09.30-15.34.28:323][552]LogSlate: Window 'Message Log' being destroyed
+[2021.09.30-15.34.28:326][552]LogSlate: Window 'Message Log' being destroyed
+[2021.09.30-15.34.55:781][187]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/level_06_Auto508B5DEC74B6AD31CC71B2DB79915240A.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/Autosaves/Game/мар/Level_06/level_06_Auto5.umap'
+[2021.09.30-15.34.55:785][187]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/мар/Level_06/level_06' took 0.200
+[2021.09.30-15.34.55:785][187]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.200
+[2021.09.30-15.34.55:787][187]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_player/my_inventary/COM_my_inventary] ([1] browsable assets)...
+[2021.09.30-15.34.55:787][187]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_player/my_inventary/COM_my_inventary]
+[2021.09.30-15.34.55:913][187]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/COM_my_inventary_Auto54BEEFF3D4AA563E25D50C7BE02C85112.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/Autosaves/Game/BP_player/my_inventary/COM_my_inventary_Auto5.uasset'
+[2021.09.30-15.34.55:917][187]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/my_inventory/UI_my_element_grid] ([1] browsable assets)...
+[2021.09.30-15.34.55:917][187]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/my_inventory/UI_my_element_grid]
+[2021.09.30-15.34.55:992][187]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/UI_my_element_grid_Auto5ECC51C6B4E4F8E1B68BB8E8BDA4DED90.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/Autosaves/Game/UI/my_inventory/UI_my_element_grid_Auto5.uasset'
+[2021.09.30-15.34.55:995][187]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/my_inventory/UI_my_inventory] ([1] browsable assets)...
+[2021.09.30-15.34.55:995][187]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/my_inventory/UI_my_inventory]
+[2021.09.30-15.34.56:056][187]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/UI_my_inventory_Auto5E4AF309141546ED032F30994830D9B61.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/Autosaves/Game/UI/my_inventory/UI_my_inventory_Auto5.uasset'
+[2021.09.30-15.34.56:057][187]LogFileHelpers: Auto-saving content packages took 0.270
+[2021.09.30-15.34.58:363][326]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.30-15.34.58:403][326]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/мар/Level_06/level_06.level_06:PersistentLevel' has LevelScriptBlueprint '/Game/мар/Level_06/level_06.level_06:PersistentLevel.level_06' with GeneratedClass '/Game/мар/Level_06/level_06.level_06_C' with ClassGeneratedBy '/Game/мар/Level_06/level_06.level_06:PersistentLevel.level_06'
+[2021.09.30-15.34.58:404][326]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.30-15.34.58:404][326]PIE: New page: PIE session: level_06 (30 сент. 2021, 21:34:58)
+[2021.09.30-15.34.58:404][326]LogPlayLevel: Creating play world package: /Game/мар/Level_06/UEDPIE_0_level_06
+[2021.09.30-15.34.58:409][326]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004307s)
+[2021.09.30-15.34.58:409][326]LogAIModule: Creating AISystem for world level_06
+[2021.09.30-15.34.58:410][326]LogPlayLevel: PIE: World Init took: (0.000623s)
+[2021.09.30-15.34.58:410][326]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/мар/Level_06/level_06.level_06 to /Game/мар/Level_06/UEDPIE_0_level_06.level_06 (0.005293s)
+[2021.09.30-15.34.58:448][326]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.09.30-15.34.58:460][326]LogInit: FAudioDevice initialized.
+[2021.09.30-15.34.58:466][326]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.30-15.34.58:497][326]LogLoad: Game class is 'myGameMode_C'
+[2021.09.30-15.34.58:503][326]LogWorld: Bringing World /Game/мар/Level_06/UEDPIE_0_level_06.level_06 up for play (max tick rate 60) at 2021.09.30-18.34.58
+[2021.09.30-15.34.58:504][326]LogWorld: Bringing up level for play took: 0.005724
+[2021.09.30-15.34.58:516][326]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.09.30-15.34.58:533][326]PIE: Play in editor start time for /Game/мар/Level_06/UEDPIE_0_level_06 -0,264
+[2021.09.30-15.34.58:533][326]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/мар/Level_06/level_06.level_06:PersistentLevel' has LevelScriptBlueprint '/Game/мар/Level_06/level_06.level_06:PersistentLevel.level_06' with GeneratedClass '/Game/мар/Level_06/level_06.level_06_C' with ClassGeneratedBy '/Game/мар/Level_06/level_06.level_06:PersistentLevel.level_06'
+[2021.09.30-15.35.03:893][646]LogScript: Warning: Accessed None trying to read property object_world
+	UI_my_element_grid_C /Engine/Transient.UnrealEdEngine_0:myGameInstance_C_8.UI_my_element_grid_C_0
+	Function /Game/UI/my_inventory/UI_my_element_grid.UI_my_element_grid_C:create_my_item:01F4
+[2021.09.30-15.35.03:894][646]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property object_world". Blueprint:  UI_my_element_grid Function:  Create My Item Graph:  create_my_item Node:  My Set Count
+[2021.09.30-15.35.03:894][646]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_my_set_count', from offset 531
+[2021.09.30-15.35.03:894][646]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/BP_player/character_paper_player.character_paper_player_C:InpActEvt_use_K2Node_InputActionEvent_0
+	Function /Game/BP_player/character_paper_player.character_paper_player_C:ExecuteUbergraph_character_paper_player
+	Function /Game/BP_player/my_inventary/COM_my_inventary.COM_my_inventary_C:my_add_inventory
+	Function /Game/UI/my_inventory/UI_my_inventory.UI_my_inventory_C:add_item_in_inventory
+	Function /Game/UI/my_inventory/UI_my_element_grid.UI_my_element_grid_C:create_my_item
+
+[2021.09.30-15.35.03:897][646]LogSlate: FSceneViewport::OnFocusLost() reason 2

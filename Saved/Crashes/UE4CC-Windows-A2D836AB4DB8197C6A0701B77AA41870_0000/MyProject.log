@@ -1,0 +1,1134 @@
+﻿Log file open, 03/07/21 20:24:29
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MyProject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.361733
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.095s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4233996
+LogInit: Engine Version: 4.20.1-4233996+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Jul 26 2018 10:07:30
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.003s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2021.03.07-18.24.29:910][  0]LogInit: Selected Device Profile: [Windows]
+[2021.03.07-18.24.29:910][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.03.07-18.24.29:926][  0]LogHAL: Display: Platform has ~ 16 GB [17120292864 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.03.07-18.24.29:926][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2021.03.07-18.24.29:926][  0]LogInit: Going up to parent DeviceProfile []
+[2021.03.07-18.24.29:927][  0]LogInit: Computer: DESKTOP-KTCUO5G
+[2021.03.07-18.24.29:927][  0]LogInit: User: vovab
+[2021.03.07-18.24.29:927][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.03.07-18.24.29:927][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.03.07-18.24.29:927][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.03.07-18.24.29:927][  0]LogMemory: Platform Memory Stats for Windows
+[2021.03.07-18.24.29:927][  0]LogMemory: Process Physical Memory: 102.33 MB used, 102.34 MB peak
+[2021.03.07-18.24.29:927][  0]LogMemory: Process Virtual Memory: 96.68 MB used, 96.68 MB peak
+[2021.03.07-18.24.29:927][  0]LogMemory: Physical Memory: 4581.02 MB used,  11746.16 MB free, 16327.18 MB total
+[2021.03.07-18.24.29:927][  0]LogMemory: Virtual Memory: 4634.51 MB used,  11746.16 MB free, 134217728.00 MB total
+[2021.03.07-18.24.29:953][  0]LogInit: Using OS detected language (ru-RU).
+[2021.03.07-18.24.29:953][  0]LogInit: Using OS detected locale (ru-UA).
+[2021.03.07-18.24.29:953][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2021.03.07-18.24.29:955][  0]LogStreaming: Display: Took  0.002s to InitEngineTextLocalization.
+[2021.03.07-18.24.29:955][  0]LogInit: Setting process to per monitor DPI aware
+[2021.03.07-18.24.29:979][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.03.07-18.24.29:979][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.03.07-18.24.30:139][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.03.07-18.24.30:139][  0]LogD3D11RHI: D3D11 adapters:
+[2021.03.07-18.24.30:233][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2021.03.07-18.24.30:233][  0]LogD3D11RHI:       8079/0/8163 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.03.07-18.24.30:235][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.03.07-18.24.30:235][  0]LogD3D11RHI:       0/0/8163 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.03.07-18.24.30:235][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.03.07-18.24.30:239][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.03.07-18.24.30:239][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2021.03.07-18.24.30:239][  0]LogWindows: EnumDisplayDevices:
+[2021.03.07-18.24.30:239][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2021.03.07-18.24.30:239][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2021.03.07-18.24.30:239][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2021.03.07-18.24.30:239][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2021.03.07-18.24.30:240][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.03.07-18.24.30:240][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2021.03.07-18.24.30:240][  0]LogD3D11RHI:   Driver Version: 461.40 (internal:27.21.14.6140, unified:461.40)
+[2021.03.07-18.24.30:240][  0]LogD3D11RHI:      Driver Date: 1-22-2021
+[2021.03.07-18.24.30:240][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2021.03.07-18.24.30:309][  0]LogD3D11RHI: Async texture creation enabled
+[2021.03.07-18.24.30:331][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.03.07-18.24.30:333][  0]LogShaderCompilers: Guid format shader working directory is -4 characters bigger than the processId version (D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Intermediate/Shaders/WorkingDirectory/6912/).
+[2021.03.07-18.24.30:333][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/vovab/AppData/Local/Temp/UnrealShaderWorkingDir/9565ECA348557D9323723799F2661E1A/'.
+[2021.03.07-18.24.30:526][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2021.03.07-18.24.30:537][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2021.03.07-18.24.30:547][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2021.03.07-18.24.30:558][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2021.03.07-18.24.30:568][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2021.03.07-18.24.30:578][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2021.03.07-18.24.30:588][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2021.03.07-18.24.30:598][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2021.03.07-18.24.30:603][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2021.03.07-18.24.30:663][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.03.07-18.24.30:663][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.03.07-18.24.30:663][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.03.07-18.24.30:663][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.03.07-18.24.30:663][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.03.07-18.24.30:663][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.03.07-18.24.30:663][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.03.07-18.24.30:663][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.03.07-18.24.30:664][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.03.07-18.24.30:664][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.03.07-18.24.30:664][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.03.07-18.24.30:664][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.03.07-18.24.30:664][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.03.07-18.24.30:664][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.03.07-18.24.30:664][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.03.07-18.24.30:664][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.03.07-18.24.30:664][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.03.07-18.24.30:664][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.03.07-18.24.30:665][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2021.03.07-18.24.30:716][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2021.03.07-18.24.30:716][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2021.03.07-18.24.30:733][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2021.03.07-18.24.30:733][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2021.03.07-18.24.30:742][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2021.03.07-18.24.30:751][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2021.03.07-18.24.30:760][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2021.03.07-18.24.30:770][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2021.03.07-18.24.30:776][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2021.03.07-18.24.30:776][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.03.07-18.24.30:819][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.03.07-18.24.30:819][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.03.07-18.24.30:819][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.03.07-18.24.31:456][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.03.07-18.24.31:498][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/vovab/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2021.03.07-18.24.31:498][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/vovab/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2021.03.07-18.24.31:498][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.03.07-18.24.31:498][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.03.07-18.24.31:498][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.03.07-18.24.31:498][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.03.07-18.24.31:509][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.03.07-18.24.31:521][  0]LogDerivedDataCache: Using Local data cache path C:/Users/vovab/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.03.07-18.24.31:521][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.03.07-18.24.31:521][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.03.07-18.24.31:535][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2021.03.07-18.24.31:536][  0]LogSlate: Using FreeType 2.6.0
+[2021.03.07-18.24.31:536][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.03.07-18.24.31:596][  0]LogAssetRegistry: FAssetRegistry took 0.0247 seconds to start up
+[2021.03.07-18.24.31:856][  0]LogInit: Selected Device Profile: [Windows]
+[2021.03.07-18.24.31:962][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2021.03.07-18.24.31:965][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2021.03.07-18.24.31:965][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.03.07-18.24.31:965][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.03.07-18.24.31:965][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2021.03.07-18.24.31:977][  0]LogNetVersion: MyProject 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1110078900)
+[2021.03.07-18.24.32:356][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.073551 seconds
+[2021.03.07-18.24.32:361][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2021.03.07-18.24.32:361][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2021.03.07-18.24.32:361][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.03.07-18.24.33:032][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.03.07-18.24.33:045][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.03.07-18.24.33:163][  0]SourceControl: Source control is disabled
+[2021.03.07-18.24.33:163][  0]SourceControl: Source control is disabled
+[2021.03.07-18.24.33:164][  0]SourceControl: Source control is disabled
+[2021.03.07-18.24.33:165][  0]SourceControl: Source control is disabled
+[2021.03.07-18.24.33:303][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.03.07-18.24.33:354][  0]LogOcInput: OculusInput pre-init called
+[2021.03.07-18.24.33:401][  0]LogEngine: Initializing Engine...
+[2021.03.07-18.24.33:401][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.03.07-18.24.33:402][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2021.03.07-18.24.33:402][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2021.03.07-18.24.33:402][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2021.03.07-18.24.33:402][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2021.03.07-18.24.33:557][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.03.07-18.24.33:566][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.03.07-18.24.33:585][  0]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.03.07-18.24.33:618][  0]LogInit: FAudioDevice initialized.
+[2021.03.07-18.24.33:618][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.03.07-18.24.33:679][  0]LogDerivedDataCache: Saved boot cache 0.06s 71MB C:/Users/vovab/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2021.03.07-18.24.33:685][  0]LogInit: Texture streaming: Enabled
+[2021.03.07-18.24.33:696][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.03.07-18.24.33:706][  0]LogInit: Transaction tracking system initialized
+[2021.03.07-18.24.33:722][  0]BlueprintLog: New page: Editor Load
+[2021.03.07-18.24.33:775][  0]LocalizationService: Localization service is disabled
+[2021.03.07-18.24.33:820][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/FirstPersonOverview'
+[2021.03.07-18.24.33:821][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/FirstPersonOverview'
+[2021.03.07-18.24.33:821][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C'
+[2021.03.07-18.24.33:977][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.03.07-18.24.33:977][  0]LogCook: Display: Mobile HDR setting 1
+[2021.03.07-18.24.33:977][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2021.03.07-18.24.33:977][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2021.03.07-18.24.33:977][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2021.03.07-18.24.33:977][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2021.03.07-18.24.33:977][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2021.03.07-18.24.34:060][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/' took 0.01s
+[2021.03.07-18.24.34:061][  0]SourceControl: Source control is disabled
+[2021.03.07-18.24.34:061][  0]Cmd: MAP LOAD FILE="D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/мар/transition_tittle/tr_tittle.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.07-18.24.34:061][  0]LightingResults: New page: Lighting Build
+[2021.03.07-18.24.34:063][  0]MapCheck: New page: Map Check
+[2021.03.07-18.24.34:063][  0]LightingResults: New page: Lighting Build
+[2021.03.07-18.24.34:195][  0]LogAIModule: Creating AISystem for world tr_tittle
+[2021.03.07-18.24.34:199][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.07-18.24.34:215][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.07-18.24.34:270][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 54,714ms to complete.
+[2021.03.07-18.24.34:270][  0]LogFileHelpers: Loading map 'tr_tittle' took 0.210
+[2021.03.07-18.24.34:381][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.07-18.24.34:388][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.07-18.24.34:393][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.07-18.24.34:399][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.07-18.24.34:415][  0]LogCollectionManager: Loaded 0 collections in 0.001215 seconds
+[2021.03.07-18.24.34:471][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/Collections/' took 0.01s
+[2021.03.07-18.24.34:471][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/Developers/vovab/Collections/' took 0.01s
+[2021.03.07-18.24.34:471][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/Collections/' took 0.01s
+[2021.03.07-18.24.34:471][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2021.03.07-18.24.34:482][  0]LogContentBrowser: Native class hierarchy populated in 0.0089 seconds. Added 2572 classes and 603 folders.
+[2021.03.07-18.24.34:495][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.03.07-18.24.34:849][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.03.07-18.24.34:865][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2021.03.07-18.24.35:038][  0]LogSlate: Took 0.000151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.03.07-18.24.35:043][  0]LogSlate: Took 0.000155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.03.07-18.24.35:051][  0]LogSlate: Took 0.005149 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.03.07-18.24.35:129][  0]LogRenderer: Reallocating scene render targets to support 1272x592 Format 10 NumSamples 1 (Frame:1).
+[2021.03.07-18.24.35:229][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.03.07-18.24.35:229][  0]LogLoad: (Engine Initialization) Total time: 7.02 seconds
+[2021.03.07-18.24.35:229][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.03.07-18.24.35:257][  0]LogAssetRegistry: Asset discovery search completed in 3.6820 seconds
+[2021.03.07-18.24.35:258][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2021.03.07-18.24.35:258][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000035 seconds (updated 0 objects)
+[2021.03.07-18.24.35:261][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2021.03.07-18.24.35:310][  0]LogSlate: Took 0.006708 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.07-18.25.10:682][241]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.25.10:840][260]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.07-18.25.10:861][260]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel' has LevelScriptBlueprint '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle' with GeneratedClass '/Game/мар/transition_tittle/tr_tittle.tr_tittle_C' with ClassGeneratedBy '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle'
+[2021.03.07-18.25.10:861][260]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.07-18.25.10:874][260]PIE: New page: PIE session: tr_tittle (7 марта 2021, 22:25:10)
+[2021.03.07-18.25.10:874][260]LogPlayLevel: Creating play world package: /Game/мар/transition_tittle/UEDPIE_0_tr_tittle
+[2021.03.07-18.25.10:876][260]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001814s)
+[2021.03.07-18.25.10:877][260]LogAIModule: Creating AISystem for world tr_tittle
+[2021.03.07-18.25.10:877][260]LogPlayLevel: PIE: World Init took: (0.000498s)
+[2021.03.07-18.25.10:877][260]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/мар/transition_tittle/tr_tittle.tr_tittle to /Game/мар/transition_tittle/UEDPIE_0_tr_tittle.tr_tittle (0.002902s)
+[2021.03.07-18.25.10:903][260]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.03.07-18.25.10:915][260]LogInit: FAudioDevice initialized.
+[2021.03.07-18.25.10:954][260]LogLoad: Game class is 'myGameMode_transition_C'
+[2021.03.07-18.25.10:956][260]LogWorld: Bringing World /Game/мар/transition_tittle/UEDPIE_0_tr_tittle.tr_tittle up for play (max tick rate 0) at 2021.03.07-20.25.10
+[2021.03.07-18.25.10:957][260]LogWorld: Bringing up level for play took: 0.001332
+[2021.03.07-18.25.10:976][260]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 10 classes and 0 folders.
+[2021.03.07-18.25.10:982][260]PIE: Play in editor start time for /Game/мар/transition_tittle/UEDPIE_0_tr_tittle 0,257
+[2021.03.07-18.25.10:982][260]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel' has LevelScriptBlueprint '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle' with GeneratedClass '/Game/мар/transition_tittle/tr_tittle.tr_tittle_C' with ClassGeneratedBy '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle'
+[2021.03.07-18.25.30:932][652]LogNet: Browse: /Game/мар/Level_01/TestLevel_01
+[2021.03.07-18.25.30:932][652]LogLoad: LoadMap: /Game/мар/Level_01/TestLevel_01
+[2021.03.07-18.25.31:544][652]LogAIModule: Creating AISystem for world TestLevel_01
+[2021.03.07-18.25.31:544][652]LogLoad: Game class is 'myGameMode_C'
+[2021.03.07-18.25.31:549][652]LogWorld: Bringing World /Game/мар/Level_01/UEDPIE_0_TestLevel_01.TestLevel_01 up for play (max tick rate 0) at 2021.03.07-20.25.31
+[2021.03.07-18.25.31:550][652]LogWorld: Bringing up level for play took: 0.005324
+[2021.03.07-18.25.31:551][652]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.03.07-18.25.31:552][652]LogLoad: Took 0.620513 seconds to LoadMap(/Game/мар/Level_01/TestLevel_01)
+[2021.03.07-18.25.52:596][176]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel' has LevelScriptBlueprint '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle' with GeneratedClass '/Game/мар/transition_tittle/tr_tittle.tr_tittle_C' with ClassGeneratedBy '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle'
+[2021.03.07-18.25.52:596][176]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.07-18.25.52:626][176]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.07-18.25.52:626][176]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel' has LevelScriptBlueprint '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle' with GeneratedClass '/Game/мар/transition_tittle/tr_tittle.tr_tittle_C' with ClassGeneratedBy '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle'
+[2021.03.07-18.25.52:642][176]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.07-18.25.52:701][183]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2021.03.07-18.26.16:178][  0]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.27.35:696][493]LogSlate: Took 0.000190 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.07-18.27.35:702][493]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/particle/smoke_tittle/smoke.smoke
+[2021.03.07-18.27.35:719][493]LogContentBrowser: Native class hierarchy updated for 'Cascade' in 0.0002 seconds. Added 2 classes and 2 folders.
+[2021.03.07-18.27.49:240][ 77]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.27.52:472][463]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.28.28:178][741]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.28.38:718][  2]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.28.43:659][594]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.29.33:518][574]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.29.40:598][423]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.29.49:198][455]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.29.51:973][788]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.30.21:062][279]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.30.44:640][108]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.31.07:187][813]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.31.18:370][155]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.31.27:380][236]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.31.36:743][359]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.31.43:745][199]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.31.45:279][382]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.31.48:857][811]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.31.51:050][ 74]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.31.57:577][857]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.31.59:252][ 58]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.32.08:675][188]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.32.13:006][707]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.32.20:629][622]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.32.26:158][285]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.32.53:501][566]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.32.57:852][ 88]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.33.09:919][536]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.33.10:502][606]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.33.14:777][119]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.33.20:319][784]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.33.23:428][157]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.33.26:344][507]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.33.28:087][716]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.33.43:504][566]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.33.47:525][ 48]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.33.48:884][211]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.34.17:096][596]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.34.18:156][723]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.34.35:434][796]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.34.40:982][462]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.34.58:315][541]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.35.25:174][764]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.35.29:750][313]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.35.33:783][797]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.35.54:401][271]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.35.57:227][610]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.36.04:147][440]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.36.04:940][535]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.36.08:766][994]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.36.09:716][108]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.36.14:925][733]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.36.32:385][828]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.36.34:843][123]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.36.42:800][ 77]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.37.20:828][640]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.37.24:253][ 51]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.37.26:312][298]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.37.28:111][514]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.38.04:781][914]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.38.07:514][242]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.38.09:083][430]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.38.16:743][349]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.38.20:015][742]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.38.23:915][210]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.38.26:207][485]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.38.27:577][649]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.38.30:195][963]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.38.32:524][243]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.38.42:600][452]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.38.54:985][938]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.38.59:305][456]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.39.05:227][167]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.39.36:269][891]LogCascade: Non-seeded module ParticleModuleSizeMultiplyLife
+[2021.03.07-18.40.02:066][984]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.40.03:979][213]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.40.09:025][819]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.40.11:275][ 89]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.40.12:392][223]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.40.24:751][706]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.40.26:810][953]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.40.38:560][363]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.40.41:319][694]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.40.53:990][214]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.40.55:225][362]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.41.03:331][335]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.41.03:749][384]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.41.17:896][ 79]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.41.22:485][629]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.41.23:611][764]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.41.27:021][172]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.41.27:791][264]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.41.36:929][361]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.41.44:496][269]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.41.48:497][749]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.41.54:422][460]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.41.57:864][873]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.42.08:140][106]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.42.12:015][571]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.42.18:386][335]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.42.20:296][564]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.42.24:446][ 62]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.42.25:639][205]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.42.42:920][279]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.42.45:029][532]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.42.51:372][293]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.42.56:198][872]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.42.57:113][982]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.43.01:089][459]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.43.03:314][726]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.43.05:022][931]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.43.07:458][223]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.43.12:899][876]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.43.13:832][988]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.43.17:200][392]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.43.23:800][184]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.43.24:917][318]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.43.40:201][152]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.43.40:295][161]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/particle/smoke_tittle/smoke" FILE="D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/particle/smoke_tittle/smoke.uasset" SILENT=true
+[2021.03.07-18.43.40:341][161]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/smoke5EE3CAED4C715A7F1DF2A19A875D2B25.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/particle/smoke_tittle/smoke.uasset'
+[2021.03.07-18.43.40:928][231]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.43.42:620][434]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.07-18.43.42:640][434]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel' has LevelScriptBlueprint '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle' with GeneratedClass '/Game/мар/transition_tittle/tr_tittle.tr_tittle_C' with ClassGeneratedBy '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle'
+[2021.03.07-18.43.42:640][434]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.07-18.43.42:640][434]PIE: New page: PIE session: tr_tittle (7 марта 2021, 22:43:42)
+[2021.03.07-18.43.42:640][434]LogPlayLevel: Creating play world package: /Game/мар/transition_tittle/UEDPIE_0_tr_tittle
+[2021.03.07-18.43.42:641][434]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001022s)
+[2021.03.07-18.43.42:642][434]LogAIModule: Creating AISystem for world tr_tittle
+[2021.03.07-18.43.42:642][434]LogPlayLevel: PIE: World Init took: (0.000633s)
+[2021.03.07-18.43.42:642][434]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/мар/transition_tittle/tr_tittle.tr_tittle to /Game/мар/transition_tittle/UEDPIE_0_tr_tittle.tr_tittle (0.001739s)
+[2021.03.07-18.43.42:668][434]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.03.07-18.43.42:681][434]LogInit: FAudioDevice initialized.
+[2021.03.07-18.43.42:709][434]LogLoad: Game class is 'myGameMode_transition_C'
+[2021.03.07-18.43.42:711][434]LogWorld: Bringing World /Game/мар/transition_tittle/UEDPIE_0_tr_tittle.tr_tittle up for play (max tick rate 0) at 2021.03.07-20.43.42
+[2021.03.07-18.43.42:711][434]LogWorld: Bringing up level for play took: 0.000507
+[2021.03.07-18.43.42:723][434]PIE: Play in editor start time for /Game/мар/transition_tittle/UEDPIE_0_tr_tittle -0,001
+[2021.03.07-18.43.42:723][434]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel' has LevelScriptBlueprint '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle' with GeneratedClass '/Game/мар/transition_tittle/tr_tittle.tr_tittle_C' with ClassGeneratedBy '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle'
+[2021.03.07-18.44.10:197][729]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel' has LevelScriptBlueprint '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle' with GeneratedClass '/Game/мар/transition_tittle/tr_tittle.tr_tittle_C' with ClassGeneratedBy '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle'
+[2021.03.07-18.44.10:197][729]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.07-18.44.10:228][729]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.07-18.44.10:228][729]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel' has LevelScriptBlueprint '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle' with GeneratedClass '/Game/мар/transition_tittle/tr_tittle.tr_tittle_C' with ClassGeneratedBy '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle'
+[2021.03.07-18.44.10:245][729]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.07-18.44.10:303][736]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2021.03.07-18.44.41:088][430]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.44.51:039][624]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.44.53:473][916]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.44.58:306][496]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.44.59:707][664]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.45.15:257][530]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.45.18:174][880]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.45.28:021][ 61]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.45.32:363][582]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.45.37:490][197]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.45.40:146][516]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.45.46:322][516]LogSlate: Window 'Color Picker' being destroyed
+[2021.03.07-18.45.55:908][665]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.45.57:007][797]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.46.02:162][797]LogSlate: Window 'Color Picker' being destroyed
+[2021.03.07-18.46.11:597][928]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.46.12:412][ 26]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.46.19:575][ 26]LogSlate: Window 'Color Picker' being destroyed
+[2021.03.07-18.46.32:994][635]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.46.33:925][747]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.46.38:036][747]LogSlate: Window 'Color Picker' being destroyed
+[2021.03.07-18.46.39:958][976]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.46.40:831][ 81]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.46.52:840][ 81]LogSlate: Window 'Color Picker' being destroyed
+[2021.03.07-18.46.55:851][441]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.46.55:878][441]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/мар/transition_tittle/tr_tittle' took 0.014
+[2021.03.07-18.46.55:885][441]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/particle/smoke_tittle/smoke] ([1] browsable assets)...
+[2021.03.07-18.46.55:885][441]OBJ SavePackage: Finished generating thumbnails for package [/Game/particle/smoke_tittle/smoke]
+[2021.03.07-18.46.55:898][441]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/smoke_Auto163CB6C0D44A70AC0B0F049A72ACD4F79.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/Autosaves/Game/particle/smoke_tittle/smoke_Auto1.uasset'
+[2021.03.07-18.46.55:899][441]LogFileHelpers: Auto-saving content packages took 0.020
+[2021.03.07-18.46.57:112][586]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.46.57:918][683]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.47.02:913][683]LogSlate: Window 'Color Picker' being destroyed
+[2021.03.07-18.47.09:756][503]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.47.11:153][671]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.47.20:460][671]LogSlate: Window 'Color Picker' being destroyed
+[2021.03.07-18.47.22:982][973]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.47.23:048][980]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/particle/smoke_tittle/smoke" FILE="D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/particle/smoke_tittle/smoke.uasset" SILENT=true
+[2021.03.07-18.47.23:061][980]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/smokeE58E76D64D284D7B3AE93E98D310A463.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/particle/smoke_tittle/smoke.uasset'
+[2021.03.07-18.47.23:553][ 39]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.47.25:112][226]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.07-18.47.25:132][226]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel' has LevelScriptBlueprint '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle' with GeneratedClass '/Game/мар/transition_tittle/tr_tittle.tr_tittle_C' with ClassGeneratedBy '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle'
+[2021.03.07-18.47.25:132][226]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.07-18.47.25:132][226]PIE: New page: PIE session: tr_tittle (7 марта 2021, 22:47:25)
+[2021.03.07-18.47.25:132][226]LogPlayLevel: Creating play world package: /Game/мар/transition_tittle/UEDPIE_0_tr_tittle
+[2021.03.07-18.47.25:133][226]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000866s)
+[2021.03.07-18.47.25:133][226]LogAIModule: Creating AISystem for world tr_tittle
+[2021.03.07-18.47.25:133][226]LogPlayLevel: PIE: World Init took: (0.000521s)
+[2021.03.07-18.47.25:134][226]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/мар/transition_tittle/tr_tittle.tr_tittle to /Game/мар/transition_tittle/UEDPIE_0_tr_tittle.tr_tittle (0.001468s)
+[2021.03.07-18.47.25:158][226]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.03.07-18.47.25:170][226]LogInit: FAudioDevice initialized.
+[2021.03.07-18.47.25:198][226]LogLoad: Game class is 'myGameMode_transition_C'
+[2021.03.07-18.47.25:199][226]LogWorld: Bringing World /Game/мар/transition_tittle/UEDPIE_0_tr_tittle.tr_tittle up for play (max tick rate 0) at 2021.03.07-20.47.25
+[2021.03.07-18.47.25:199][226]LogWorld: Bringing up level for play took: 0.000369
+[2021.03.07-18.47.25:212][226]PIE: Play in editor start time for /Game/мар/transition_tittle/UEDPIE_0_tr_tittle 0,487
+[2021.03.07-18.47.25:212][226]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel' has LevelScriptBlueprint '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle' with GeneratedClass '/Game/мар/transition_tittle/tr_tittle.tr_tittle_C' with ClassGeneratedBy '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle'
+[2021.03.07-18.47.50:216][226]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel' has LevelScriptBlueprint '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle' with GeneratedClass '/Game/мар/transition_tittle/tr_tittle.tr_tittle_C' with ClassGeneratedBy '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle'
+[2021.03.07-18.47.50:216][226]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.07-18.47.50:250][226]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.07-18.47.50:250][226]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel' has LevelScriptBlueprint '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle' with GeneratedClass '/Game/мар/transition_tittle/tr_tittle.tr_tittle_C' with ClassGeneratedBy '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle'
+[2021.03.07-18.47.50:267][226]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.07-18.47.50:316][232]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2021.03.07-18.48.09:067][482]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.48.16:402][362]LogEditorTransaction: Undo Edit Curve
+[2021.03.07-18.48.27:059][638]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.48.28:910][860]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.49.05:429][242]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.49.08:547][616]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.49.37:246][999]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.49.41:533][512]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/particle/smoke_tittle/smoke" FILE="D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/particle/smoke_tittle/smoke.uasset" SILENT=true
+[2021.03.07-18.49.41:552][512]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/smoke5A4A1A9445D7E6A6108375B0FBF73552.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/particle/smoke_tittle/smoke.uasset'
+[2021.03.07-18.49.42:143][583]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.49.43:709][771]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.07-18.49.43:729][771]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel' has LevelScriptBlueprint '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle' with GeneratedClass '/Game/мар/transition_tittle/tr_tittle.tr_tittle_C' with ClassGeneratedBy '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle'
+[2021.03.07-18.49.43:729][771]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.07-18.49.43:729][771]PIE: New page: PIE session: tr_tittle (7 марта 2021, 22:49:43)
+[2021.03.07-18.49.43:730][771]LogPlayLevel: Creating play world package: /Game/мар/transition_tittle/UEDPIE_0_tr_tittle
+[2021.03.07-18.49.43:731][771]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000957s)
+[2021.03.07-18.49.43:731][771]LogAIModule: Creating AISystem for world tr_tittle
+[2021.03.07-18.49.43:731][771]LogPlayLevel: PIE: World Init took: (0.000495s)
+[2021.03.07-18.49.43:731][771]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/мар/transition_tittle/tr_tittle.tr_tittle to /Game/мар/transition_tittle/UEDPIE_0_tr_tittle.tr_tittle (0.001535s)
+[2021.03.07-18.49.43:756][771]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.03.07-18.49.43:768][771]LogInit: FAudioDevice initialized.
+[2021.03.07-18.49.43:796][771]LogLoad: Game class is 'myGameMode_transition_C'
+[2021.03.07-18.49.43:797][771]LogWorld: Bringing World /Game/мар/transition_tittle/UEDPIE_0_tr_tittle.tr_tittle up for play (max tick rate 0) at 2021.03.07-20.49.43
+[2021.03.07-18.49.43:798][771]LogWorld: Bringing up level for play took: 0.000398
+[2021.03.07-18.49.43:810][771]PIE: Play in editor start time for /Game/мар/transition_tittle/UEDPIE_0_tr_tittle -0,915
+[2021.03.07-18.49.43:810][771]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel' has LevelScriptBlueprint '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle' with GeneratedClass '/Game/мар/transition_tittle/tr_tittle.tr_tittle_C' with ClassGeneratedBy '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle'
+[2021.03.07-18.50.00:213][739]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel' has LevelScriptBlueprint '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle' with GeneratedClass '/Game/мар/transition_tittle/tr_tittle.tr_tittle_C' with ClassGeneratedBy '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle'
+[2021.03.07-18.50.00:214][739]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.07-18.50.00:245][739]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.07-18.50.00:245][739]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel' has LevelScriptBlueprint '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle' with GeneratedClass '/Game/мар/transition_tittle/tr_tittle.tr_tittle_C' with ClassGeneratedBy '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle'
+[2021.03.07-18.50.00:262][739]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.07-18.50.00:320][746]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2021.03.07-18.50.14:948][358]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.50.15:789][459]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.50.21:355][459]LogSlate: Window 'Color Picker' being destroyed
+[2021.03.07-18.50.29:662][422]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.50.36:796][278]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.50.38:439][475]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.50.42:480][960]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.50.48:302][659]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.50.48:393][669]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/particle/smoke_tittle/smoke" FILE="D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/particle/smoke_tittle/smoke.uasset" SILENT=true
+[2021.03.07-18.50.48:408][669]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/smoke9EF5FD7649B416255A632C9F7DD42ED0.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/particle/smoke_tittle/smoke.uasset'
+[2021.03.07-18.50.48:816][718]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.50.50:134][876]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.07-18.50.50:153][876]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel' has LevelScriptBlueprint '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle' with GeneratedClass '/Game/мар/transition_tittle/tr_tittle.tr_tittle_C' with ClassGeneratedBy '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle'
+[2021.03.07-18.50.50:153][876]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.07-18.50.50:153][876]PIE: New page: PIE session: tr_tittle (7 марта 2021, 22:50:50)
+[2021.03.07-18.50.50:154][876]LogPlayLevel: Creating play world package: /Game/мар/transition_tittle/UEDPIE_0_tr_tittle
+[2021.03.07-18.50.50:154][876]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000829s)
+[2021.03.07-18.50.50:155][876]LogAIModule: Creating AISystem for world tr_tittle
+[2021.03.07-18.50.50:155][876]LogPlayLevel: PIE: World Init took: (0.000482s)
+[2021.03.07-18.50.50:155][876]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/мар/transition_tittle/tr_tittle.tr_tittle to /Game/мар/transition_tittle/UEDPIE_0_tr_tittle.tr_tittle (0.001390s)
+[2021.03.07-18.50.50:178][876]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.03.07-18.50.50:190][876]LogInit: FAudioDevice initialized.
+[2021.03.07-18.50.50:219][876]LogLoad: Game class is 'myGameMode_transition_C'
+[2021.03.07-18.50.50:220][876]LogWorld: Bringing World /Game/мар/transition_tittle/UEDPIE_0_tr_tittle.tr_tittle up for play (max tick rate 0) at 2021.03.07-20.50.50
+[2021.03.07-18.50.50:220][876]LogWorld: Bringing up level for play took: 0.000364
+[2021.03.07-18.50.50:233][876]PIE: Play in editor start time for /Game/мар/transition_tittle/UEDPIE_0_tr_tittle -0,492
+[2021.03.07-18.50.50:233][876]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel' has LevelScriptBlueprint '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle' with GeneratedClass '/Game/мар/transition_tittle/tr_tittle.tr_tittle_C' with ClassGeneratedBy '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle'
+[2021.03.07-18.51.09:570][195]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel' has LevelScriptBlueprint '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle' with GeneratedClass '/Game/мар/transition_tittle/tr_tittle.tr_tittle_C' with ClassGeneratedBy '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle'
+[2021.03.07-18.51.09:570][195]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.07-18.51.09:602][195]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.07-18.51.09:602][195]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel' has LevelScriptBlueprint '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle' with GeneratedClass '/Game/мар/transition_tittle/tr_tittle.tr_tittle_C' with ClassGeneratedBy '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle'
+[2021.03.07-18.51.09:619][195]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.07-18.51.09:670][201]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.03.07-18.51.14:481][778]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.51.16:025][963]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.51.17:216][106]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.51.18:197][224]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.51.23:218][224]LogSlate: Window 'Color Picker' being destroyed
+[2021.03.07-18.51.24:929][429]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.51.26:279][591]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.07-18.51.26:298][591]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel' has LevelScriptBlueprint '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle' with GeneratedClass '/Game/мар/transition_tittle/tr_tittle.tr_tittle_C' with ClassGeneratedBy '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle'
+[2021.03.07-18.51.26:298][591]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.07-18.51.26:298][591]PIE: New page: PIE session: tr_tittle (7 марта 2021, 22:51:26)
+[2021.03.07-18.51.26:298][591]LogPlayLevel: Creating play world package: /Game/мар/transition_tittle/UEDPIE_0_tr_tittle
+[2021.03.07-18.51.26:299][591]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000867s)
+[2021.03.07-18.51.26:300][591]LogAIModule: Creating AISystem for world tr_tittle
+[2021.03.07-18.51.26:300][591]LogPlayLevel: PIE: World Init took: (0.000502s)
+[2021.03.07-18.51.26:300][591]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/мар/transition_tittle/tr_tittle.tr_tittle to /Game/мар/transition_tittle/UEDPIE_0_tr_tittle.tr_tittle (0.001447s)
+[2021.03.07-18.51.26:325][591]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.03.07-18.51.26:336][591]LogInit: FAudioDevice initialized.
+[2021.03.07-18.51.26:364][591]LogLoad: Game class is 'myGameMode_transition_C'
+[2021.03.07-18.51.26:365][591]LogWorld: Bringing World /Game/мар/transition_tittle/UEDPIE_0_tr_tittle.tr_tittle up for play (max tick rate 0) at 2021.03.07-20.51.26
+[2021.03.07-18.51.26:365][591]LogWorld: Bringing up level for play took: 0.000367
+[2021.03.07-18.51.26:378][591]PIE: Play in editor start time for /Game/мар/transition_tittle/UEDPIE_0_tr_tittle -0,346
+[2021.03.07-18.51.26:378][591]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel' has LevelScriptBlueprint '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle' with GeneratedClass '/Game/мар/transition_tittle/tr_tittle.tr_tittle_C' with ClassGeneratedBy '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle'
+[2021.03.07-18.51.31:681][227]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel' has LevelScriptBlueprint '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle' with GeneratedClass '/Game/мар/transition_tittle/tr_tittle.tr_tittle_C' with ClassGeneratedBy '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle'
+[2021.03.07-18.51.31:681][227]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.07-18.51.31:712][227]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.07-18.51.31:712][227]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel' has LevelScriptBlueprint '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle' with GeneratedClass '/Game/мар/transition_tittle/tr_tittle.tr_tittle_C' with ClassGeneratedBy '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle'
+[2021.03.07-18.51.31:730][227]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.07-18.51.31:789][234]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2021.03.07-18.51.34:409][548]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.51.35:332][659]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.51.39:610][659]LogSlate: Window 'Color Picker' being destroyed
+[2021.03.07-18.51.41:518][887]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.51.41:618][898]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/particle/smoke_tittle/smoke" FILE="D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/particle/smoke_tittle/smoke.uasset" SILENT=true
+[2021.03.07-18.51.41:631][898]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/smoke42C0F17749D11E05B248F2A4DC896CB4.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/particle/smoke_tittle/smoke.uasset'
+[2021.03.07-18.51.42:473][999]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.51.43:814][160]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.07-18.51.43:834][160]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel' has LevelScriptBlueprint '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle' with GeneratedClass '/Game/мар/transition_tittle/tr_tittle.tr_tittle_C' with ClassGeneratedBy '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle'
+[2021.03.07-18.51.43:834][160]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.07-18.51.43:834][160]PIE: New page: PIE session: tr_tittle (7 марта 2021, 22:51:43)
+[2021.03.07-18.51.43:834][160]LogPlayLevel: Creating play world package: /Game/мар/transition_tittle/UEDPIE_0_tr_tittle
+[2021.03.07-18.51.43:835][160]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000894s)
+[2021.03.07-18.51.43:835][160]LogAIModule: Creating AISystem for world tr_tittle
+[2021.03.07-18.51.43:835][160]LogPlayLevel: PIE: World Init took: (0.000494s)
+[2021.03.07-18.51.43:836][160]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/мар/transition_tittle/tr_tittle.tr_tittle to /Game/мар/transition_tittle/UEDPIE_0_tr_tittle.tr_tittle (0.001485s)
+[2021.03.07-18.51.43:861][160]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.03.07-18.51.43:872][160]LogInit: FAudioDevice initialized.
+[2021.03.07-18.51.43:904][160]LogLoad: Game class is 'myGameMode_transition_C'
+[2021.03.07-18.51.43:905][160]LogWorld: Bringing World /Game/мар/transition_tittle/UEDPIE_0_tr_tittle.tr_tittle up for play (max tick rate 0) at 2021.03.07-20.51.43
+[2021.03.07-18.51.43:905][160]LogWorld: Bringing up level for play took: 0.000380
+[2021.03.07-18.51.43:918][160]PIE: Play in editor start time for /Game/мар/transition_tittle/UEDPIE_0_tr_tittle -0,806
+[2021.03.07-18.51.43:918][160]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel' has LevelScriptBlueprint '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle' with GeneratedClass '/Game/мар/transition_tittle/tr_tittle.tr_tittle_C' with ClassGeneratedBy '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle'
+[2021.03.07-18.52.00:922][200]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel' has LevelScriptBlueprint '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle' with GeneratedClass '/Game/мар/transition_tittle/tr_tittle.tr_tittle_C' with ClassGeneratedBy '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle'
+[2021.03.07-18.52.00:922][200]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.07-18.52.00:955][200]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.07-18.52.00:955][200]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel' has LevelScriptBlueprint '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle' with GeneratedClass '/Game/мар/transition_tittle/tr_tittle.tr_tittle_C' with ClassGeneratedBy '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle'
+[2021.03.07-18.52.00:972][200]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.07-18.52.01:030][207]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2021.03.07-18.52.06:967][919]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.52.11:376][448]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.52.24:401][ 10]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.52.31:388][848]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.52.32:425][972]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.52.33:442][ 94]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.52.38:164][661]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.52.44:576][430]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.52.45:878][586]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.53.01:133][417]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.53.01:215][426]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/particle/smoke_tittle/smoke" FILE="D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/particle/smoke_tittle/smoke.uasset" SILENT=true
+[2021.03.07-18.53.01:229][426]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/smokeF4DA26A4446783E8972583B9E571FD84.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/particle/smoke_tittle/smoke.uasset'
+[2021.03.07-18.53.01:588][469]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.53.03:072][647]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.07-18.53.03:091][647]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel' has LevelScriptBlueprint '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle' with GeneratedClass '/Game/мар/transition_tittle/tr_tittle.tr_tittle_C' with ClassGeneratedBy '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle'
+[2021.03.07-18.53.03:091][647]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.07-18.53.03:091][647]PIE: New page: PIE session: tr_tittle (7 марта 2021, 22:53:03)
+[2021.03.07-18.53.03:091][647]LogPlayLevel: Creating play world package: /Game/мар/transition_tittle/UEDPIE_0_tr_tittle
+[2021.03.07-18.53.03:092][647]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000884s)
+[2021.03.07-18.53.03:093][647]LogAIModule: Creating AISystem for world tr_tittle
+[2021.03.07-18.53.03:093][647]LogPlayLevel: PIE: World Init took: (0.000527s)
+[2021.03.07-18.53.03:093][647]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/мар/transition_tittle/tr_tittle.tr_tittle to /Game/мар/transition_tittle/UEDPIE_0_tr_tittle.tr_tittle (0.001488s)
+[2021.03.07-18.53.03:117][647]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.03.07-18.53.03:129][647]LogInit: FAudioDevice initialized.
+[2021.03.07-18.53.03:155][647]LogLoad: Game class is 'myGameMode_transition_C'
+[2021.03.07-18.53.03:156][647]LogWorld: Bringing World /Game/мар/transition_tittle/UEDPIE_0_tr_tittle.tr_tittle up for play (max tick rate 0) at 2021.03.07-20.53.03
+[2021.03.07-18.53.03:156][647]LogWorld: Bringing up level for play took: 0.000365
+[2021.03.07-18.53.03:168][647]PIE: Play in editor start time for /Game/мар/transition_tittle/UEDPIE_0_tr_tittle 0,444
+[2021.03.07-18.53.03:168][647]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel' has LevelScriptBlueprint '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle' with GeneratedClass '/Game/мар/transition_tittle/tr_tittle.tr_tittle_C' with ClassGeneratedBy '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle'
+[2021.03.07-18.53.06:738][ 75]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel' has LevelScriptBlueprint '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle' with GeneratedClass '/Game/мар/transition_tittle/tr_tittle.tr_tittle_C' with ClassGeneratedBy '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle'
+[2021.03.07-18.53.06:738][ 75]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.07-18.53.06:771][ 75]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.07-18.53.06:771][ 75]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel' has LevelScriptBlueprint '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle' with GeneratedClass '/Game/мар/transition_tittle/tr_tittle.tr_tittle_C' with ClassGeneratedBy '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle'
+[2021.03.07-18.53.06:786][ 75]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.07-18.53.06:844][ 82]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2021.03.07-18.53.16:074][189]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.53.17:342][341]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.53.24:159][159]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.53.25:148][278]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.53.26:117][278]LogSlate: Window 'Color Picker' being destroyed
+[2021.03.07-18.53.27:321][422]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.53.27:988][502]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.53.33:047][109]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.53.34:448][277]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.53.46:165][683]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.53.47:792][878]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.53.56:375][908]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.03.07-18.53.56:375][908]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.03.07-18.54.05:219][969]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.54.06:127][ 78]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.54.11:530][726]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.54.14:114][ 36]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.54.17:862][486]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.54.17:952][496]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/particle/smoke_tittle/smoke" FILE="D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/particle/smoke_tittle/smoke.uasset" SILENT=true
+[2021.03.07-18.54.17:965][496]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/smoke16040ABB4AB36E9C286181973AA6C2AE.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/particle/smoke_tittle/smoke.uasset'
+[2021.03.07-18.54.18:374][545]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.54.19:598][692]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.07-18.54.19:618][692]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel' has LevelScriptBlueprint '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle' with GeneratedClass '/Game/мар/transition_tittle/tr_tittle.tr_tittle_C' with ClassGeneratedBy '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle'
+[2021.03.07-18.54.19:618][692]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.07-18.54.19:618][692]PIE: New page: PIE session: tr_tittle (7 марта 2021, 22:54:19)
+[2021.03.07-18.54.19:618][692]LogPlayLevel: Creating play world package: /Game/мар/transition_tittle/UEDPIE_0_tr_tittle
+[2021.03.07-18.54.19:619][692]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000925s)
+[2021.03.07-18.54.19:619][692]LogAIModule: Creating AISystem for world tr_tittle
+[2021.03.07-18.54.19:619][692]LogPlayLevel: PIE: World Init took: (0.000492s)
+[2021.03.07-18.54.19:619][692]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/мар/transition_tittle/tr_tittle.tr_tittle to /Game/мар/transition_tittle/UEDPIE_0_tr_tittle.tr_tittle (0.001498s)
+[2021.03.07-18.54.19:644][692]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.03.07-18.54.19:656][692]LogInit: FAudioDevice initialized.
+[2021.03.07-18.54.19:687][692]LogLoad: Game class is 'myGameMode_transition_C'
+[2021.03.07-18.54.19:688][692]LogWorld: Bringing World /Game/мар/transition_tittle/UEDPIE_0_tr_tittle.tr_tittle up for play (max tick rate 0) at 2021.03.07-20.54.19
+[2021.03.07-18.54.19:688][692]LogWorld: Bringing up level for play took: 0.000397
+[2021.03.07-18.54.19:701][692]PIE: Play in editor start time for /Game/мар/transition_tittle/UEDPIE_0_tr_tittle 0,977
+[2021.03.07-18.54.19:701][692]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel' has LevelScriptBlueprint '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle' with GeneratedClass '/Game/мар/transition_tittle/tr_tittle.tr_tittle_C' with ClassGeneratedBy '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle'
+[2021.03.07-18.54.35:863][631]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel' has LevelScriptBlueprint '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle' with GeneratedClass '/Game/мар/transition_tittle/tr_tittle.tr_tittle_C' with ClassGeneratedBy '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle'
+[2021.03.07-18.54.35:864][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.07-18.54.35:892][631]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.07-18.54.35:892][631]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel' has LevelScriptBlueprint '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle' with GeneratedClass '/Game/мар/transition_tittle/tr_tittle.tr_tittle_C' with ClassGeneratedBy '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle'
+[2021.03.07-18.54.35:909][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.07-18.54.35:966][638]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.03.07-18.55.21:499][100]LogSlate: Window 'Color Picker' being destroyed
+[2021.03.07-18.55.32:866][462]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/particle/smoke_tittle/smoke" FILE="D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/particle/smoke_tittle/smoke.uasset" SILENT=true
+[2021.03.07-18.55.32:887][462]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/smoke164C1C9C4E795C7B93456A83303F7C5D.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/particle/smoke_tittle/smoke.uasset'
+[2021.03.07-18.55.45:931][ 27]LogSlate: Window 'Color Picker' being destroyed
+[2021.03.07-18.55.56:062][242]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.56.06:826][534]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.56.09:388][841]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.56.14:493][454]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.57.12:035][356]LogSlate: Window 'Color Picker' being destroyed
+[2021.03.07-18.57.22:138][567]LogSlate: Window 'Color Picker' being destroyed
+[2021.03.07-18.57.40:443][763]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.57.49:837][889]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.57.55:866][612]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.58.03:141][480]LogSlate: Window 'Color Picker' being destroyed
+[2021.03.07-18.58.04:216][608]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.58.07:925][ 51]LogSlate: Window 'Color Picker' being destroyed
+[2021.03.07-18.58.28:398][507]LogCascade: Non-seeded module ParticleModuleColorOverLife
+[2021.03.07-18.58.28:402][507]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.58.32:513][999]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.59.00:036][301]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-18.59.02:701][620]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-18.59.25:774][388]LogSlate: Window 'Color Picker' being destroyed
+[2021.03.07-18.59.33:677][336]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-19.00.21:907][121]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/particle/smoke_tittle/smoke" FILE="D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/particle/smoke_tittle/smoke.uasset" SILENT=true
+[2021.03.07-19.00.21:922][121]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/smoke2C0329944B14BC0134A6E4A291E67253.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/particle/smoke_tittle/smoke.uasset'
+[2021.03.07-19.00.24:530][434]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.07-19.00.24:550][434]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel' has LevelScriptBlueprint '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle' with GeneratedClass '/Game/мар/transition_tittle/tr_tittle.tr_tittle_C' with ClassGeneratedBy '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle'
+[2021.03.07-19.00.24:550][434]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.07-19.00.24:550][434]PIE: New page: PIE session: tr_tittle (7 марта 2021, 23:00:24)
+[2021.03.07-19.00.24:550][434]LogPlayLevel: Creating play world package: /Game/мар/transition_tittle/UEDPIE_0_tr_tittle
+[2021.03.07-19.00.24:551][434]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001011s)
+[2021.03.07-19.00.24:552][434]LogAIModule: Creating AISystem for world tr_tittle
+[2021.03.07-19.00.24:552][434]LogPlayLevel: PIE: World Init took: (0.000546s)
+[2021.03.07-19.00.24:552][434]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/мар/transition_tittle/tr_tittle.tr_tittle to /Game/мар/transition_tittle/UEDPIE_0_tr_tittle.tr_tittle (0.001640s)
+[2021.03.07-19.00.24:576][434]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.03.07-19.00.24:589][434]LogInit: FAudioDevice initialized.
+[2021.03.07-19.00.24:614][434]LogLoad: Game class is 'myGameMode_transition_C'
+[2021.03.07-19.00.24:615][434]LogWorld: Bringing World /Game/мар/transition_tittle/UEDPIE_0_tr_tittle.tr_tittle up for play (max tick rate 0) at 2021.03.07-21.00.24
+[2021.03.07-19.00.24:615][434]LogWorld: Bringing up level for play took: 0.000410
+[2021.03.07-19.00.24:628][434]PIE: Play in editor start time for /Game/мар/transition_tittle/UEDPIE_0_tr_tittle -0,096
+[2021.03.07-19.00.24:628][434]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel' has LevelScriptBlueprint '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle' with GeneratedClass '/Game/мар/transition_tittle/tr_tittle.tr_tittle_C' with ClassGeneratedBy '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle'
+[2021.03.07-19.01.02:494][976]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel' has LevelScriptBlueprint '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle' with GeneratedClass '/Game/мар/transition_tittle/tr_tittle.tr_tittle_C' with ClassGeneratedBy '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle'
+[2021.03.07-19.01.02:494][976]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.07-19.01.02:525][976]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.07-19.01.02:525][976]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel' has LevelScriptBlueprint '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle' with GeneratedClass '/Game/мар/transition_tittle/tr_tittle.tr_tittle_C' with ClassGeneratedBy '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle'
+[2021.03.07-19.01.02:542][976]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.07-19.01.02:601][983]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2021.03.07-19.01.11:043][996]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-19.01.13:271][263]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-19.01.15:246][500]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-19.01.19:643][ 28]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-19.01.47:997][429]LogSlate: Window 'Color Picker' being destroyed
+[2021.03.07-19.02.05:197][492]LogSlate: Window 'Color Picker' being destroyed
+[2021.03.07-19.02.11:713][273]LogSlate: Window 'Color Picker' being destroyed
+[2021.03.07-19.02.39:477][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/particle/smoke_tittle/smoke" FILE="D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/particle/smoke_tittle/smoke.uasset" SILENT=true
+[2021.03.07-19.02.39:502][603]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/smoke5BE7C61040ACB7175A83A4A997BE9140.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/particle/smoke_tittle/smoke.uasset'
+[2021.03.07-19.02.41:736][871]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.07-19.02.41:756][871]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel' has LevelScriptBlueprint '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle' with GeneratedClass '/Game/мар/transition_tittle/tr_tittle.tr_tittle_C' with ClassGeneratedBy '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle'
+[2021.03.07-19.02.41:756][871]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.07-19.02.41:756][871]PIE: New page: PIE session: tr_tittle (7 марта 2021, 23:02:41)
+[2021.03.07-19.02.41:756][871]LogPlayLevel: Creating play world package: /Game/мар/transition_tittle/UEDPIE_0_tr_tittle
+[2021.03.07-19.02.41:757][871]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000845s)
+[2021.03.07-19.02.41:757][871]LogAIModule: Creating AISystem for world tr_tittle
+[2021.03.07-19.02.41:757][871]LogPlayLevel: PIE: World Init took: (0.000468s)
+[2021.03.07-19.02.41:757][871]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/мар/transition_tittle/tr_tittle.tr_tittle to /Game/мар/transition_tittle/UEDPIE_0_tr_tittle.tr_tittle (0.001390s)
+[2021.03.07-19.02.41:781][871]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.03.07-19.02.41:792][871]LogInit: FAudioDevice initialized.
+[2021.03.07-19.02.41:819][871]LogLoad: Game class is 'myGameMode_transition_C'
+[2021.03.07-19.02.41:820][871]LogWorld: Bringing World /Game/мар/transition_tittle/UEDPIE_0_tr_tittle.tr_tittle up for play (max tick rate 0) at 2021.03.07-21.02.41
+[2021.03.07-19.02.41:820][871]LogWorld: Bringing up level for play took: 0.000369
+[2021.03.07-19.02.41:833][871]PIE: Play in editor start time for /Game/мар/transition_tittle/UEDPIE_0_tr_tittle -0,892
+[2021.03.07-19.02.41:833][871]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel' has LevelScriptBlueprint '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle' with GeneratedClass '/Game/мар/transition_tittle/tr_tittle.tr_tittle_C' with ClassGeneratedBy '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle'
+[2021.03.07-19.03.57:250][919]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel' has LevelScriptBlueprint '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle' with GeneratedClass '/Game/мар/transition_tittle/tr_tittle.tr_tittle_C' with ClassGeneratedBy '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle'
+[2021.03.07-19.03.57:251][919]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.07-19.03.57:279][919]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.07-19.03.57:279][919]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel' has LevelScriptBlueprint '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle' with GeneratedClass '/Game/мар/transition_tittle/tr_tittle.tr_tittle_C' with ClassGeneratedBy '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle'
+[2021.03.07-19.03.57:296][919]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.07-19.03.57:353][926]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.03.07-19.05.14:050][125]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-19.06.05:836][339]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-19.06.05:945][350]LogTexture: Display: Building textures: ThumbnailTexture (BGRA8, 512X512)
+[2021.03.07-19.06.09:996][834]LogTexture: Display: Building textures: ThumbnailTexture (BGRA8, 512X512)
+[2021.03.07-19.06.48:227][421]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-19.07.01:268][981]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/мар/transition_tittle/tr_tittle' took 0.014
+[2021.03.07-19.07.01:269][981]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/particle/smoke_tittle/smoke] ([1] browsable assets)...
+[2021.03.07-19.07.01:272][981]OBJ SavePackage:     Rendered thumbnail for [ParticleSystem /Game/particle/smoke_tittle/smoke.smoke]
+[2021.03.07-19.07.01:272][981]OBJ SavePackage: Finished generating thumbnails for package [/Game/particle/smoke_tittle/smoke]
+[2021.03.07-19.07.01:278][981]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.03.07-19.07.01:303][981]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/smoke_Auto224CA67504DD260B2D8BF91BD623BD1D9.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/Autosaves/Game/particle/smoke_tittle/smoke_Auto2.uasset'
+[2021.03.07-19.07.01:304][981]LogFileHelpers: Auto-saving content packages took 0.035
+[2021.03.07-19.07.13:836][484]LogSlate: Window 'Color Picker' being destroyed
+[2021.03.07-19.07.26:323][981]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-19.09.08:448][233]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-19.11.44:426][947]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/particle/smoke_tittle/smoke" FILE="D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/particle/smoke_tittle/smoke.uasset" SILENT=true
+[2021.03.07-19.11.44:454][947]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/smoke7F90F8DE473BA9129290E08589486DBC.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/particle/smoke_tittle/smoke.uasset'
+[2021.03.07-19.12.32:729][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/particle/smoke_tittle/smoke" FILE="D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/particle/smoke_tittle/smoke.uasset" SILENT=true
+[2021.03.07-19.12.32:744][739]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/smoke9780B7494B3216A0722EA4A9333C9A43.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/particle/smoke_tittle/smoke.uasset'
+[2021.03.07-19.12.40:120][536]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.03.07-19.12.40:180][537]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.MyProject
+[2021.03.07-19.12.40:180][537]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2021.03.07-19.12.40:180][537]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.20
+[2021.03.07-19.12.40:180][537]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2021.03.07-19.12.40:180][537]LogTemp: BranchPath = DESKTOP-KTCUO5G/C/Program Files/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = DESKTOP-KTCUO5G/C/Program Files/Epic Games/UE_4.20/Engine/Binaries
+[2021.03.07-19.12.40:199][538]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\vovab\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2021.03.07-19.12.42:913][862]LogSlate: Window 'Project Settings' being destroyed
+[2021.03.07-19.12.42:915][862]LogSlate: Window 'Project Settings' being destroyed
+[2021.03.07-19.12.47:895][450]LogAIModule: Creating AISystem for world TestLevel_01
+[2021.03.07-19.12.47:902][450]LogAssetEditorManager: Opening Asset editor for World /Game/мар/Level_01/TestLevel_01.TestLevel_01
+[2021.03.07-19.12.47:917][450]Cmd: MAP LOAD FILE="D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/мар/Level_01/TestLevel_01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.07-19.12.47:917][450]LightingResults: New page: Lighting Build
+[2021.03.07-19.12.47:919][450]LoadErrors: New page: Loading map: TestLevel_01.umap
+[2021.03.07-19.12.47:919][450]MapCheck: New page: Map Check
+[2021.03.07-19.12.47:919][450]LightingResults: New page: Lighting Build
+[2021.03.07-19.12.47:976][450]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.07-19.12.48:025][450]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.07-19.12.48:091][450]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 66,374ms to complete.
+[2021.03.07-19.12.48:091][450]LogFileHelpers: Loading map 'TestLevel_01' took 0.174
+[2021.03.07-19.12.54:588][225]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.07-19.12.54:607][225]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/мар/Level_01/TestLevel_01.TestLevel_01:PersistentLevel' has LevelScriptBlueprint '/Game/мар/Level_01/TestLevel_01.TestLevel_01:PersistentLevel.TestLevel_01' with GeneratedClass '/Game/мар/Level_01/TestLevel_01.TestLevel_01_C' with ClassGeneratedBy '/Game/мар/Level_01/TestLevel_01.TestLevel_01:PersistentLevel.TestLevel_01'
+[2021.03.07-19.12.54:607][225]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.07-19.12.54:607][225]PIE: New page: PIE session: TestLevel_01 (7 марта 2021, 23:12:54)
+[2021.03.07-19.12.54:607][225]LogPlayLevel: Creating play world package: /Game/мар/Level_01/UEDPIE_0_TestLevel_01
+[2021.03.07-19.12.54:610][225]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002266s)
+[2021.03.07-19.12.54:610][225]LogAIModule: Creating AISystem for world TestLevel_01
+[2021.03.07-19.12.54:610][225]LogPlayLevel: PIE: World Init took: (0.000475s)
+[2021.03.07-19.12.54:610][225]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/мар/Level_01/TestLevel_01.TestLevel_01 to /Game/мар/Level_01/UEDPIE_0_TestLevel_01.TestLevel_01 (0.002822s)
+[2021.03.07-19.12.54:634][225]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.03.07-19.12.54:647][225]LogInit: FAudioDevice initialized.
+[2021.03.07-19.12.54:674][225]LogLoad: Game class is 'myGameMode_C'
+[2021.03.07-19.12.54:676][225]LogWorld: Bringing World /Game/мар/Level_01/UEDPIE_0_TestLevel_01.TestLevel_01 up for play (max tick rate 0) at 2021.03.07-21.12.54
+[2021.03.07-19.12.54:676][225]LogWorld: Bringing up level for play took: 0.001644
+[2021.03.07-19.12.54:688][225]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.03.07-19.12.54:689][225]PIE: Play in editor start time for /Game/мар/Level_01/UEDPIE_0_TestLevel_01 -0,035
+[2021.03.07-19.12.54:689][225]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/мар/Level_01/TestLevel_01.TestLevel_01:PersistentLevel' has LevelScriptBlueprint '/Game/мар/Level_01/TestLevel_01.TestLevel_01:PersistentLevel.TestLevel_01' with GeneratedClass '/Game/мар/Level_01/TestLevel_01.TestLevel_01_C' with ClassGeneratedBy '/Game/мар/Level_01/TestLevel_01.TestLevel_01:PersistentLevel.TestLevel_01'
+[2021.03.07-19.12.59:593][813]Cmd: LevelEditor.ToggleImmersive
+[2021.03.07-19.12.59:716][814]LogRenderer: Reallocating scene render targets to support 1356x680 Format 10 NumSamples 1 (Frame:590).
+[2021.03.07-19.12.59:755][815]LogRenderer: Reallocating scene render targets to support 1680x1012 Format 10 NumSamples 1 (Frame:592).
+[2021.03.07-19.12.59:797][816]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-19.15.51:789][451]LogNet: Browse: /Game/мар/transition_tittle/tr_tittle
+[2021.03.07-19.15.51:789][451]LogLoad: LoadMap: /Game/мар/transition_tittle/tr_tittle
+[2021.03.07-19.15.51:825][451]LogAIModule: Creating AISystem for world tr_tittle
+[2021.03.07-19.15.51:826][451]LogLoad: Game class is 'myGameMode_transition_C'
+[2021.03.07-19.15.51:827][451]LogWorld: Bringing World /Game/мар/transition_tittle/UEDPIE_0_tr_tittle.tr_tittle up for play (max tick rate 0) at 2021.03.07-21.15.51
+[2021.03.07-19.15.51:827][451]LogWorld: Bringing up level for play took: 0.000629
+[2021.03.07-19.15.51:827][451]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.03.07-19.15.51:828][451]LogLoad: Took 0.039808 seconds to LoadMap(/Game/мар/transition_tittle/tr_tittle)
+[2021.03.07-19.16.07:135][288]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-19.16.27:619][745]LogNet: Browse: /Game/мар/Level_01/TestLevel_01
+[2021.03.07-19.16.27:619][745]LogLoad: LoadMap: /Game/мар/Level_01/TestLevel_01
+[2021.03.07-19.16.27:634][745]LogPlayLevel: Creating play world package: /Game/мар/Level_01/UEDPIE_0_TestLevel_01
+[2021.03.07-19.16.27:636][745]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002253s)
+[2021.03.07-19.16.27:637][745]LogAIModule: Creating AISystem for world TestLevel_01
+[2021.03.07-19.16.27:637][745]LogPlayLevel: PIE: World Init took: (0.000453s)
+[2021.03.07-19.16.27:637][745]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/мар/Level_01/TestLevel_01.TestLevel_01 to /Game/мар/Level_01/UEDPIE_0_TestLevel_01.TestLevel_01 (0.002819s)
+[2021.03.07-19.16.27:637][745]LogLoad: Game class is 'myGameMode_C'
+[2021.03.07-19.16.27:638][745]LogWorld: Bringing World /Game/мар/Level_01/UEDPIE_0_TestLevel_01.TestLevel_01 up for play (max tick rate 0) at 2021.03.07-21.16.27
+[2021.03.07-19.16.27:639][745]LogWorld: Bringing up level for play took: 0.001326
+[2021.03.07-19.16.27:639][745]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.03.07-19.16.27:640][745]LogLoad: Took 0.021070 seconds to LoadMap(/Game/мар/Level_01/UEDPIE_0_TestLevel_01)
+[2021.03.07-19.22.08:340][622]Cmd: LevelEditor.ToggleImmersive
+[2021.03.07-19.22.09:633][758]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/мар/Level_01/TestLevel_01.TestLevel_01:PersistentLevel' has LevelScriptBlueprint '/Game/мар/Level_01/TestLevel_01.TestLevel_01:PersistentLevel.TestLevel_01' with GeneratedClass '/Game/мар/Level_01/TestLevel_01.TestLevel_01_C' with ClassGeneratedBy '/Game/мар/Level_01/TestLevel_01.TestLevel_01:PersistentLevel.TestLevel_01'
+[2021.03.07-19.22.09:633][758]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.07-19.22.09:661][758]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.07-19.22.09:661][758]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/мар/Level_01/TestLevel_01.TestLevel_01:PersistentLevel' has LevelScriptBlueprint '/Game/мар/Level_01/TestLevel_01.TestLevel_01:PersistentLevel.TestLevel_01' with GeneratedClass '/Game/мар/Level_01/TestLevel_01.TestLevel_01_C' with ClassGeneratedBy '/Game/мар/Level_01/TestLevel_01.TestLevel_01:PersistentLevel.TestLevel_01'
+[2021.03.07-19.22.09:677][758]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.07-19.22.09:735][764]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.03.07-19.22.14:177][297]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-19.22.17:614][707]LogAIModule: Creating AISystem for world tr_tittle
+[2021.03.07-19.22.17:616][707]LogAssetEditorManager: Opening Asset editor for World /Game/мар/transition_tittle/tr_tittle.tr_tittle
+[2021.03.07-19.22.17:631][707]Cmd: MAP LOAD FILE="D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/мар/transition_tittle/tr_tittle.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.07-19.22.17:631][707]LightingResults: New page: Lighting Build
+[2021.03.07-19.22.17:632][707]LoadErrors: New page: Loading map: tr_tittle.umap
+[2021.03.07-19.22.17:632][707]MapCheck: New page: Map Check
+[2021.03.07-19.22.17:632][707]LightingResults: New page: Lighting Build
+[2021.03.07-19.22.17:683][707]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.07-19.22.17:733][707]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.07-19.22.17:800][707]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 67,138ms to complete.
+[2021.03.07-19.22.17:800][707]LogFileHelpers: Loading map 'tr_tittle' took 0.169
+[2021.03.07-19.22.20:828][ 66]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.07-19.22.20:848][ 66]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel' has LevelScriptBlueprint '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle' with GeneratedClass '/Game/мар/transition_tittle/tr_tittle.tr_tittle_C' with ClassGeneratedBy '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle'
+[2021.03.07-19.22.20:848][ 66]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.07-19.22.20:848][ 66]PIE: New page: PIE session: tr_tittle (7 марта 2021, 23:22:20)
+[2021.03.07-19.22.20:848][ 66]LogPlayLevel: Creating play world package: /Game/мар/transition_tittle/UEDPIE_0_tr_tittle
+[2021.03.07-19.22.20:849][ 66]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000832s)
+[2021.03.07-19.22.20:849][ 66]LogAIModule: Creating AISystem for world tr_tittle
+[2021.03.07-19.22.20:849][ 66]LogPlayLevel: PIE: World Init took: (0.000465s)
+[2021.03.07-19.22.20:849][ 66]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/мар/transition_tittle/tr_tittle.tr_tittle to /Game/мар/transition_tittle/UEDPIE_0_tr_tittle.tr_tittle (0.001375s)
+[2021.03.07-19.22.20:874][ 66]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.03.07-19.22.20:886][ 66]LogInit: FAudioDevice initialized.
+[2021.03.07-19.22.20:915][ 66]LogLoad: Game class is 'myGameMode_transition_C'
+[2021.03.07-19.22.20:916][ 66]LogWorld: Bringing World /Game/мар/transition_tittle/UEDPIE_0_tr_tittle.tr_tittle up for play (max tick rate 0) at 2021.03.07-21.22.20
+[2021.03.07-19.22.20:917][ 66]LogWorld: Bringing up level for play took: 0.000421
+[2021.03.07-19.22.20:930][ 66]PIE: Play in editor start time for /Game/мар/transition_tittle/UEDPIE_0_tr_tittle 0,205
+[2021.03.07-19.22.20:930][ 66]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel' has LevelScriptBlueprint '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle' with GeneratedClass '/Game/мар/transition_tittle/tr_tittle.tr_tittle_C' with ClassGeneratedBy '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle'
+[2021.03.07-19.22.50:601][625]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel' has LevelScriptBlueprint '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle' with GeneratedClass '/Game/мар/transition_tittle/tr_tittle.tr_tittle_C' with ClassGeneratedBy '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle'
+[2021.03.07-19.22.50:601][625]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.07-19.22.50:629][625]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.07-19.22.50:629][625]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel' has LevelScriptBlueprint '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle' with GeneratedClass '/Game/мар/transition_tittle/tr_tittle.tr_tittle_C' with ClassGeneratedBy '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle'
+[2021.03.07-19.22.50:645][625]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.07-19.22.50:703][632]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.03.07-19.24.04:189][446]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-19.24.20:165][363]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2021.03.07-19.24.22:106][584]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-19.24.26:341][ 92]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-19.24.26:424][102]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.07-19.24.26:443][102]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel' has LevelScriptBlueprint '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle' with GeneratedClass '/Game/мар/transition_tittle/tr_tittle.tr_tittle_C' with ClassGeneratedBy '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle'
+[2021.03.07-19.24.26:443][102]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.07-19.24.26:443][102]PIE: New page: PIE session: tr_tittle (7 марта 2021, 23:24:26)
+[2021.03.07-19.24.26:443][102]LogPlayLevel: Creating play world package: /Game/мар/transition_tittle/UEDPIE_0_tr_tittle
+[2021.03.07-19.24.26:444][102]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000929s)
+[2021.03.07-19.24.26:445][102]LogAIModule: Creating AISystem for world tr_tittle
+[2021.03.07-19.24.26:445][102]LogPlayLevel: PIE: World Init took: (0.000514s)
+[2021.03.07-19.24.26:445][102]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/мар/transition_tittle/tr_tittle.tr_tittle to /Game/мар/transition_tittle/UEDPIE_0_tr_tittle.tr_tittle (0.001526s)
+[2021.03.07-19.24.26:498][102]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.03.07-19.24.26:510][102]LogInit: FAudioDevice initialized.
+[2021.03.07-19.24.26:537][102]LogLoad: Game class is 'myGameMode_transition_C'
+[2021.03.07-19.24.26:538][102]LogWorld: Bringing World /Game/мар/transition_tittle/UEDPIE_0_tr_tittle.tr_tittle up for play (max tick rate 0) at 2021.03.07-21.24.26
+[2021.03.07-19.24.26:539][102]LogWorld: Bringing up level for play took: 0.000407
+[2021.03.07-19.24.26:551][102]PIE: Play in editor start time for /Game/мар/transition_tittle/UEDPIE_0_tr_tittle -0,174
+[2021.03.07-19.24.26:551][102]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel' has LevelScriptBlueprint '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle' with GeneratedClass '/Game/мар/transition_tittle/tr_tittle.tr_tittle_C' with ClassGeneratedBy '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle'
+[2021.03.07-19.24.56:817][732]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-19.25.05:018][712]LogSlate: Window 'Color Picker' being destroyed
+[2021.03.07-19.25.06:490][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/particle/smoke_tittle/smoke" FILE="D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/particle/smoke_tittle/smoke.uasset" SILENT=true
+[2021.03.07-19.25.06:513][887]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/smoke483CAB854014109F6300DF851C9B6BBD.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/particle/smoke_tittle/smoke.uasset'
+[2021.03.07-19.25.12:820][644]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel' has LevelScriptBlueprint '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle' with GeneratedClass '/Game/мар/transition_tittle/tr_tittle.tr_tittle_C' with ClassGeneratedBy '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle'
+[2021.03.07-19.25.12:820][644]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.07-19.25.12:848][644]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.07-19.25.12:848][644]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel' has LevelScriptBlueprint '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle' with GeneratedClass '/Game/мар/transition_tittle/tr_tittle.tr_tittle_C' with ClassGeneratedBy '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle'
+[2021.03.07-19.25.12:864][644]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.07-19.25.12:922][651]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.03.07-19.25.16:331][ 60]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.07-19.25.16:351][ 60]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel' has LevelScriptBlueprint '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle' with GeneratedClass '/Game/мар/transition_tittle/tr_tittle.tr_tittle_C' with ClassGeneratedBy '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle'
+[2021.03.07-19.25.16:351][ 60]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.07-19.25.16:351][ 60]PIE: New page: PIE session: tr_tittle (7 марта 2021, 23:25:16)
+[2021.03.07-19.25.16:351][ 60]LogPlayLevel: Creating play world package: /Game/мар/transition_tittle/UEDPIE_0_tr_tittle
+[2021.03.07-19.25.16:352][ 60]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000835s)
+[2021.03.07-19.25.16:352][ 60]LogAIModule: Creating AISystem for world tr_tittle
+[2021.03.07-19.25.16:352][ 60]LogPlayLevel: PIE: World Init took: (0.000465s)
+[2021.03.07-19.25.16:352][ 60]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/мар/transition_tittle/tr_tittle.tr_tittle to /Game/мар/transition_tittle/UEDPIE_0_tr_tittle.tr_tittle (0.001377s)
+[2021.03.07-19.25.16:378][ 60]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.03.07-19.25.16:389][ 60]LogInit: FAudioDevice initialized.
+[2021.03.07-19.25.16:420][ 60]LogLoad: Game class is 'myGameMode_transition_C'
+[2021.03.07-19.25.16:421][ 60]LogWorld: Bringing World /Game/мар/transition_tittle/UEDPIE_0_tr_tittle.tr_tittle up for play (max tick rate 0) at 2021.03.07-21.25.16
+[2021.03.07-19.25.16:421][ 60]LogWorld: Bringing up level for play took: 0.000362
+[2021.03.07-19.25.16:434][ 60]PIE: Play in editor start time for /Game/мар/transition_tittle/UEDPIE_0_tr_tittle -0,291
+[2021.03.07-19.25.16:434][ 60]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel' has LevelScriptBlueprint '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle' with GeneratedClass '/Game/мар/transition_tittle/tr_tittle.tr_tittle_C' with ClassGeneratedBy '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle'
+[2021.03.07-19.28.35:477][939]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel' has LevelScriptBlueprint '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle' with GeneratedClass '/Game/мар/transition_tittle/tr_tittle.tr_tittle_C' with ClassGeneratedBy '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle'
+[2021.03.07-19.28.35:477][939]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.07-19.28.35:507][939]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.07-19.28.35:507][939]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel' has LevelScriptBlueprint '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle' with GeneratedClass '/Game/мар/transition_tittle/tr_tittle.tr_tittle_C' with ClassGeneratedBy '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle'
+[2021.03.07-19.28.35:523][939]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.07-19.28.35:581][946]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2021.03.07-19.28.46:847][297]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-19.29.00:450][929]LogSlate: Window 'Color Picker' being destroyed
+[2021.03.07-19.29.09:487][ 12]LogSlate: Window 'Color Picker' being destroyed
+[2021.03.07-19.29.40:889][778]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/particle/smoke_tittle/smoke" FILE="D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/particle/smoke_tittle/smoke.uasset" SILENT=true
+[2021.03.07-19.29.40:907][778]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/smoke82A90DA242A223A10A0454A7DAE3186D.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/particle/smoke_tittle/smoke.uasset'
+[2021.03.07-19.30.56:574][849]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.07-19.30.56:595][849]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel' has LevelScriptBlueprint '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle' with GeneratedClass '/Game/мар/transition_tittle/tr_tittle.tr_tittle_C' with ClassGeneratedBy '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle'
+[2021.03.07-19.30.56:595][849]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.07-19.30.56:595][849]PIE: New page: PIE session: tr_tittle (7 марта 2021, 23:30:56)
+[2021.03.07-19.30.56:595][849]LogPlayLevel: Creating play world package: /Game/мар/transition_tittle/UEDPIE_0_tr_tittle
+[2021.03.07-19.30.56:596][849]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001055s)
+[2021.03.07-19.30.56:597][849]LogAIModule: Creating AISystem for world tr_tittle
+[2021.03.07-19.30.56:597][849]LogPlayLevel: PIE: World Init took: (0.000625s)
+[2021.03.07-19.30.56:597][849]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/мар/transition_tittle/tr_tittle.tr_tittle to /Game/мар/transition_tittle/UEDPIE_0_tr_tittle.tr_tittle (0.001778s)
+[2021.03.07-19.30.56:650][849]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.03.07-19.30.56:662][849]LogInit: FAudioDevice initialized.
+[2021.03.07-19.30.56:690][849]LogLoad: Game class is 'myGameMode_transition_C'
+[2021.03.07-19.30.56:690][849]LogWorld: Bringing World /Game/мар/transition_tittle/UEDPIE_0_tr_tittle.tr_tittle up for play (max tick rate 0) at 2021.03.07-21.30.56
+[2021.03.07-19.30.56:692][849]LogWorld: Bringing up level for play took: 0.000394
+[2021.03.07-19.30.56:704][849]PIE: Play in editor start time for /Game/мар/transition_tittle/UEDPIE_0_tr_tittle -0,021
+[2021.03.07-19.30.56:704][849]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel' has LevelScriptBlueprint '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle' with GeneratedClass '/Game/мар/transition_tittle/tr_tittle.tr_tittle_C' with ClassGeneratedBy '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle'
+[2021.03.07-19.31.06:532][ 28]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel' has LevelScriptBlueprint '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle' with GeneratedClass '/Game/мар/transition_tittle/tr_tittle.tr_tittle_C' with ClassGeneratedBy '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle'
+[2021.03.07-19.31.06:532][ 28]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.07-19.31.06:566][ 28]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.07-19.31.06:566][ 28]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel' has LevelScriptBlueprint '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle' with GeneratedClass '/Game/мар/transition_tittle/tr_tittle.tr_tittle_C' with ClassGeneratedBy '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle'
+[2021.03.07-19.31.06:583][ 28]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.07-19.31.06:633][ 34]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2021.03.07-19.33.19:245][924]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/load_screen.load_screen
+[2021.03.07-19.33.19:760][924]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2021.03.07-19.33.20:430][924]LogSlate: Took 0.004958 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.03.07-19.36.15:300][708]LogSlate: Took 0.037532 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.03.07-19.42.00:576][325]BlueprintLog: New page: Compile load_screen
+[2021.03.07-19.42.01:545][414]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/load_screen" FILE="D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/UI/load_screen.uasset" SILENT=true
+[2021.03.07-19.42.01:558][414]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/load_screen8274A5E34C6D696FF9AE98BB41D68CC0.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/UI/load_screen.uasset'
+[2021.03.07-19.42.04:971][807]LogSlate: Window 'load_screen' being destroyed
+[2021.03.07-19.42.09:875][389]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/transition_main_level.transition_main_level
+[2021.03.07-19.44.06:977][279]BlueprintLog: New page: Compile transition_main_level
+[2021.03.07-19.44.17:940][384]LogSlate: Window 'transition_main_level*' being destroyed
+[2021.03.07-19.44.24:729][193]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/transition_center_panel.transition_center_panel
+[2021.03.07-19.44.53:945][637]LogSlate: Took 0.005026 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.03.07-19.45.08:312][360]BlueprintLog: New page: Compile transition_center_panel
+[2021.03.07-19.45.08:880][414]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/transition_center_panel" FILE="D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/UI/transition_center_panel.uasset" SILENT=true
+[2021.03.07-19.45.08:905][414]LogSavePackage: Moving 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Saved/transition_center_panel43B7963B40CA6E8DFFB4C69265FF7568.tmp' to 'D:/UnrealEngineProjects/UE4_Test_2D_game/MyProject/Content/UI/transition_center_panel.uasset'
+[2021.03.07-19.45.10:383][591]LogSlate: Window 'transition_center_panel' being destroyed
+[2021.03.07-19.45.11:362][704]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.07-19.45.11:381][704]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel' has LevelScriptBlueprint '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle' with GeneratedClass '/Game/мар/transition_tittle/tr_tittle.tr_tittle_C' with ClassGeneratedBy '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle'
+[2021.03.07-19.45.11:381][704]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.07-19.45.11:382][704]PIE: New page: PIE session: tr_tittle (7 марта 2021, 23:45:11)
+[2021.03.07-19.45.11:382][704]LogPlayLevel: Creating play world package: /Game/мар/transition_tittle/UEDPIE_0_tr_tittle
+[2021.03.07-19.45.11:383][704]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000883s)
+[2021.03.07-19.45.11:383][704]LogAIModule: Creating AISystem for world tr_tittle
+[2021.03.07-19.45.11:383][704]LogPlayLevel: PIE: World Init took: (0.000485s)
+[2021.03.07-19.45.11:383][704]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/мар/transition_tittle/tr_tittle.tr_tittle to /Game/мар/transition_tittle/UEDPIE_0_tr_tittle.tr_tittle (0.001447s)
+[2021.03.07-19.45.11:442][704]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.03.07-19.45.11:455][704]LogInit: FAudioDevice initialized.
+[2021.03.07-19.45.11:486][704]LogLoad: Game class is 'myGameMode_transition_C'
+[2021.03.07-19.45.11:487][704]LogWorld: Bringing World /Game/мар/transition_tittle/UEDPIE_0_tr_tittle.tr_tittle up for play (max tick rate 0) at 2021.03.07-21.45.11
+[2021.03.07-19.45.11:487][704]LogWorld: Bringing up level for play took: 0.000469
+[2021.03.07-19.45.11:501][704]PIE: Play in editor start time for /Game/мар/transition_tittle/UEDPIE_0_tr_tittle 0,776
+[2021.03.07-19.45.11:501][704]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel' has LevelScriptBlueprint '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle' with GeneratedClass '/Game/мар/transition_tittle/tr_tittle.tr_tittle_C' with ClassGeneratedBy '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle'
+[2021.03.07-19.45.27:480][621]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel' has LevelScriptBlueprint '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle' with GeneratedClass '/Game/мар/transition_tittle/tr_tittle.tr_tittle_C' with ClassGeneratedBy '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle'
+[2021.03.07-19.45.27:480][621]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.07-19.45.27:513][621]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.07-19.45.27:513][621]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel' has LevelScriptBlueprint '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle' with GeneratedClass '/Game/мар/transition_tittle/tr_tittle.tr_tittle_C' with ClassGeneratedBy '/Game/мар/transition_tittle/tr_tittle.tr_tittle:PersistentLevel.tr_tittle'
+[2021.03.07-19.45.27:534][621]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.07-19.45.27:584][627]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2021.03.07-19.45.35:435][569]LogCascade: Quitting Cascade. FXSystem=0x000002782CF87A60
+[2021.03.07-19.45.43:700][547]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/load_screen.load_screen
+[2021.03.07-19.45.52:204][537]LogSlate: Window 'load_screen' being destroyed
+[2021.03.07-19.45.58:872][331]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/мар/transition_tittle/obj.obj
+[2021.03.07-19.46.01:697][631]LogUObjectArray: Warning: Other object in slot
+[2021.03.07-19.46.02:610][631]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.913 s
+[2021.03.07-19.46.02:610][631]LogOutputDevice: Error: === Handled ensure: ===
+[2021.03.07-19.46.02:610][631]LogOutputDevice: Error: 
+[2021.03.07-19.46.02:610][631]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1142]
+[2021.03.07-19.46.02:610][631]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2021.03.07-19.46.02:610][631]LogOutputDevice: Error: Stack: 
+[2021.03.07-19.46.02:610][631]LogOutputDevice: Error: [Callstack] 0x00007ffaf1cf7136 UE4Editor-Core.dll!UnknownFunction []
+[2021.03.07-19.46.02:610][631]LogOutputDevice: Error: [Callstack] 0x00007ffaf1a30c82 UE4Editor-Core.dll!UnknownFunction []
+[2021.03.07-19.46.02:610][631]LogOutputDevice: Error: [Callstack] 0x00007ffaf1a4b346 UE4Editor-Core.dll!UnknownFunction []
+[2021.03.07-19.46.02:610][631]LogOutputDevice: Error: [Callstack] 0x00007ffad4cc0c6b UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.03.07-19.46.02:610][631]LogOutputDevice: Error: [Callstack] 0x00007ffad4cd009e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.03.07-19.46.02:610][631]LogOutputDevice: Error: [Callstack] 0x00007ffae025da3a UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2021.03.07-19.46.02:610][631]LogOutputDevice: Error: [Callstack] 0x00007ffada46ec2a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.03.07-19.46.02:610][631]LogOutputDevice: Error: [Callstack] 0x00007ffada42f337 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.03.07-19.46.02:610][631]LogOutputDevice: Error: [Callstack] 0x00007ffae9718204 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.07-19.46.02:610][631]LogOutputDevice: Error: [Callstack] 0x00007ffae995e933 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.07-19.46.02:610][631]LogOutputDevice: Error: [Callstack] 0x00007ffae977281a UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.07-19.46.02:610][631]LogOutputDevice: Error: [Callstack] 0x00007ffae9748190 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.07-19.46.02:611][631]LogOutputDevice: Error: [Callstack] 0x00007ffae973b073 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.07-19.46.02:611][631]LogOutputDevice: Error: [Callstack] 0x00007ffaf13fd007 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.07-19.46.02:611][631]LogOutputDevice: Error: [Callstack] 0x00007ffaf13f0270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.07-19.46.02:611][631]LogOutputDevice: Error: [Callstack] 0x00007ffaf13ff4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.07-19.46.02:611][631]LogOutputDevice: Error: [Callstack] 0x00007ffaf13ec209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.07-19.46.02:611][631]LogOutputDevice: Error: [Callstack] 0x00007ffb2daae858 USER32.dll!UnknownFunction []
+[2021.03.07-19.46.02:611][631]LogOutputDevice: Error: [Callstack] 0x00007ffb2daae299 USER32.dll!UnknownFunction []
+[2021.03.07-19.46.02:611][631]LogOutputDevice: Error: [Callstack] 0x00007ffaf1400646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.07-19.46.02:611][631]LogOutputDevice: Error: [Callstack] 0x00007ff6801554e5 UE4Editor.exe!UnknownFunction []
+[2021.03.07-19.46.02:611][631]LogOutputDevice: Error: [Callstack] 0x00007ff680165b3c UE4Editor.exe!UnknownFunction []
+[2021.03.07-19.46.02:611][631]LogOutputDevice: Error: [Callstack] 0x00007ff680165bba UE4Editor.exe!UnknownFunction []
+[2021.03.07-19.46.02:611][631]LogOutputDevice: Error: [Callstack] 0x00007ff680173dac UE4Editor.exe!UnknownFunction []
+[2021.03.07-19.46.02:611][631]LogOutputDevice: Error: [Callstack] 0x00007ff680175aaa UE4Editor.exe!UnknownFunction []
+[2021.03.07-19.46.02:611][631]LogOutputDevice: Error: [Callstack] 0x00007ffb2f027034 KERNEL32.DLL!UnknownFunction []
+[2021.03.07-19.46.02:611][631]LogOutputDevice: Error: [Callstack] 0x00007ffb2f1fd241 ntdll.dll!UnknownFunction []
+[2021.03.07-19.46.02:611][631]LogOutputDevice: Error: 
+[2021.03.07-19.46.02:622][631]LogStats:                SubmitErrorReport -  0.000 s
